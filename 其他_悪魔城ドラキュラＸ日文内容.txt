@@ -1,0 +1,181 @@
+あくま（悪魔）
+アルーカド		阿鲁卡多
+ドラキュラ		德库拉
+リヒター		里希特
+Vampire	ヴァンバイア	吸血鬼 
+ヴァルマンウェ	（俗称真空刃，据考证是某风神的名字）
+ようとうむらまさ		妖刀村正
+オリハルコン	（某拳套的名字，欧里哈康？）
+Medusa		メディウサ		美杜莎
+ホーリー
+ソード
+buster		バスター
+Gram		グラム		某名刀，格拉姆~北欧里面也有这把刀~四神器之一来的
+まさむね		正宗
+shield		シールド
+knight		ナイト
+iron		アイアン
+dark		ダーク
+axe		アックス
+armor		アーマー
+dance		ダンス
+mask		マスク
+mail		メイル
+silver		シルバー		ぎん（銀）
+chest		チェスト
+gold		ゴールド		きん（金）
+platinum		プラチナ		白金
+spike		スパイク
+breaker		ブレイカ
+god		ゴッド
+walk	ウォーク
+master		マスター
+elf		エルフ
+robe		ローブ
+cloth		クロス
+blue		ブルー
+order		オーダー
+made		メイド
+diamond		ダイアモンド
+gauntlet		ガントレット	长手套，保护手套
+king		キング
+stone		ストーン
+sun		サン
+moon		モーン
+secret		シークレット
+talisman		タリスマン		护身符
+duplicator		デュプリケーター		复制机
+necklace		ネックレス
+heart		ハート
+blood		ブラッド
+pendant		ペンダント		垂饰、挂件
+medal		メダル
+rare		レア
+ring		リング
+capsule		カプセル
+knife		ナイフ
+magic		マジック
+magical		マジカル
+missile		ミサイル
+bomb		ボム
+coin		コイン
+attack		アタック
+potion		ポーション
+Ex.potion		イクスポーション
+repair		リペア
+high		ハイ
+hammer		ハンマー
+resist	レジスト
+ice		アイス
+thunder		サンダー
+fire		ファイア
+lunch		ランチ
+cream		クラーム
+rice		ライス
+short		ショート
+cake	ケーキ
+turkey		ターキー
+cheese		チーズ
+pineapple		パイナップル
+banana		バナナ
+peanuts		ピーナッツ
+beef	ビーフ
+beer	ビール
+pizza	ピザ
+meat	ミート
+morning	モーニング
+set		セット
+wine	ワイン
+soul		ソウル
+of		オブ
+bat		バット
+echo		エコー
+crazy		クレイジー
+wolf		ウルフ
+power		パワー
+skill		スキル
+mist		ミスト
+gas		ガス
+cloud		クラウド
+cube		キューブ
+boots		ブーツ
+symbol		シンボル
+jewel		ジュエル
+ghost		ゴースト
+red		レッド
+skeleton	スケルトン
+spin		スピン
+head	ヘッド
+zombie	ゾンビ
+water		ウォーター
+beast		ビースト
+soldier		ソルジャー
+table		テーブル
+sub		サブ
+evil		デビル
+skull	スカル		どくろ（髑髏）
+toad	トード		蟾蜍
+great		グレート
+
+skeleton		スケルトン
+grape		ぶどう
+strawberry		いちご
+gun		ガン
+man		マン
+devil		デビル
+archer		アーチャー
+tail			テイル
+ape		エイプ
+owl		ふくろう
+victory		ヴィクトリー
+uncurse		アンカース
+blue		ブルー
+rapier		レイピア
+frog		フロッグ
+frozen		フローズン
+shade		シェイド
+ice cream		アイスクリーム
+star	スター
+black		ブラック
+crow		クロウ
+bastard		バスタード
+spear		スピア
+Slime		スライム
+big		ビッグ
+werewolf		ウェアウルフ
+grave		グレイブ
+apple		りんご
+dead		デッド
+gardener		ガーデナー
+fish		フィッシュ
+heaven		ヘブンズ
+demon		デーモン
+combat		コンバット
+large		ラージ
+disk		ディスク
+Cerberus		ケルベロス
+すし		寿司
+カタナ	武士刀
+Scarecrow		スケアクロウ		稻草人
+lion		ライオン
+ラーメン			拉面
+boy		ボーイ
+balloon		バルーン
+copper		カッバー
+wraith		レイス
+throw			スロー
+sonic			ソニック
+blade			ブレード
+double		ダブル
+white		ホライト
+dragon		ドラゴン
+sniper			スナイパー
+rock		ロック
+guardian		ガーディアン
+flame		フレイム
+evil			エビル
+imp		インプ
+fake		フェイク
+Ifrit			イフリート		Ifrit是精灵的一种。并不是单指某个火神或火魔其性格凶暴且急躁，模样严厉。能操纵各种各样的魔法。有着变身等常人所没有的力量。据说能自由地操纵火焰。在西洋文化圈里有着把异教的神作为恶魔看待的事情，而那副可怕的身姿更是促使其被认为是恶魔。
+Maria Renard		マリア·ラーネッド
+Death		デス
