@@ -12451,3 +12451,53 @@
 「はあ……まったく、どこを見ている。……彼女は考古学者になったと聞いている。おそらく、その活動着だろう」
     考古学者            こうこがくしゃ
     活動着          かつどうぎ
+「考古学者の基本はフィールドワークだぞ。野外行動が主だし、最低限モンスターに対処できる装備も必要だ」
+    主          おも
+「ああ、だから戦士の養成学園に通っていたわけが」
+    養成            ようせい
+「何か私でお手伝いできることがあれば遠慮なく言ってください。だって私たちは全てをさらけ出しあった仲じゃないですかが」
+    さらけ出す          曝け出す            さらけだす          to expose, to disclose, to lay bare, to confess
+「え、ええと、アジモフ領の機密に関わっているから詳しくは話せないんです。ごめんなさい」
+    関わる          かかわる
+「ご、誤解を招くような言い方は控えましょう。ほら、周りの人もさっきからちらちらと見ているから、ね」
+    招く            まねく
+「学生時代のように朝まで愛について語り合って夜明けのモーニングコーヒーを飲むのはどうでしょうか !」
+    語り合う            かたりあう          to talk together
+    夜明け          よあけ          dawn, daybreak
+「ちなみに、自分の恋愛観について語り合って、うっかり徹夜した翌朝に眠気覚ましのコーヒーを飲んだだけだからな」
+    うっかり            carelessly, thoughtlessly, inadvertently
+    翌朝            よくあさ            next morning
+    眠気覚まし          ねむけざまし            keeping oneself awake, fighting off drowsiness, method for keeping oneself awake
+「えへへ、久しぶりにシャロちゃん成分を堪能です]
+    成分            せいぶん            ingredient, component, composition
+英雄病に罹って死ぬ覚悟を決めていたユラギはシャロにも連絡を入れていなかったことを指摘されて気まずそうに俯いた。
+    俯く            うつむく
+「そのようですね......でも、治療しないとご飯も食べに行けませんよ。一応は感染する病気ですから......」
+    一応            一往            more or less, though not quite satisfactorily, after a fashion, pretty much, roughly, so far as it goes
+「えー......」
+「地元の人は予防接種を受けているので平気ですけど、旅行者を保護するために立ち入りを制限している街もあります」
+    予防接種            よぼうせっしゅ
+    保護            ほご
+(ふむ、本当に仲が良かったんだろうな。優等生タイプのシャロ、元気なカノ、ちょっと天然なユラギという感じかな)
+    優等生          ゆうとうせい
+    天然            てんねん
+シャーロットは見つめているアレクに気付くと戸惑いつつも水を向けた。
+    水を向ける          みずをむける            to take a stab at arousing someone's interest
+屈託のない笑みを浮かべて頭を下げると、たわわに実った二つの双丘が大きく揺れた。
+    屈託            くったく            worry, care, concern
+    実る            稔る            みのる          to bear fruit, to ripen
+「か、勘違いするなよ! あくまで医者として気になるから触診しようとしただけだ」
+    触診            しょくしん
+「いやいや、そんなわけないだろう。タウロス様に言い付けるぞ」
+    言い付ける          いいつける          to tell (to do), to order, to charge, to direct
+「そうか、無理強いするつもりない」
+    無理強い            むりじい            compulsion, insistence, pressure, extortion
+「当たり前だ！無理やり触診なんてしたら問答無用でお縄になるぞ」
+    問答無用            もんどうむよう          there being no use in arguing (about it)
+「言動は限りなく変態っぽいが、医者なのは本当だし、実は僕とユラギの……その、旦那様なんだ」
+    言動            げんどう            speech and conduct, words and deeds
+    限りない            かぎりない          eternal, unlimited, endless
+アレクたちはシャロに経緯を説明しつつホスピスへと向かうことにした。
+    経緯            いきさつ            けいい          details, particulars, whole story, sequence of events
+「む、先客がいるようだぞ」
+    先客            せんきゃく          the preceding visitor
