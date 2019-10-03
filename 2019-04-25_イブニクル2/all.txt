@@ -12501,3 +12501,71 @@
     経緯            いきさつ            けいい          details, particulars, whole story, sequence of events
 「む、先客がいるようだぞ」
     先客            せんきゃく          the preceding visitor
+「ん? 珍しいな、医者のバカンスか ?」
+    バカンス            holidays, vacation
+怪訝に思いつつ中の様子を窺うと、室内から騒々しい笑い声が聞こてきた。
+    怪訝            けげん          dubious, puzzled, suspicious
+    騒々しい            そうぞうしい
+「それはいいっすけど、連れてきてもヤナのアニキが好みじゃないっていつも追い返すじゃねですか」
+    好み            このみ          liking, taste, choice
+    追い返す            おいかえす          to drive away, to turn away, to send away, to repel, to repulse
+「ブスを連れてくるからだろうが !化粧してブスな奴とか、落としたらどんな化け物になるんだよ」
+    ブス            extremely ugly woman
+    化粧            けしょう
+ホスピスの室内ではがらの悪い若者たちが酒を飲みながらくだを巻いていた。
+    柄が悪い            がらがわるい            ill-bred, vulgar, boorish
+    管を巻く            くだをまく          酒に酔った人が同じことを繰り返し、くどくど言う姿に似ていること
+若者たちは特にやることもないのか、くだらない会話を繰り返している。
+    くだらない          trivial, trifling, insignificant        stupid, nonsensical
+「しかし金が尽きたのは痛いっすね。金がなければオイラたちに付いてくる女なんて......」
+    尽きる          つきる
+「それもこれもカラーの警備隊が警戒を強めていやがるせいだ。ったくカラーの分際で忌々しい」
+    嫌がる          いやがる            to hate, to dislike
+    分際            ぶんざい            social standing
+    忌々しい            いまいましい            annoying, provoking
+「王様が来てるからでやんしょ。早く終わって警備が緩くなってくれねえと俺たち干上がっちまいやすぜ」
+    緩い            ゆるい
+    干上がる            乾上がる            ひあがる            to dry up, to parch, to ebb away
+「はぁ……ったく、今頃王様とやらは優雅に過ごしていやがるんだろうな」
+    とやら          indicates uncertainty or second hand nature of information quoted
+「でも空き家があるなんてラッキーっすね。ホスピスとかいうんでしたっけ」
+    空き家          あきや          vacant house, unoccupied house
+「ちっ、しけた場所だ。俺には相応しくない場所だぜ」
+    時化る          しける          to go through hard times, to be broke       to be gloomy, to be glum
+ヤナと呼ばれた男は机の上に置かれた機材を乱暴に払いのけると足をおいた。
+    機材            きざい          machine parts, machinery, equipment
+    払いのける          払い除ける          はらいのける            to ward off, to brush away, to fling off, to drive away
+「やれやれ......完璧にホスピスを溜まり場にしているな。追い出す必要がありそうだ」
+    溜まり場            たまりば            gathering spot, haunt, rendezvous, meeting place, hang-out
+「まずは平和的に交渉してみよう。俺が優しく諭してみるよ」
+    平和的          へいわてき
+    諭す            さとす          to admonish, to persuade, to warn, to remonstrate
+「先生～、オイラ病気なんです。股間が痒いのを治してくださ～い」
+    痒い            かゆい
+「ははは！童貞のくせに性病か?どこでもらってきたんだよ!」
+    童貞            どうてい
+    性病            せいびょう
+「落ち着けアレク、揉めると面倒なことになりかねないぞ」
+    揉める          もめる          to disagree, to dispute, to fight (over)
+「こんな胸しか見てない男たちは殺そう。安心しろ、死体の処理には自信があるんだ」
+    殺す            ころす
+短刀を構えたカノが殺気を振りまくと男たちは目に見えて動揺し始めた。
+    短刀            たんとう
+    動揺            どうよう
+「き、キチガイだ！！」
+    キチガイ            気違い          気狂い          madness, madman     enthusiast, freak, junkie
+「そうか、それが遺言だな」
+    遺言            ゆいごん
+「か、カノちゃん落ちつきましょう。殺人鬼の目になっていますよ」
+    殺人鬼          さつじんき
+「すぐに獲物を抜く癖は変わりませんね」
+    獲物            えもの          prey, catch, kill, game
+「どうどう! どうどう!ちょ、ちょっと一旦外に出よう ! 」
+    一旦            いったん
+短刀を構えたカノを宥めながら、アレクはホスピスを退室した。
+    宥める          なだめる            to soothe, to calm, to pacify
+......
+「なにをするんだ、アレク !あんな害虫共は追い出すに限るぞ ! 」
+    害虫            がいちゅう
+「壊れたら困る機材もあるんだ……荒事は避けたい」
+    荒事            あらごと            (theatrical) fighting scene
