@@ -12569,3 +12569,45 @@
     害虫            がいちゅう
 「壊れたら困る機材もあるんだ……荒事は避けたい」
     荒事            あらごと            (theatrical) fighting scene
+「害虫さんならパルサンを焚けばいいんですけどねぇ……」
+    パルサン
+    焚く            たく            to burn, to kindle, to light (a fire), to make (a fire)
+「精密機械もあるし、パルサンも止めてくれ」
+    パルサン
+「アレクさん、よほどシャロちゃんの体調が気にかかっているんですね」
+    よほど          余程            very, greatly, much, to a large extent, quite
+「あの中にいたリーダー格の男、おそらくここの領主であるロナ・ハイラインの兄です。前にパーティーで見ました」
+    格          かく
+「それは大丈夫だと思います。ヤナという男は妹に領主の座を奪われて放逐されたと聞いていますから」
+    放逐            ほうちく
+「あの連中と揉めてもロナの機嫌を損ねるなんてことはないんだな」
+    揉める          もめる          to disagree, to dispute, to fight (over)
+    損ねる          そこねる
+「まあ、確かにな......実力行使はやめておくか」
+    実力行使            じつりょくこうし            use of force
+「俺らが困っていると知ったら、絶対代償にユラギをいいようにしたがる」
+    代償            だいしょう          compensation, indemnification, reparation, consideration
+    したがる            to wish (to do), to desire, to want     to be ready, to be eager
+「退屈を持てあましているようでしたね。彼らの気を引くような面白い話があれば食いつくかもしれません」
+    余す            あます          to save, to leave over, to spare
+    気を引く            きをひく            to attract someone's affection      to sound out somebody
+    食いつく            食い付く            to bite at, to snap at, to nibble       to get one's teeth into (metaphorically), to get to grips with, to really get into
+「良い考えかもしれないぞ。ここにいても面白いわけでもないし、退屈凌ぎを提供してやれば良い」
+    退屈凌ぎ            退屈しのぎ          たいくつしのぎ          killing time, staving off boredom
+    提供            ていきょう
+「名付けて、男の子は幾つになっても好奇心旺盛! ! 作戦だ!」
+    名付ける            なづける            to name, to call, to christen, to term
+    幾つ            いくつ
+    好奇心          こうきしん
+    旺盛            おうせい
+「まあ元々、情報収集はするつもりだったんだ。ついでだと思えばいいか」
+    元々            本々            元元            本本            もともと            originally, by nature, from the start
+    ついで          opportunity, occasion
+「国王様も訪れているそうですし、普段とは違う特別な催しなどがあれば気を引けるかもしれませんね」
+    催し            もよおし            event, festivities, function, social gathering, auspices, opening, holding (a meeting)
+「よし、じゃあ周辺に聞き込みに行こう」
+    聞き込み            ききこみ            getting information (esp. by interviewing witnesses, etc. in a police investigation)
+「私も貴族の知り合いに面白い話がないか尋ねてみます」
+    尋ねる          訊ねる          たずねる            to ask, to enquire, to inquire
+「私たちはパールハーバーの周辺にある観光名所を当たりましょう」
+    当たる          当る            中る            あたる
