@@ -12695,3 +12695,56 @@
     崇拝            すうはい
 アレクは年寄りと宇宙人談義に花を咲かせた。
     談義            だんぎ          discussion; discourse
+
+「これといった話は聞けなかったな。せいぜいバンパイアが出たという噂があるくらいだ」
+    せいぜい            精々            at the most; at best; to the utmost; as much (far) as possible​
+「最近森の中で一人さ迷う女の子が度々目撃されているそうです」
+    さ迷う          彷徨う          さまよう            to loiter; to putter; to prowl; to wander about; to roam about; to knock around​
+「金髪で……ぼろを纏っていました。その下は裸だったかも……」
+    金髪            きんぱつ
+「アレク、顔が弛んでいるぞ」
+    弛む            たるむ          to slacken; to loosen; to relax; to droop (e.g. loose or flabby skin); to sag (ceiling)​
+「普通はすぐにモンスターの餌食よね。でも、女の子は目撃され続けている」
+    餌食            えじき
+「その子には生き抜くだけの力があるという事か......」
+    生き抜く            いきぬく            to live through; to survive​
+「そうだな。 情報も集まったし、手持ちの噂話であの不良共を追い払えないか試してみよう」
+    噂話            うわさ話            うわさばなし            gossip
+    追い払う            おいはらう          to drive away; to clear; to scatter; to disperse​
+アレクたちがホスピスを訪れると、不良たちは変わらず居座り続けていた。
+    居座り          いすわり            remaining​
+「よう、やっぱりまだここでくだ巻いてたな」
+    管を巻く            くだをまく          to grumble over one's wine cups​
+ヤナはバンパイアの話に態度を豹変させ、青い顔をしてぶつぶつ言い始めた。
+    豹変            ひょうへん          sudden change; complete change
+「あれは草木も眠る丑三つ時……」
+    丑三つ時            うしみつどき            2:00 to 2:30 AM     3:00 to 3:30 AM     dead of night; midnight
+闇夜の森の中、スコップの音だけがー定間隔で鳴り響いている。
+    スコップ            shovel; spade; scoop
+    間隔            かんかく
+「あ、何か出てきました。棺桶っすかね」
+    棺桶            かんおけ            coffin; casket​
+「棺桶の中から蘇った死体……も、もしかして……バンパイア！」
+    蘇る            よみがえる
+不意に振り返ったプラチナに驚き、ヤナは腰を抜かしてへたりこんだ。
+    プラチナ            platinum
+    へたりこむ          へたり込む          to sit down hard; to sink down to the floor
+「そ、そう言って人間離れした早さで森の中に消えちまったんだ」
+    人間離れ            にんげんばなれ          unwordly; superhuman​
+「かつて聖母イブと死闘を繰り広げた魔王はバンパイアだったという伝承も残っていますね」
+    死闘            しとう
+    繰り広げる          くりひろげる            to unfold; to unroll; to open​
+    伝承            でんしょう          handing down (information); legend; tradition; folklore; transmission
+「はあ......随分と回りくどい」
+    回りくどい          まわりくどい            circuitous; roundabout; indirect​
+「概ね、こんな所じゃないかな」
+    概ね            おおむね            in general; generally; mostly; roughly; largely; mainly
+「しかし森で人に知られたくないことをしている最中だったので、慌てて口を噤んだけれども手後れだった」
+    噤む            つぐむ          to shut one's mouth; to hold one's tongue; to keep silent
+    手後れ          手遅れ          ておくれ            being too late; losing one's final chance
+「あいつら少し脅しただけでぺらぺらと喋ったぞ」
+    脅す            おどす
+「最初から口止めしていても、いずれ噂は広まっていたかもしれませんね」
+    口止め          くちどめ
+「魔王の名を冠した最高に危険とされる薬物じゃないか」
+    冠す            かんす
