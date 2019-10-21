@@ -1,101 +1,98 @@
-「む、先客がいるようだぞ」
-    先客            せんきゃく          the preceding visitor
-「ん? 珍しいな、医者のバカンスか ?」
-    バカンス            holidays, vacation
-怪訝に思いつつ中の様子を窺うと、室内から騒々しい笑い声が聞こてきた。
-    怪訝            けげん          dubious, puzzled, suspicious
-    騒々しい            そうぞうしい
-「それはいいっすけど、連れてきてもヤナのアニキが好みじゃないっていつも追い返すじゃねですか」
-    好み            このみ          liking, taste, choice
-    追い返す            おいかえす          to drive away, to turn away, to send away, to repel, to repulse
-「ブスを連れてくるからだろうが !化粧してブスな奴とか、落としたらどんな化け物になるんだよ」
-    ブス            extremely ugly woman
-    化粧            けしょう
-ホスピスの室内ではがらの悪い若者たちが酒を飲みながらくだを巻いていた。
-    柄が悪い            がらがわるい            ill-bred, vulgar, boorish
-    管を巻く            くだをまく          酒に酔った人が同じことを繰り返し、くどくど言う姿に似ていること
-若者たちは特にやることもないのか、くだらない会話を繰り返している。
-    くだらない          trivial, trifling, insignificant        stupid, nonsensical
-「しかし金が尽きたのは痛いっすね。金がなければオイラたちに付いてくる女なんて......」
-    尽きる          つきる
-「それもこれもカラーの警備隊が警戒を強めていやがるせいだ。ったくカラーの分際で忌々しい」
-    嫌がる          いやがる            to hate, to dislike
-    分際            ぶんざい            social standing
-    忌々しい            いまいましい            annoying, provoking
-「王様が来てるからでやんしょ。早く終わって警備が緩くなってくれねえと俺たち干上がっちまいやすぜ」
-    緩い            ゆるい
-    干上がる            乾上がる            ひあがる            to dry up, to parch, to ebb away
-「はぁ……ったく、今頃王様とやらは優雅に過ごしていやがるんだろうな」
-    とやら          indicates uncertainty or second hand nature of information quoted
-「でも空き家があるなんてラッキーっすね。ホスピスとかいうんでしたっけ」
-    空き家          あきや          vacant house, unoccupied house
-「ちっ、しけた場所だ。俺には相応しくない場所だぜ」
-    時化る          しける          to go through hard times, to be broke       to be gloomy, to be glum
-ヤナと呼ばれた男は机の上に置かれた機材を乱暴に払いのけると足をおいた。
-    機材            きざい          machine parts, machinery, equipment
-    払いのける          払い除ける          はらいのける            to ward off, to brush away, to fling off, to drive away
-「やれやれ......完璧にホスピスを溜まり場にしているな。追い出す必要がありそうだ」
-    溜まり場            たまりば            gathering spot, haunt, rendezvous, meeting place, hang-out
-「まずは平和的に交渉してみよう。俺が優しく諭してみるよ」
-    平和的          へいわてき
-    諭す            さとす          to admonish, to persuade, to warn, to remonstrate
-「先生～、オイラ病気なんです。股間が痒いのを治してくださ～い」
-    痒い            かゆい
-「ははは！童貞のくせに性病か?どこでもらってきたんだよ!」
-    童貞            どうてい
-    性病            せいびょう
-「落ち着けアレク、揉めると面倒なことになりかねないぞ」
-    揉める          もめる          to disagree, to dispute, to fight (over)
-「こんな胸しか見てない男たちは殺そう。安心しろ、死体の処理には自信があるんだ」
-    殺す            ころす
-短刀を構えたカノが殺気を振りまくと男たちは目に見えて動揺し始めた。
-    短刀            たんとう
-    動揺            どうよう
-「き、キチガイだ！！」
-    キチガイ            気違い          気狂い          madness, madman     enthusiast, freak, junkie
-「そうか、それが遺言だな」
-    遺言            ゆいごん
-「か、カノちゃん落ちつきましょう。殺人鬼の目になっていますよ」
-    殺人鬼          さつじんき
-「すぐに獲物を抜く癖は変わりませんね」
-    獲物            えもの          prey, catch, kill, game
-「どうどう! どうどう!ちょ、ちょっと一旦外に出よう ! 」
-    一旦            いったん
-短刀を構えたカノを宥めながら、アレクはホスピスを退室した。
-    宥める          なだめる            to soothe, to calm, to pacify
-......
-「なにをするんだ、アレク !あんな害虫共は追い出すに限るぞ ! 」
-    害虫            がいちゅう
-「壊れたら困る機材もあるんだ……荒事は避けたい」
-    荒事            あらごと            (theatrical) fighting scene
-「害虫さんならパルサンを焚けばいいんですけどねぇ……」
-    パルサン
-    焚く            たく            to burn, to kindle, to light (a fire), to make (a fire)
-「精密機械もあるし、パルサンも止めてくれ」
-    パルサン
-「アレクさん、よほどシャロちゃんの体調が気にかかっているんですね」
-    よほど          余程            very, greatly, much, to a large extent, quite
-「あの中にいたリーダー格の男、おそらくここの領主であるロナ・ハイラインの兄です。前にパーティーで見ました」
-    格          かく
-「それは大丈夫だと思います。ヤナという男は妹に領主の座を奪われて放逐されたと聞いていますから」
-    放逐            ほうちく
-「あの連中と揉めてもロナの機嫌を損ねるなんてことはないんだな」
-    揉める          もめる          to disagree, to dispute, to fight (over)
-    損ねる          そこねる
-「まあ、確かにな......実力行使はやめておくか」
-    実力行使            じつりょくこうし            use of force
-「俺らが困っていると知ったら、絶対代償にユラギをいいようにしたがる」
-    代償            だいしょう          compensation, indemnification, reparation, consideration
-    したがる            to wish (to do), to desire, to want     to be ready, to be eager
-「退屈を持てあましているようでしたね。彼らの気を引くような面白い話があれば食いつくかもしれません」
-    余す            あます          to save, to leave over, to spare
-    気を引く            きをひく            to attract someone's affection      to sound out somebody
-    食いつく            食い付く            to bite at, to snap at, to nibble       to get one's teeth into (metaphorically), to get to grips with, to really get into
-「良い考えかもしれないぞ。ここにいても面白いわけでもないし、退屈凌ぎを提供してやれば良い」
-    退屈凌ぎ            退屈しのぎ          たいくつしのぎ          killing time, staving off boredom
-    提供            ていきょう
-「名付けて、男の子は幾つになっても好奇心旺盛! ! 作戦だ!」
-    名付ける            なづける            to name, to call, to christen, to term
-    幾つ            いくつ
-    好奇心          こうきしん
-    旺盛            おうせい
+「まあ元々、情報収集はするつもりだったんだ。ついでだと思えばいいか」
+    元々            本々            元元            本本            もともと            originally, by nature, from the start
+    ついで          opportunity, occasion
+「国王様も訪れているそうですし、普段とは違う特別な催しなどがあれば気を引けるかもしれませんね」
+    催し            もよおし            event, festivities, function, social gathering, auspices, opening, holding (a meeting)
+「よし、じゃあ周辺に聞き込みに行こう」
+    聞き込み            ききこみ            getting information (esp. by interviewing witnesses, etc. in a police investigation)
+「私も貴族の知り合いに面白い話がないか尋ねてみます」
+    尋ねる          訊ねる          たずねる            to ask, to enquire, to inquire
+「私たちはパールハーバーの周辺にある観光名所を当たりましょう」
+    当たる          当る            中る            あたる
+
+「ハイラインのお店はどこに入ってもトロピカルな匂いがするんだよな......」
+    トロピカル          tropical
+「ここはハニー六兄弟が営むハニー道具店！！」
+    営む            いとなむ
+「僕はハニ黄！超元気！元気が取り柄！！」
+    取り柄          とりえ          worth, merit, value, good point
+アレクは勢いのあるハニ黄の接客にたじろいで後ずさる。
+    たじろぐ            to shrink back, to wince, to flinch, to recoil
+
+「鞄の外側のポケットに入れたのを見たぞ」
+    鞄          かばん
+「って、裸足じゃないか！もしかして迷子か？」
+    裸足            跣          はだし
+    迷子            まいご
+「いや、そこに事件性の高い恰好をした女の子がいて......」
+    事件性          じけんせい          criminal nature, criminality
+「怖いこと言うなよ！！本当にぼろきれを纏った女の子が僕を見てたんだって」
+    ぼろきれ            襤褸切れ            old cloth, rag
+「だけど、レンジャーである僕の目を掻い潜って消えるんだ。只者じゃないことは確かだぞ」
+    掻い潜る            かいくぐる          to slip through
+    只者            ただもの            ordinary person
+「西にロープウェイとホルスの遺跡、東にミニ火山があるそうです」
+    ロープウェイ            ropeway
+    火山            かざん
+「もうホスピスじゃなくて宿屋でぱぱっと治してくれても......」
+    ぱぱっと            quickly
+
+「お土産屋の露店があるな。......マンドラゴ？」
+    露店            ろてん          street stall, stand, booth
+「いらっしゃーい。生憎とマンドラゴの漬け物は売り切れているんだよ」
+    生憎            あいにく
+「ああ、カラーの森で収穫されるマンドラゴの紫蘇漬けは、ご飯が何杯でも食べられる究極のお漬け物なんだよ」
+    収穫            しゅうかく
+    紫蘇            しそ
+「根強いファンが多くてねぇ」
+    根強い          ねづよい            firmly rooted; deep-seated
+「食べたいからといって、森でマンドラゴを収穫するのはやめておきなよ。密漁は捕まるからね」
+    密漁            みつりょう          poaching (fish or seafood)​
+「聖母イブと相打ちになった魔王アダンがバンパイアだったと言われているな」
+    相打ち          あいうち            simultaneously striking one another (in kendo, etc.)​
+「もちろん、諸説あるんだけど」
+    諸説            しょせつ            various opinions; various theories
+「いや、僕たちは観光客じゃないから配慮は不要だ。できればその話を詳しく聞かせてもらえないだろうか」
+    配慮            はいりょ            consideration
+「森をうろついていた奴らが、カラーの墓から女の子が出てきたって大騒ぎしたのさ」
+    うろつく            to wander aimlessly
+「怪談とかがウケる暑さだからな......」
+    怪談            かいだん
+「カラーという種族が神秘的であることも噂が広まった要因の一つだろうな」
+    神秘的          しんぴてき
+    要因            よういん            main cause; primary factor​
+「観光客が怖がると街が損するだけだから、なるべく話さないようにしているんだけどね」
+    損する          そんする
+    なるべく            成るべく            as much as possible; wherever practicable
+「あの頑丈なロープにぶら下がった箱に乗って山の頂上に行く乗り物だよ」
+    ぶら下がる          ぶらさがる          to hang from; to dangle; to swing
+    頂上            ちょうじょう            top; summit; peak​
+「火山の頂上付近にある街だ。なんでもスキーができるらしい」
+    付近            附近            ふきん
+    スキー          skiing​
+「看板が出てますね。夏季は雪が無いためロープウェイは停止中らしいですよ」
+    看板            かんばん
+「ユラギ、露骨にほっとしていたな」
+    露骨            ろこつ
+    ほっと          with a feeling of relief; with a sigh of relief​
+休業中のロープウェイ乗り場では大した情報を得られなかった。
+    休業            きゅうぎょう
+
+「ロープウェイが稼働するのは初冠雪が記録された後だよ。山の上はスキー場くらいしかないからね」
+    稼働            稼動            かどう          operation (of machine); operating; running; working
+    初冠雪          はつかんせつ            first snow to settle on a mountain​
+
+「ホルスというのは、例の石像みたいな変わった姿の人ですよね」
+    石像            せきぞう
+「資料が少ない理由は、この国を興した聖騎士様を殺したのがホルスだから......という説もあるのじゃよ」
+    興す            おこす
+「聖騎士を殺された復讐としてホルス自体が歴史から抹殺された......と？」
+    抹殺            まっさつ
+「あくまでホルス滅亡の一説に過ぎない。まあ、聖騎士を崇拝する一部の者は悪魔扱いしているそうだけどな」
+    滅亡            めつぼう
+    崇拝            すうはい
+アレクは年寄りと宇宙人談義に花を咲かせた。
+    談義            だんぎ          discussion; discourse
+
+「これといった話は聞けなかったな。せいぜいバンパイアが出たという噂があるくらいだ」
+    せいぜい            精々            at the most; at best; to the utmost; as much (far) as possible​
