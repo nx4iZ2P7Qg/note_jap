@@ -1,98 +1,100 @@
-「まあ元々、情報収集はするつもりだったんだ。ついでだと思えばいいか」
-    元々            本々            元元            本本            もともと            originally, by nature, from the start
-    ついで          opportunity, occasion
-「国王様も訪れているそうですし、普段とは違う特別な催しなどがあれば気を引けるかもしれませんね」
-    催し            もよおし            event, festivities, function, social gathering, auspices, opening, holding (a meeting)
-「よし、じゃあ周辺に聞き込みに行こう」
-    聞き込み            ききこみ            getting information (esp. by interviewing witnesses, etc. in a police investigation)
-「私も貴族の知り合いに面白い話がないか尋ねてみます」
-    尋ねる          訊ねる          たずねる            to ask, to enquire, to inquire
-「私たちはパールハーバーの周辺にある観光名所を当たりましょう」
-    当たる          当る            中る            あたる
-
-「ハイラインのお店はどこに入ってもトロピカルな匂いがするんだよな......」
-    トロピカル          tropical
-「ここはハニー六兄弟が営むハニー道具店！！」
-    営む            いとなむ
-「僕はハニ黄！超元気！元気が取り柄！！」
-    取り柄          とりえ          worth, merit, value, good point
-アレクは勢いのあるハニ黄の接客にたじろいで後ずさる。
-    たじろぐ            to shrink back, to wince, to flinch, to recoil
-
-「鞄の外側のポケットに入れたのを見たぞ」
-    鞄          かばん
-「って、裸足じゃないか！もしかして迷子か？」
-    裸足            跣          はだし
-    迷子            まいご
-「いや、そこに事件性の高い恰好をした女の子がいて......」
-    事件性          じけんせい          criminal nature, criminality
-「怖いこと言うなよ！！本当にぼろきれを纏った女の子が僕を見てたんだって」
-    ぼろきれ            襤褸切れ            old cloth, rag
-「だけど、レンジャーである僕の目を掻い潜って消えるんだ。只者じゃないことは確かだぞ」
-    掻い潜る            かいくぐる          to slip through
-    只者            ただもの            ordinary person
-「西にロープウェイとホルスの遺跡、東にミニ火山があるそうです」
-    ロープウェイ            ropeway
-    火山            かざん
-「もうホスピスじゃなくて宿屋でぱぱっと治してくれても......」
-    ぱぱっと            quickly
-
-「お土産屋の露店があるな。......マンドラゴ？」
-    露店            ろてん          street stall, stand, booth
-「いらっしゃーい。生憎とマンドラゴの漬け物は売り切れているんだよ」
-    生憎            あいにく
-「ああ、カラーの森で収穫されるマンドラゴの紫蘇漬けは、ご飯が何杯でも食べられる究極のお漬け物なんだよ」
-    収穫            しゅうかく
-    紫蘇            しそ
-「根強いファンが多くてねぇ」
-    根強い          ねづよい            firmly rooted; deep-seated
-「食べたいからといって、森でマンドラゴを収穫するのはやめておきなよ。密漁は捕まるからね」
-    密漁            みつりょう          poaching (fish or seafood)​
-「聖母イブと相打ちになった魔王アダンがバンパイアだったと言われているな」
-    相打ち          あいうち            simultaneously striking one another (in kendo, etc.)​
-「もちろん、諸説あるんだけど」
-    諸説            しょせつ            various opinions; various theories
-「いや、僕たちは観光客じゃないから配慮は不要だ。できればその話を詳しく聞かせてもらえないだろうか」
-    配慮            はいりょ            consideration
-「森をうろついていた奴らが、カラーの墓から女の子が出てきたって大騒ぎしたのさ」
-    うろつく            to wander aimlessly
-「怪談とかがウケる暑さだからな......」
-    怪談            かいだん
-「カラーという種族が神秘的であることも噂が広まった要因の一つだろうな」
-    神秘的          しんぴてき
-    要因            よういん            main cause; primary factor​
-「観光客が怖がると街が損するだけだから、なるべく話さないようにしているんだけどね」
-    損する          そんする
-    なるべく            成るべく            as much as possible; wherever practicable
-「あの頑丈なロープにぶら下がった箱に乗って山の頂上に行く乗り物だよ」
-    ぶら下がる          ぶらさがる          to hang from; to dangle; to swing
-    頂上            ちょうじょう            top; summit; peak​
-「火山の頂上付近にある街だ。なんでもスキーができるらしい」
-    付近            附近            ふきん
-    スキー          skiing​
-「看板が出てますね。夏季は雪が無いためロープウェイは停止中らしいですよ」
-    看板            かんばん
-「ユラギ、露骨にほっとしていたな」
-    露骨            ろこつ
-    ほっと          with a feeling of relief; with a sigh of relief​
-休業中のロープウェイ乗り場では大した情報を得られなかった。
-    休業            きゅうぎょう
-
-「ロープウェイが稼働するのは初冠雪が記録された後だよ。山の上はスキー場くらいしかないからね」
-    稼働            稼動            かどう          operation (of machine); operating; running; working
-    初冠雪          はつかんせつ            first snow to settle on a mountain​
-
-「ホルスというのは、例の石像みたいな変わった姿の人ですよね」
-    石像            せきぞう
-「資料が少ない理由は、この国を興した聖騎士様を殺したのがホルスだから......という説もあるのじゃよ」
-    興す            おこす
-「聖騎士を殺された復讐としてホルス自体が歴史から抹殺された......と？」
-    抹殺            まっさつ
-「あくまでホルス滅亡の一説に過ぎない。まあ、聖騎士を崇拝する一部の者は悪魔扱いしているそうだけどな」
-    滅亡            めつぼう
-    崇拝            すうはい
-アレクは年寄りと宇宙人談義に花を咲かせた。
-    談義            だんぎ          discussion; discourse
-
-「これといった話は聞けなかったな。せいぜいバンパイアが出たという噂があるくらいだ」
-    せいぜい            精々            at the most; at best; to the utmost; as much (far) as possible​
+「最近森の中で一人さ迷う女の子が度々目撃されているそうです」
+    さ迷う          彷徨う          さまよう            to loiter; to putter; to prowl; to wander about; to roam about; to knock around​
+「金髪で……ぼろを纏っていました。その下は裸だったかも……」
+    金髪            きんぱつ
+「アレク、顔が弛んでいるぞ」
+    弛む            たるむ          to slacken; to loosen; to relax; to droop (e.g. loose or flabby skin); to sag (ceiling)​
+「普通はすぐにモンスターの餌食よね。でも、女の子は目撃され続けている」
+    餌食            えじき
+「その子には生き抜くだけの力があるという事か......」
+    生き抜く            いきぬく            to live through; to survive​
+「そうだな。 情報も集まったし、手持ちの噂話であの不良共を追い払えないか試してみよう」
+    噂話            うわさ話            うわさばなし            gossip
+    追い払う            おいはらう          to drive away; to clear; to scatter; to disperse​
+アレクたちがホスピスを訪れると、不良たちは変わらず居座り続けていた。
+    居座り          いすわり            remaining​
+「よう、やっぱりまだここでくだ巻いてたな」
+    管を巻く            くだをまく          to grumble over one's wine cups​
+ヤナはバンパイアの話に態度を豹変させ、青い顔をしてぶつぶつ言い始めた。
+    豹変            ひょうへん          sudden change; complete change
+「あれは草木も眠る丑三つ時……」
+    丑三つ時            うしみつどき            2:00 to 2:30 AM     3:00 to 3:30 AM     dead of night; midnight
+闇夜の森の中、スコップの音だけがー定間隔で鳴り響いている。
+    スコップ            shovel; spade; scoop
+    間隔            かんかく
+「あ、何か出てきました。棺桶っすかね」
+    棺桶            かんおけ            coffin; casket​
+「棺桶の中から蘇った死体……も、もしかして……バンパイア！」
+    蘇る            よみがえる
+不意に振り返ったプラチナに驚き、ヤナは腰を抜かしてへたりこんだ。
+    プラチナ            platinum
+    へたりこむ          へたり込む          to sit down hard; to sink down to the floor
+「そ、そう言って人間離れした早さで森の中に消えちまったんだ」
+    人間離れ            にんげんばなれ          unwordly; superhuman​
+「かつて聖母イブと死闘を繰り広げた魔王はバンパイアだったという伝承も残っていますね」
+    死闘            しとう
+    繰り広げる          くりひろげる            to unfold; to unroll; to open​
+    伝承            でんしょう          handing down (information); legend; tradition; folklore; transmission
+「はあ......随分と回りくどい」
+    回りくどい          まわりくどい            circuitous; roundabout; indirect​
+「概ね、こんな所じゃないかな」
+    概ね            おおむね            in general; generally; mostly; roughly; largely; mainly
+「しかし森で人に知られたくないことをしている最中だったので、慌てて口を噤んだけれども手後れだった」
+    噤む            つぐむ          to shut one's mouth; to hold one's tongue; to keep silent
+    手後れ          手遅れ          ておくれ            being too late; losing one's final chance
+「あいつら少し脅しただけでぺらぺらと喋ったぞ」
+    脅す            おどす
+「最初から口止めしていても、いずれ噂は広まっていたかもしれませんね」
+    口止め          くちどめ
+「魔王の名を冠した最高に危険とされる薬物じゃないか」
+    冠す            かんす
+「確か出所が不明の謎の薬……だったな」
+    出所            しゅっしょ
+「製造方法は不明、その効果も媚薬から幻覚剤まで、なんでもありの危ない薬だ」
+    媚薬            びやく
+    幻覚剤          げんかくざい
+「公爵家の長男が金欲しさに薬の売人か。蘇った死体も幻覚じゃないか?」
+    長男            ちょうなん          eldest son (may be the only son); first-born son
+    売人            ばいにん            trader; smuggler; pusher; drug dealer
+「解剖でもする気か?」
+    解剖            かいぼう
+「謙遜しなくてもいいだろう。例え親がコネを持っていたとしても、それを使って動いてくれたのはシャロだ」
+    謙遜            けんそん
+「お前、シャロも口説くつもりか?言っておくが、彼女は田舎貴族の僕とは比べものにならないお嬢様だぞ」
+    口説く          くどく
+「下心丸出しじゃないか ! 」
+    下心            したごころ          secret intention; ulterior motive
+    丸出し          まるだし            exposing fully
+「まあまあ、そんなことよりカノの治療だ。緑色にも飽きてきたからな」
+    飽きる          厭きる          あきる          to get tired of
+ユラギが指差す先には色とりどりにポスカラの花が咲き乱れていた。
+    とりどり            取り取り            various​Usually
+「紫は高貴な色だと言われていますね」
+    紫          むらさき
+    高貴            こうき
+「頼む......もう緑はこりごりだよ」
+    こりごり            懲り懲り            bitter experience
+「だいぶ見慣れてきたのですけどね」
+    だいぶ          大分            considerably; greatly; a lot​
+「じゃあ、お刺身の上に乗っている黄色いのも食べられるのでしょうか」
+    刺身            さしみ          raw sliced fish, shellfish or crustaceans
+    黄色い          きいろい
+「それは飾りだから止めた方が良いな」
+    飾り            かざり
+「おっと、すまない。じゃあカノのおねだりに応えよう」
+    おねだり            begging; pestering; pleading
+「言い方 !僕を淫乱みたいに言うな ! 」
+    淫乱            いんらん
+「そうらしい。団体の観光客が次々と感染して薬を買い足す暇も無かったとか」
+    買い足す            かいたす            to buy more (of something)​
+「女の子が一人でふらふらなんて危ないです、保護するべきです」
+    ふらふら            aimlessly
+「……どこかにイシュタムが潜んでいるとすれば、人の少ないカラーの森はうってつけだしな」
+    うってつけ          打って付け          ideal; most suitable
+「何を考えているか丸わかりだな」
+    丸わかり            まるわかり          understanding completely
+「ご、誤解だぞ !有名なカラーの住処に知的好奇心をくすぐられるだけだ!」
+    知的好奇心          ちてきこうきしん            intellectual curiosity; out of curiosity
+    擽る            くすぐる            to arouse; to appeal to; to flatter
+「パールハーバーから南へ、道なりに進めば見えてくるはずだ」
+    道なりに            みちなりに          along the road
