@@ -1,44 +1,41 @@
-しばらく歩き続けたアレクは乾燥した空気が気になりだした。
-    乾燥            かんそう
-「ちょっと暑いですね～。向こうの方に蜃気楼が見えますよ」
-    蜃気楼          しんきろう
-「ああ、あれはモンスターじゃないわ。からくりよ」
-    からくり            絡繰り          mechanism; machinery; contrivance; device
-「ポピンズが作った道具だよ。ああやってパイプラインに近づくモンスターを追い払っているんだ」
-    ポピンズ
-    ああやって          like that; that way​
-「四六時中、公衆の面前だろうとお構いなしにちゅっちゅちゅっちゅしている種族だぞ」
-    四六時中            しろくじちゅう          4 x 6 = 24      day and night​
-    公衆            こうしゅう
-    ちゅっちゅ
-アレクはなんとなく自分が責められている気がして目を逸らしていたが、視線の先に大きな扉があることに気付いた。
-    責める          せめる
-「なんだか関所みたいだな……」
-    関所            せきしょ            barrier; checkpoint; checking station​
-「あそこは魔力を使いやすい形に変換する工場みたいなものです。関所の役割も果たしていますけど」
-    役割            やくわり            part; assigning (allotment of) parts; role; duties​
-「ええ……監視していないと南部の人があてもなく北部に押し寄せて貧民街を形成してしまうそうです」
-    南部            なんぶ
-    当てもなく          あてもなく          at random; aimlessly​
-    北部            ほくぶ
-    貧民街          ひんみんがい
+ホワイトの街に到着したアレクたちは雑多な雰囲気に圧倒されていた。
+    雑多            ざった          miscellaneous; mixed; unorganized​
+    圧倒            あっとう
+「アレクさん、うし馬車が街の中をあんなに走っていますよ」
+    馬車            ばしゃ
+「うへ……建物と建物の間が狭いな。おならしたら隣の家に聞こそえそうだ」
+    おなら          wind; gas; fart​
+「ここは繁華街ですからね。特に多くの人で賑わっているんです」
+    繁華街          はんかがい
+    賑わう          にぎわう            to be crowded with people; to be bustling with​
+アレクはカノの手をさりげなく握ると並んで歩き始めた。
+    さりげない          さり気無い          in a casual manner​
+「ああっ! カノちゃんだけずるいです !女子カの独り占めはよくありません」
+    独り占め            一人占め            ひとりじめ          monopolising; monopolizing; hogging; having all to oneself​
+プラチナは子供を肩車する父親を見ていたのか、アレクの背中によじ登った。
+    肩車            かたぐるま
+    よじ登る            攀じ登る            よじのぼる
+「これが骨抜きって言うのね……」
+    骨抜き          ほねぬき            boning (fish or meat); deboning​
+「そうはいきません。私が原因でお嬢様が侮られるなど、あってはならないことです」
+    侮る            あなどる
+ロナはボニーの頑なな態度に、やれやれとばかりに両手を上げた。
+    頑な            かたくな
+「特に今回は年に一度の国王を招いた公爵会議だ……国王家の周りには伝統を重んじる腰巾着も多い」
+    招く            まねく
+    重んじる            おもんじる          to respect; to honor; to honour; to esteem; to prize​
+    腰巾着          腰ぎんちゃく            こしぎんちゃく
+「もっとも……歴代の国王が参加したのは遊びたい盛りの若い頃だけで、例外なく飽きると参加しなくなったそうだけど」
+    盛り            さかり          prime (of one's life); (one's) best days; bloom​
+「アレクは……その、見た目が知的で格好良いから、側に立っているだけで箔が付くと思うのだ……」
+    見た目          みため          appearance; looks​
+    知的            ちてき          intellectual​
+    箔が付く            はくがつく          to increase in value; to gain prestige​
+「……僕も着いていくぞ。こいつを一人きりにすると何をしでかすか分からないからな」
+    一人きり            独りきり            ひとりきり          all on one's own​
+    しでかす            仕出かす            to make a mess; to perpetrate; to do; to finish up; to be guilty of
 
-「そういうのを怖がる人もいますね。Mパイプラインが魔力を遮断しているので健康被害は出ていませんよ」
-    遮断            しゃだん
-「そ、それは丁寧に掃除をしているからです」
-    丁寧            ていねい
-「ドラゴンが不死身に近いのも魔力がズバ抜けて高い、せいだからね」
-    不死身          ふじみ
-    ずば抜ける          ずばぬける          to tower above the rest; to be by far the best; to be prominent; to be outstanding; to be a cut above​
-「闘族時代に愛想尽かした、けどやっと今の人とは無関係だって思い始めた、みたいだよ」
-    闘族
-    愛想尽かし          あいそづかし            no longer being fond of someone; spiteful words or acts showing that one is disgusted with someone​
-「ドラゴンの掟って厳しいですね」
-    掟          おきて          law; regulation; rule; code; agreement; arrangement; compact​
-「聖騎士は実在したが、女の子とやりすぎてぽっくり逝った可能性もあるぞ」
-    ぽっくり            (dying) suddenly        (breaking) brittly; with a snap
-    逝く            いく
-「神話が台無しになるな」
-    台無し          だいなし            mess; spoiled; spoilt; (come to) nothing; ruin​
-アレクはユラギに破廉恥だと叱られてしまった。
-    叱る            しかる
+不意に姿を見せた奇妙なハニー、それを殴り飛ばそうとハンマーを振り上げたユラギをアレクが辛うじて抑えた。
+    辛うじて            かろうじて          barely; narrowly; only just; with difficulty​
+「確かに興味はないが……道具屋の品揃えには興味あるぞ」
+    品揃え          しなぞろえ          assortment; product lineup​
