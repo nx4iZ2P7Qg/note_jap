@@ -14699,3 +14699,36 @@
     印鑑            いんかん            stamp; seal​
 「印鑑扱いか……憐れだな」
     憐れ            哀れ            あわれ
+「あれ? 誰かにディスられた気がするんだけど僕の気のせいかなー?」
+    ディスる            でぃする            to disrespect
+きょろきょろと辺りを見回すジョンだったが、その声も当然のように無視された。
+    きょろきょろ            (looking around) restlessly; (looking) all around; goggling
+「いいえ、前年度と同じ予算では現状の船が止まっている損害は賄いきれないわ。補正してくださるのかしら」
+    賄う            まかなう            to supply (goods, money, etc.); to cover (costs); to pay; to finance; to maintain (e.g. a family)​
+    補正            ほせい
+いよいよ採決という段階になって、 振り出しに戻すように話を蒸し返すロナに参加者たちは言葉を失う。
+    いよいよ            愈々            more and more; all the more; increasingly​
+    採決            さいけつ            vote; ballot; division​
+    振り出し            ふりだし            starting point; beginning; outset​
+    蒸し返す            むしかえす          to bring up again (a problem that has been dealt with); to take up again; to drag up; to rehash​
+「だったら船の渡航禁止を解除しなさい。病気の心配がないのならできるわよね」
+    渡航            とこう
+「それはキノコックスとは違って既知の病気でしょう。渡航禁止を言い渡すほどの物ではないわ」
+    既知            きち
+「ロナさん、そちらはイシュタムという組織の暗躍を危惧しているとのことですが、その者たちの存在は確かなのですか?」
+    暗躍            あんやく            secret manoeuvres (maneuvers); operating behind the scenes​
+    危惧            危ぐ            きぐ
+「転移アイテムを所持しているのよ。渡航禁止は未知の病気が発生してからでも遅くないわ」
+    所持            しょじ
+「しかし……かような組織が今まで誰にも庇護されず、活動を続けられたことが不自然だと思うのです」
+    庇護            ひご
+「誰もそんなことは言っておりませんよ。しかしその激昂ぶりを見る限り、心当たりでもあるのでしょうか」
+    激昂            激高            げっこう
+    心当たり            こころあたり            having in mind; happening to know of; idea​
+「ははっ、さすが領土泥棒は言うことが違うな。 他所を疑う前に自身の潔白を証明するのが先だろう」
+    領土            りょうど
+    他所            余所            よそ
+    潔白            けっぱく
+「参ったわね……こうならないように気をつけていたけど、回を重ねるごとに沸点が低くなっているわ」
+    回を重ねる          かいをかさねる          to advance (as of a baseball game); to repeat​
+    沸点            ふってん

@@ -1,61 +1,33 @@
-城の中へと通されたアレクたちは公爵会議が始まるまでの間、控室へと案内された。
-    控室            ひかえしつ          waiting room; anteroom; antechamber; green room
-「これまた無駄な物を建てたわね……通気性も悪いから湿気を感じるし、典型的な無駄遣いよね」
-    通気性          つうきせい          breathability​
-    湿気            しっけ          しっき
-    典型的          てんけいてき
-    無駄遣い            むだづかい          waste (of money, time, etc.); squandering; frittering away​
-「確かモンスターの襲撃から領民を守るために建てられたらしいな」
-    襲撃            しゅうげき
-「身も蓋もない……」
-    身も蓋もない            みもふたもない          point blank; blunt​
-張り詰めた空気が充満する会議室の中、ロナは自分の席へ向かうとどかりと腰を下ろし、アレクとカノはその脇に控えた。
-    どかり          falling heavily​
-席に座るのは国王であるジョンを上座に置いて他三名。ロナを含めていずれも年若い少女たちであった。
-    上座            かみざ          chief seat
-    いずれも            何れも          any; all; every; both; either; none (with neg. verb)​
-「ああ、公爵会議の歴史を紐解いても、こんな組み合わせは今までなかったらしいぞ」
-    紐解く          繙く            ひもとく            to read (a book); to open (a book) to read​
-あえて挑発するような物言いをするロナに着物っぽい服を着た公爵が噛みついた。
-    あえて          敢えて          daringly (doing something); deliberately; intentionally​
-    物言い          ものいい            manner of speaking​
-    着物            きもの          Japanese traditional clothing
-「辺境伯がこの場に参加出来るのは開拓事業が成功を収め、正式に公爵に叙されてからです。何を勘違いなさっているの?」
-    収める          おさめる            to dedicate; to make an offering; to pay (fees)​
-    叙する          じょする            to relate; to narrate; to describe
-「今日の僕はあくまでロナの護衛に過ぎない。混乱させたことは詫びるが、後塵を拝する者を失望させないで欲しいな」
-    後塵を拝する            こうじんをはいする          to be left in the dust (of); to be outdone (by)​
-「まあ、如何してもというのなら席を外させるけれども、そちらの事務方にも退室してもらうことになるわね」
-    事務方          じむかた            office workers; office staff; clerical staff​
-さすがに事務方を切り離されてはロナに太刀打ちできないと理解しているのか、二人の公爵は素直に引いた。
-    切り離す            切り放す            きりはなす          to detach; to decapitate; to cut loose; to let loose; to dismember​
-    太刀打ちできる          たちうちできる          to be a good match for; to stand a chance against; to be able to compete with; to hold one's own
-(誠意の欠片も感じられない謝罪だけど……)
-    欠片            かけら
-ジョンが必死に執り成そうとするが、この会議場において国王の存在は空気よりも軽いために無視された。
-    執り成す            取りなす            とりなす            to mediate; to intervene; to smooth
-なお、アレクの入室に気付いたジョンは手を振っていたが、アレクは気にも留めていない。
-    気に留める          きにとめる          to (keep in) mind; to give heed to; to pay attention to
-「では、始めるとしよう。議長は持ち回り制のため、今回は私、パトリオット・アジモフが務める」
-    議長            ぎちょう            chairman
-こうして実質的に国を治めている三人の公爵による会議は粛々と進められていった。
-    実質            じっしつ
-    粛々            しゅくしゅく            silent; solemn; quiet​
-「……というわけでして、税収に変化がないため議案書にあります通り、前年度と同じで問題ないかと思います」
-    税収            ぜいしゅう
-「澄まし顔で話を聞き流しているのがスパルタン・蔵握、彼女も海を割るほどのスキルが使えるそうだ」
-    澄まし顔            すまし顔            すましがお          composed expression; clear face​
-    割る            わる
-「僕に聞かれても困る。だが、彼女たちはそのスキルを有しているがために公爵へ推挙されたらしい」
-    推挙            すいきょ
-「ぶっちゃけ、スキルを買われただけの人間兵器よ。内政は全て貴族議会が牛耳っているわ」
-    ぶっちゃけ          frankly; honestly speaking; to tell the truth; to put it bluntly​
-    牛耳る          ぎゅうじる          to control; to take the lead in; to have under one's thumb​
-ロナの言葉を裏付けるように、議案を審議するのは二人の公爵の脇に控える男たちだった。
-    裏付ける            うらづける          to support (a theory, claim, etc.); to back up; to substantiate; to prove​
-    審議            しんぎ
-「チャラ男はこの会議が国王の下で行われた正当な会議だと証明するためだけの存在よ。歩く印鑑ね」
-    歩く            あるく
-    印鑑            いんかん            stamp; seal​
-「印鑑扱いか……憐れだな」
-    憐れ            哀れ            あわれ
+「あれ? 誰かにディスられた気がするんだけど僕の気のせいかなー?」
+    ディスる            でぃする            to disrespect
+きょろきょろと辺りを見回すジョンだったが、その声も当然のように無視された。
+    きょろきょろ            (looking around) restlessly; (looking) all around; goggling
+「いいえ、前年度と同じ予算では現状の船が止まっている損害は賄いきれないわ。補正してくださるのかしら」
+    賄う            まかなう            to supply (goods, money, etc.); to cover (costs); to pay; to finance; to maintain (e.g. a family)​
+    補正            ほせい
+いよいよ採決という段階になって、 振り出しに戻すように話を蒸し返すロナに参加者たちは言葉を失う。
+    いよいよ            愈々            more and more; all the more; increasingly​
+    採決            さいけつ            vote; ballot; division​
+    振り出し            ふりだし            starting point; beginning; outset​
+    蒸し返す            むしかえす          to bring up again (a problem that has been dealt with); to take up again; to drag up; to rehash​
+「だったら船の渡航禁止を解除しなさい。病気の心配がないのならできるわよね」
+    渡航            とこう
+「それはキノコックスとは違って既知の病気でしょう。渡航禁止を言い渡すほどの物ではないわ」
+    既知            きち
+「ロナさん、そちらはイシュタムという組織の暗躍を危惧しているとのことですが、その者たちの存在は確かなのですか?」
+    暗躍            あんやく            secret manoeuvres (maneuvers); operating behind the scenes​
+    危惧            危ぐ            きぐ
+「転移アイテムを所持しているのよ。渡航禁止は未知の病気が発生してからでも遅くないわ」
+    所持            しょじ
+「しかし……かような組織が今まで誰にも庇護されず、活動を続けられたことが不自然だと思うのです」
+    庇護            ひご
+「誰もそんなことは言っておりませんよ。しかしその激昂ぶりを見る限り、心当たりでもあるのでしょうか」
+    激昂            激高            げっこう
+    心当たり            こころあたり            having in mind; happening to know of; idea​
+「ははっ、さすが領土泥棒は言うことが違うな。 他所を疑う前に自身の潔白を証明するのが先だろう」
+    領土            りょうど
+    他所            余所            よそ
+    潔白            けっぱく
+「参ったわね……こうならないように気をつけていたけど、回を重ねるごとに沸点が低くなっているわ」
+    回を重ねる          かいをかさねる          to advance (as of a baseball game); to repeat​
+    沸点            ふってん
