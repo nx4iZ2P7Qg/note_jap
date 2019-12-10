@@ -1,33 +1,53 @@
-「あれ? 誰かにディスられた気がするんだけど僕の気のせいかなー?」
-    ディスる            でぃする            to disrespect
-きょろきょろと辺りを見回すジョンだったが、その声も当然のように無視された。
-    きょろきょろ            (looking around) restlessly; (looking) all around; goggling
-「いいえ、前年度と同じ予算では現状の船が止まっている損害は賄いきれないわ。補正してくださるのかしら」
-    賄う            まかなう            to supply (goods, money, etc.); to cover (costs); to pay; to finance; to maintain (e.g. a family)​
-    補正            ほせい
-いよいよ採決という段階になって、 振り出しに戻すように話を蒸し返すロナに参加者たちは言葉を失う。
-    いよいよ            愈々            more and more; all the more; increasingly​
-    採決            さいけつ            vote; ballot; division​
-    振り出し            ふりだし            starting point; beginning; outset​
-    蒸し返す            むしかえす          to bring up again (a problem that has been dealt with); to take up again; to drag up; to rehash​
-「だったら船の渡航禁止を解除しなさい。病気の心配がないのならできるわよね」
-    渡航            とこう
-「それはキノコックスとは違って既知の病気でしょう。渡航禁止を言い渡すほどの物ではないわ」
-    既知            きち
-「ロナさん、そちらはイシュタムという組織の暗躍を危惧しているとのことですが、その者たちの存在は確かなのですか?」
-    暗躍            あんやく            secret manoeuvres (maneuvers); operating behind the scenes​
-    危惧            危ぐ            きぐ
-「転移アイテムを所持しているのよ。渡航禁止は未知の病気が発生してからでも遅くないわ」
-    所持            しょじ
-「しかし……かような組織が今まで誰にも庇護されず、活動を続けられたことが不自然だと思うのです」
-    庇護            ひご
-「誰もそんなことは言っておりませんよ。しかしその激昂ぶりを見る限り、心当たりでもあるのでしょうか」
-    激昂            激高            げっこう
-    心当たり            こころあたり            having in mind; happening to know of; idea​
-「ははっ、さすが領土泥棒は言うことが違うな。 他所を疑う前に自身の潔白を証明するのが先だろう」
-    領土            りょうど
-    他所            余所            よそ
-    潔白            けっぱく
-「参ったわね……こうならないように気をつけていたけど、回を重ねるごとに沸点が低くなっているわ」
-    回を重ねる          かいをかさねる          to advance (as of a baseball game); to repeat​
-    沸点            ふってん
+「相変わらず口の減らない嫌味な女だ。こんなのを巫女姫だと敬っている蔵握の領民が憐れでならないな」
+    口の減らない            くちのへらない          always having a comeback; fast-talking
+    嫌味            いやみ
+    巫女            神子            みこ
+    敬う            うやまう
+すでに悪口の応酬になっている二人を補佐する者も止めるどころか憎しみのこもった目で相手を睨んでいる。
+    悪口            わるぐち
+    応酬            おうしゅう
+    篭る            籠る            こもる
+そんな状況を冷ややかな目で見つめているのは宰相のエピデとロナ、エピデは愉快そうに、ロナは呆れている様子である。
+    冷ややか            冷やか
+    愉快            ゆかい
+「二つの領地の境には開拓しようのない湿地帯があって、どっちも放棄していたんだけど、急に開発可能な技術が編み出されたのよ」
+    境          界          さかい
+    湿地帯          しっちたい
+    放棄            ほうき
+    編み出す            あみだす
+「それが分かった途端に奪い合いというわけだ」
+    途端に          とたんに            just as; in the act of; as soon as; at the moment that​
+「まったく、以前よりも拗れているじゃないの。申し訳ないけど、渡航禁止の解除は無理そうだわ」
+    拗れる          こじれる            to get complicated; to grow worse; to turn sour​
+「この陰険もやし娘め ! 」
+    陰険            いんけん
+    もやし
+「礼儀知らずの野蛮人が！」
+    野蛮            やばん
+「この会議は無駄です。コストに見合いませんので切り上げましょう」
+    見合う          みあう          to correspond; to counterbalance​
+    切り上げる          きりあげる          to close (at a certain point); to cut short; to stop early; to finish (at a convenient spot)​
+「公爵同士の会話に口を挟むなんて身の程知らずな。立場を弁えなさい」
+    口を挟む            くちをはさむ
+    身の程知らず            みのほどしらず          not knowing one's social position; overweening; overreaching; forgetting who one is​
+    弁える          わきまえる
+「まったく、やれやれね。警備費も馬鹿にならないのに、こんな茶番に付き合わされるなんてね」
+    馬鹿にならない          something not insignificant; not to be sneezed at​
+    茶番            ちゃばん
+「三公爵のうち二人があの状況だと先が思いやられるな」
+    思いやられる            to be worried about; to be concerned about​
+「英雄病のせいで世間には病気が溢れている。慣れてしまった故に危機感に乏しいんだ」
+    故に            ゆえに
+    乏しい          とぼしい
+公爵会議という滅多にない出来事を体験したアレクたちは、一度ホワイトの街へと引き返すことにしたのだった。
+    滅多にない          めったにない            rare
+ホワイトキャッスルでは公爵会議で名前の挙がったイシュタムが堂々と寛いでいた。
+    上がる          揚がる          挙がる          上る            あがる
+    寛ぐ            くつろぐ            to relax; to feel at home
+「表向きはジョン国王お抱えの宮廷医師、ヴェーザーと名乗っているんですけどね」
+    表向き          おもてむき          outward appearance; ostensible; public; official​
+    お抱え          おかかえ            personal (employee); employed; retained
+    宮廷            きゅうてい
+「設定だなんて酷いですね。やはり国王を診察しておきましょうか……聖騎士の血脈なら調べるに値するでしょう」
+    血脈            けつみゃく
+    値する          価する          あたいする
