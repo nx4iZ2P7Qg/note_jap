@@ -14785,3 +14785,45 @@
 「設定だなんて酷いですね。やはり国王を診察しておきましょうか……聖騎士の血脈なら調べるに値するでしょう」
     血脈            けつみゃく
     値する          価する          あたいする
+「エピデが近づかせまい。ジョンは奴にとって欠かせぬ駒だ」
+    欠かす          かかす          to miss (doing); to fail (to do)​
+    駒          こま            piece
+「聖騎士の末裔にホルス像……大事な物をひけらかされると困るのですよねえ」
+    末裔            まつえい
+    ひけらかす          to show off; to make a display (e.g. of wealth)​
+「……イシュタムは我らに世界の救済を望んでいるが、内輪もめは望んでいない」
+    救済            きゅうさい
+    内輪もめ            内輪揉め            うちわもめ          internal conflict; family quarrel; domestic trouble​
+「我らは手法は違えど目的は一つだ」
+    手法            しゅほう
+「分かっていますよ。現に今も一仕事を終えて一服しているのです。 指定された病気はエンデが撒き終わっていましたよ」
+    一服            いっぷく            (a) dose; (a) puff; (a) smoke; lull; short rest​
+「そうか……憎しみの種は蒔いている。あとは生け贄の血を捧げれば良いだけだ」
+    蒔く            播く            まく            to sow; to plant; to seed​
+    生け贄          いけにえ            sacrifice
+「所詮は紛い物か……」
+    紛い物          まがい物            まがいもの          imitation; fake; sham​
+「おっと、いけない。無用な詮索はしない主義でした」
+    詮索            せんさく            inquiry into; enquiry into; prying (into); investigation; search; exploration​
+ハーメルンは道化じみた仕種で首を振ると温くなった紅茶に口を付けた。
+    道化            どうけ          clown; jester​
+    じみる          染みる          to become; to appear like; to have a touch of; to look like
+「いえ、まったく。ただ友人としてお節介を焼いただけです」
+    節介            せっかい            meddling; meddlesomeness; nosiness; interference; officiousness​
+「まだ未知数だ。仮に敵となっても私の治療を妨げるだけのカがあるとは思えないな」
+    妨げる          さまたげる
+ハーメルンはピュロスに気付かれないように密かに含み笑いを浮かべていた。
+    密か            秘か            ひそか          secret; private; surreptitious​
+
+「ざっとカノの家の…… 3倍はあるな」
+    ざっと          roughly; approximately; round about; more or less​
+「僕の家を基準にしないでくれるか。都会の貴族は見栄とか世間体とかがあるんだよ……きっと」
+    見栄            見え            airs; pretensions; show; ostentation; display; appearance; vanity; charm
+    世間体          せけんてい          appearance (in the eyes of society); decency​
+シャロの実家、ブロンテ家が有する敷地の広さに戸惑っていた。
+    敷地            しきち          site; plot; lot; grounds​
+「……どうなのかしらね。確かに出世はしているみたいだけど」
+    出世            しゅっせ
+「有能な者は重用され、時として叙爵されることもある。もちろん無能なら御家断絶だ」
+    叙爵            じょしゃく          conferring a peerage​
+    御家            おいえ
