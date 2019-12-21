@@ -1,13 +1,61 @@
-「よっこらせっと！」
-    よっこらしょ           heigh-hoh; heave-ho; alley oop​     expression of effort or strain
-逃げる男とからくりの間に差し込まれた巨大な戦斧は攻撃を防ぎきり、そのままからくりを真っ二つにした。
-    戦斧            せんぷ
-    真っ二つ            まっぷたつ          in two equal parts​
-倒されたと思ったからくりは再起動すると、背を向けて無防備なベイスケに攻撃を放つ。
-    無防備          むぼうび
-先程までの誠意ある態度は消え失せ、ヒートはアレクをゴミを見るような目で見つめていた。
-    先程            先ほど          さきほど            a short while ago; a moment ago; just now; some time ago​
-「いや、今はイエローの街までの護衛任務を請け負っているんだ」
-    請け負う            うけおう            to contract; to undertake​
-「ちょっとベイスケさん、依頼主から離れすぎるのはまずいですよ！」
-    依頼主          いらいぬし
+「ひえええっ! もしかして労基署! ?残業代出しますから許してください」
+    労働基準監督署          ろうどうきじゅんかんとくしょ
+    残業代          ざんぎょうだい          overtime pay; overtime money; overtime payment​
+「どうやら他の工場みたいだな。虱潰しに捜すぞ」
+    虱潰し          しらみつぶし            very thorough search (for contraband, escaped convict, etc.)
+「動機は怨恨か……」
+    怨恨            えんこん
+「うるさい ! 俺たちの苦しみなんて分かりっこない……隙間風だらけのぼろ家で俺の嫁さんは……」
+    隙間風          すきまかぜ
+「エッチできないせいでヒステリーを起こしてるんだよ！」
+    ヒステリー          hysteria
+「お気の毒に……でも、だからと言って無関係の人を攻撃するのは間違っています」
+    お気の毒            おきのどく          I am sorry (to hear, to say, etc.); a pity
+「すごい、ユラギお姉ちゃんぶれない、ね」
+    ぶれる          to be blurred
+「黙れ! こうなったら奥の手だ !違法パーツをふんだんに使った特製のからくりをけしかけてやる ! 」
+    奥の手          おくのて            ace up one's sleeve; trump card; last resort​
+    ふんだん            plentiful; abundant; ample; lavish​
+    けしかける          嗾ける          to instigate; to incite; to spur on; to set (e.g. a dog after someone)​
+工場の柱の陰から、がちゃがちゃと歯車の噛み合う音を鳴らしながらからくぐりが現れた。
+    柱          はしら
+    歯車            はぐるま            gear; cogwheel​
+「こいつが首魁か……」
+    首魁            しゅかい
+駆けつけたヒートは項垂れたままのポピンズを見つけると剣を抜いた。
+    項垂れる            うなだれる
+制止しようとするアレクよりも早く、ヒートを諫める声が響いた。
+    諫める          いさめる            to remonstrate; to admonish (someone) for; to advise (someone) not to; to warn against​
+「彼はすでに抵抗の意志を見せてはいません。無下に命を奪う必要も無いでしょう」
+    無下に          むげに          bluntly (refusing, etc.); flatly; out of hand; completely
+「あと、これは慰労金です。少ないですが受け取ってください」
+    慰労金          いろうきん
+「ちょっ、またですか!立ち寄る先々で寄付だ義援金だってばらまきすぎですよ!」
+    先々            さきざき            distant future; inevitable future
+    寄付            きふ            contribution; donation​
+    義援金          義捐金          ぎえんきん          donation money
+    ばらまく            ばら撒く            ばら蒔く
+「ふう、まさか公爵の姉がうろついているとは思わなかったな」
+    うろつく            to loiter; to putter; to prowl; to wander aimlessly; to knock around; to hang around
+「あの鎧を着たパトリオット公爵のお姉さんか、割と年の離れた姉妹なんだな」
+    姉妹            しまい
+「良い人なんだけど、なぜかよい縁談に恵まれないみたいだ」
+    縁談            えんだん            marriage proposal; marriage talks​
+    恵まれる            めぐまれる          to be blessed with; to be rich in; to abound in​
+「随分と太っ腹な人だったな」
+    太っ腹          ふとっぱら          generous; magnanimous; big-hearted; broad-minded
+「福祉や社会保障にどんどん金を注ぎ込む人らしい……良い縁談に恵まれないのもその辺りが原因かもな」
+    福祉            ふくし
+
+「なんだ……ここはゴミ集積所か?」
+    集積            しゅうせき
+「ゴミ集積所とは失礼だな。ここは街には入れない俺たちが築いた仮初めの町だぞ」
+    仮初め          かりそめ            temporary; transient​
+「ボコボコに凹んだ金属バットにトイレットペーパーの芯……」
+    凹む            へこむ
+    芯          しん
+「こっちには放置してカビだらけのコッペパンまであります」
+    カビ            黴          かび            mold; mould; mildew​
+    コッペパン          bread roll; hot dog bun
+「なんだかゴキブ……」
+    ゴキブリ            ごきぶり            cockroach
