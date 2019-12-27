@@ -15283,3 +15283,40 @@ Mパイプラインの下にプラチナが隠れられるほど大きな植物�
     代替わり            だいがわり
 食い下がるブラウニーを躱しつつホスピスを後にしたアレクたちは、万華を求めてマン湖の探索を行うことにした。
     躱す            かわす
+
+「……やっぱり嫁とはいえ女の子がその単語を口にするのは気になるな」
+    単語            たんご
+「ええ、善処しないこともありません……」
+    善処            ぜんしょ
+「貴族たるもの領民の代わりに大いに泣くべきです」
+    たる            (those) who are; (that) which is; often used in relation to qualifications and requirements for a position; in the capacity of​
+ペトリはベイスケの言葉に曖昧な返事をするとイエローの街へと去って行った。
+    曖昧            あいまい            vague; ambiguous; unclear​
+「ギルドの仕事がこんなにハードだったなんて……次から次に切りが無いですよ」
+    次から次に          つぎからつぎに          in succession; one after another​
+「戦士ギルドも英雄病のせいでなり手がどんどん減っていますから……」
+    なり手          なりて          person willing to take on a role; willing candidate​
+「戦士って言うのは戦闘のプロだ……その気になれば街の住人を皆殺しにもできるからな」
+    皆殺し          みなごろし          massacre; annihilation; wholesale slaughter​
+「こいつ、そういう人捜しみたいなのが得意らしくてな、こっちにお鉢が回ってきたんだ」
+    人捜し          ひとさがし          manhunt​
+    お鉢が回る          おはちがまわる          (for one's turn) to come round
+「斥候技術ですね。 幼い頃から仕込まれていただけですよ」
+    斥候            せっこう
+「本当だぞ、現にこの辺りの情報はあらかた集め終わってるし」
+    あらかた            粗方            mostly; almost; nearly; for the most part
+「で、情報ついでに聞いた話を教えてやる。この辺りにテロリストが潜伏してるらしいから気をつけろよ」
+    潜伏            せんぷく
+「まあ、僕たちの捜している奴らとは違うみたいだけど、用心するにこしたことはないと思う」
+    にこしたことはない          に超したことはない          に越したことはない          it's best to; it's safest to; there's nothing better than​
+「テロリストか……蔵握との決着を望む声が多い中、そんな事件が起これば戦争に傾れ込みそうだな」
+    傾れ込み            雪崩れ込む          なだれこみ          to rush into; to surge into; to crowd into
+「一体誰がそんな事を企んでいるのでしょう」
+    企む            たくらむ
+「正体までは分からないが、不穏な輩が徘徊しているのは確かだ。 注意しろよ」
+    不穏            ふおん          disquieting; threatening; turbulent; restless; unsettled; disturbing​
+    輩          やから
+    徘徊            はいかい
+「ややこしいな、もう……万華はマン湖の中洲に生えているぞ。側の橋を渡ればすぐだ」
+    ややこしい          puzzling; tangled; complicated; complex​
+    中洲            中州            なかす          sandbank (in a river); sandbar​
