@@ -15916,3 +15916,80 @@ Mパイプラインの下にプラチナが隠れられるほど大きな植物�
     微塵            みじん
 エンデが思わず口にしていた言葉にエミーリアが笑いながら返答する。
     返答            へんとう            reply; answer​
+
+「優秀すぎるお姉ちゃんといつも比較されて大嫌いだったけど、今は立場が大逆転」
+    比較            ひかく
+    大嫌い          だいきらい
+    大逆転          だいぎゃくてん
+「私を歩けない体にしたという罪悪感を刺激して、一生便利に使ってやるわ」
+    罪悪感          ざいあくかん
+「その結果が分からんのだ !公爵はマン・トラとペトリ様の仲介で急に辺境伯と会うと言い出すし……」
+    仲介            ちゅうかい          agency; intermediation​
+「そもそも、なぜ私の同席を拒否する !くそっ、私の知らないところで何かが動いているのか……」
+    同席            どうせき
+    拒否            きょひ
+セドリックは心当たりを探るようにメモをめくるが答えは記されていない。
+    心当たり            心当り          こころあたり            having in mind; happening to know of; idea​
+    探る            さぐる
+    めくる          捲る            to turn over; to turn pages of a book
+    記す            しるす
+(この男、ここまで短気な男だったかしら?)
+    短気            たんき          short temper; quick temper; hot temper; impatience; irritability​
+「そうだ、私はまだまだこれからだ……侯爵などという地位に安穏と過ごすなど許されないのだ……」
+    安穏            あんのん
+「ん ? ああ、口車のこと?」
+    口車            くちぐるま          cajolery; wheedling​
+「一種の催眠状態……いえ、相手を完全にマインドコントロールしているわ。スキルも使わずに、よくやるわね」
+    一種            いっしゅ
+    催眠            さいみん
+「もっとも、少しでも優秀なお姉ちゃんから御父様の目を向けさせるために編み出した必殺技なんだけどね」
+    必殺技          ひっさつわざ
+「あなたは力を渇望し、そして得たのね。じゃあ、その足も……」
+    渇望            かつぼう
+「そう、これって自分で足が動けないって強い暗示をかけているの。限りなく本物に近い仮病って訳よ」
+    暗示            あんじ
+「こうやって儚げな令嬢を演じていれば、私の一生は家族に養ってもらえて安泰よ。せいぜい馬車うしのように働いてもらうわ」
+    儚い            果敢ない            果かない            はかない            fleeting; transient; short-lived; momentary; ephemeral; fickle; vain
+    令嬢            れいじょう          (your) daughter; young woman
+    演じる          えんじる
+    養う            やしなう
+    安泰            あんたい
+    せいぜい            精々            at the most; at best; to the utmost; as much (far) as possible
+「家族は食い物……姉は超えるべき相手で、できなければ道具として一生を終える」
+    食い物          くいもの            food; foodstuff​
+    一生            いっしょう
+エミーリアはベッドから這い出るとエンデに気さくに笑いかけた。
+    気さく          きさく          friendly; openhearted; sociable; amiable; good-humored
+もちろん、相手が体内にいくつも病気をストックでき、多くの死を振りまいていたとは知る由もなかった。
+    知る由もない            しるよしもない          to have no way of knowing; to be completely ignorant of​
+内装の豪華さに感嘆の声をあげつつもシャロは内心で焦っていた。
+    内装            ないそう
+(どうしよう、結局密書は奪えなかった。カノが思ってた以上に用心深いのよね)
+    用心深い            ようじんぶかい          careful; cautious; wary; watchful; vigilant; prudent​
+(ええっ! さ、さすがにユラギちゃんやプラチナちゃんを差し置いて同行を願い出るのは不自然か……)
+    差し置く            さしおく            to leave as is; to let alone; to disregard​
+さらに内心で焦るシャロを残してアレクとカノの二人は公爵の執務室へと通された。
+    執務室          しつむしつ
+「どうした、いつも以上に挙動不審だぞ」
+    挙動不審            きょどうふしん          suspicious behavior; acting suspiciously
+「不審者みたいに言わないでくれ。いや……美人に会うのは嬉しいんだが、あの人はちょっと苦手かもしれない」
+    苦手            にがて
+「戦略級スキルを所有している方だからな。恐れるのも無理はないか」
+    戦略            せんりゃく
+「すまなかったな。 私の決裁が必要な執務があって少し時間がかかってしまった」
+    決裁            けっさい
+    執務            しつむ
+「ははは、そう気を使わなくて結構だ。こっちとしては仕事をさぼる口実ができて大助かりなんだからな」
+    気を使う            きをつかう          to pay attention to another's needs; to attend to; to fuss about; to take into consideration​
+    さぼる          to be truant; to play hooky; to skip school; to skip out
+    口実            こうじつ            excuse; pretext
+    大助かり            おおだすかり
+「これでも忙しい身でな、少しでも時間を確保するために無作法を承知で呼び入れたのだが……度が過ぎたか?」
+    無作法          不作法          ぶさほう            ill-mannered; rude​
+    承知            しょうち
+    度          ど
+「ああ、分かった。きっと喧嘩相手のスパルタンとやらがいないからだな」
+    とやら          indicates uncertainty or second hand nature of information quoted
+「すまないアジモフ公、こ、こいつはなにぶんにも田舎者で……」
+    公          こう
+    なにぶんにも            何分にも            anyway; anyhow; at any rate; after all​
