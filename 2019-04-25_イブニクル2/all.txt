@@ -15993,3 +15993,76 @@ Mパイプラインの下にプラチナが隠れられるほど大きな植物�
 「すまないアジモフ公、こ、こいつはなにぶんにも田舎者で……」
     公          こう
     なにぶんにも            何分にも            anyway; anyhow; at any rate; after all​
+
+「戸惑うのも無理はないが、公爵会議は色々としがらみも多くてね。どうしても硬い対応になってしまうのさ」
+    しがらみ            柵          weir​       bonds; fetters; ties of obligation​
+「ほう、じゃあ今のフランクな態度の方が素のパトリオットと言うことか」
+    フランク            frank; candid​
+「もしかして私を口説いているのか? いったいどんな手管でロナを籠絡したのか気になってしまうな」
+    口説く          くどく          to persuade; to coax; to solicit​
+    手管            てくだ          wiles; trick; artifice; coquetry​
+「なんだ、ロナはぼっちか」
+    ぼっち          aloneness; loneliness; solitude
+「はははっ ! つまりそんな軽口を叩ける間柄というわけだな」
+    間柄            あいだがら          relationship; relation; terms (good, friendly, etc.)​
+「詳しい入手の経緯を訊いても良いか?」
+    経緯            けいい
+    訊く            聞く            聴く            きく
+「妹の事故を境に性格が変わったんだ。貴族のお嬢様らしい振る舞いを覚えたのかと思いもしたが……」
+    境          界          さかい
+    振る舞い            ふるまい            behavior; behaviour; conduct​
+「お嬢様のように感じたんだが……まるっきり違う性格だな。ユラギは何か言ってるのか？」
+    まるっきり          丸っきり            completely; absolutely; totally; (not) at all​
+「ユラギはああいう性格だからな……シャロが変わってしまっても彼女だけは普段と変わらなかったよ」
+    ああいう            ああゆう            that sort of; like that​
+「詮索するつもりはないが、気にはなる」
+    詮索            せんさく            inquiry into; enquiry into; prying (into); investigation; search; exploration​
+「ん？それって先日の公爵会議で罵り合っていた女性じゃないか？……もしかして果たし状？」
+    果たし状            はたしじょう            letter of challenge (to a duel, etc.)​
+「手紙の内容もたわいのない話がほとんどで、面白かった本の感想や、スイーツ情報、あとはコイバナをするくらいだ」
+    たわいのない            他愛のない          silly; foolish; absurd; childish; easy; trifling; guileless​
+    コイバナ            恋バナ          talking about one's love interests; girls' talk; gossiping​
+「もちろん公爵会議での言い争いも本心ではない。事前に二人で台本を用意していただけの話だ」
+    台本            だいほん            script; libretto; scenario​
+「領民の不満を発散するためだ。いくら宥めても無駄だと悟った私たちは領民の代わりに喧嘩して見せたのさ」
+    悟る            覚る            さとる
+「会議の議事録をマスコミに流し、領民に溜飲を下げさせることで不満を抑えた。最初の頃は上手くいってたんだぞ」
+    議事録          ぎじろく            record of proceedings; minutes​
+    マスコミ            mass communication; mass media
+    溜飲が下がる            りゅういんがさがる          to feel relieved; to feel satisfied​
+「私とスパルタンが担ぎ出されれば領地の大半は焼け野原になるぞ」
+    担ぎ出す            かつぎだす
+「狂気に支配されている人間は冷静さを失うものだ」
+    狂気            きょうき
+「私に独裁者になれと言っているのか ?領民が望む戦争を止めれば、次に起こるのは内戦だぞ」
+    独裁者          どくさいしゃ
+「私は公爵に叙されているが、政治はほとんど貴族任せだし、基本はスキルありきのお飾りだ」
+    叙する          じょする
+    ありき          based on; originating from​
+「船を止めているのも、私と彼女の二人で考えた浅知恵に過ぎない」
+    浅知恵          あさぢえ            shallow thinking; shallow wit​
+「二つの領地を意図的に険悪な関係に持ち込もうとする者がいる」
+    意図的          いとてき
+「いっそのこと、彼女に支配してもらえば話は早いんだけどな」
+    いっそのこと            いっその事          rather; sooner; preferably
+「とまあ、公爵なりの悩みがあるのだがさすがに不満をぶちまけたくなったので信頼できると見込んだ辺境伯を巻き込んだ」
+    ぶちまける          to tell everything; to reveal everything; to open one's heart; to spill out​
+パトリオットはアレクの顔をしげしげと眺めると何かと納得したように頷いた。
+    しげしげ            繁々            fixedly; narrowly; closely​
+「ああ、とても優しい人だからな。スキルがあるというだけで公爵の座を奪った私にも非常に良くしてくれる人だ」
+    座          ざ
+「公爵になる予定だったから相手選びもしていなかったんだ。どうしようかと考えているうちに年を重ねてしまってね」
+    重ねて          かさねて            once more; repeatedly​
+「ひょっとして姉上も言葉巧みに近づいて口説こうとしたのではないか」
+    ひょっとして            by any chance; (should) it happen (that); by some chance​
+    言葉巧み            ことばたくみ            skillful words; deceitful words; glibness​
+「俺だって誰彼構わずじゃないぞ」
+    誰彼            だれかれ            this or that person; anybody; many people​
+「……なんだ、違うのか。姉上には良縁を結んで欲しいとは思っているんだけどな」
+    結び            むすび
+「うちには爵位を取るために犯罪者と手を組む親族がいたというのに……羨ましい話だ」
+    爵位            しゃくい
+    親族            しんぞく
+「お叱りは後ほど !ぞれよりも重大事です」
+    後ほど          後程            のちほど            later on; eventually; afterwards
+    重大事          じゅうだいじ
