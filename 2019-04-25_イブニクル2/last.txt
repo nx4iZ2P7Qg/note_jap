@@ -1,56 +1,81 @@
-「ふん、どうやら邪魔者らしいな……余計なことに首を突っ込むと後悔するぞ」
-    後悔            こうかい
-「諦めて裁きを受けろ。同情はするが罪は罪だ」
-    裁き            さばき
-いまだ攻撃の意思を示し続ける男に注意を払っているアレクたちの隙を突き、巫女姿の女性がペトリに注射を刺していた。
-    いまだ          still; even now; to this day
-咳き込み、血を吹き出すペトリに慌ててアレクが駆けつける。
-    咳き込む            せきこむ            to cough violently
-魔力中継所へと傾れ込んだ兵士たちはアレクたちに武器を突き付けていた。
-    傾れ込む            雪崩れ込む          なだれこむ          to rush into; to surge into; to crowd into​
-「アレクさん、容体は?」
-    容体            容態            ようだい            condition; state (of health); appearance​
-「くっ、ややこしい事になったな」
-    ややこしい          puzzling; tangled; complicated; complex​
-混沌とした場に兵士を派遣したセドリックと指揮を執ったピュロスが現れた。
-    混沌            こんとん
-    派遣            はけん
-    執る            とる            to take (trouble); to attend (to business); to command (army)​
-「これは一体……おお、ペトリ様 !何とおいたわしい姿に……」
-    いたわしい          労しい          heartrending; pitiful​
-「ふんっ、言い逃れか !ここには貴様達しかいない !この犯罪者を殺せ ! 」
-    言い逃れ            いいのがれ          evasion; excuse; subterfuge; runaround​
-「うるさい、黙れ !ペトリ様の仇だ、殺してしまえ ! 」
-    仇          あだ
-「双方、剣を引け ! 」
-    双方            そうほう
-衝突寸前の現場に姿を見せたのは、城にいるはずのパトリオットだった。
-    寸前            すんぜん
-セドリックはメモをめくると、予め準備していたと思しき台詞を口にした。
-    めくる          捲る
-    予め            あらかじめ          beforehand; in advance; previously
-    台詞            科白            せりふ
-(ちっ、スキルに恵まれただけの女が忌々しい……だが、向こう側の準備が整うまで失うわけにはいかぬ)
-    恵まれる            めぐまれる          to be blessed with; to be rich in; to abound in​
-    忌々しい            いまいましい            annoying; provoking​
-「一命は取り留めた。早くホスピスに運んでくれ、そこでじっくり診察したい」
-    一命を取り留める            いちめいをとりとめる            to escape death; to be saved from death
-「いや、統率は以前より取れている。だが暴走する兵士は扱いに困るな……兵士への指導内容を見直してくれ」
-    統率            とうそつ
-「承った、慎重に行おう」
-    承る            受け賜わる          うけたまわる            to hear; to be told; to know​
-「ありがとうアレク !お前の顔を見ると無性に抱きしめたくなってしまったのだ !」
-    無性に          むしょうに          excessively; very much​
-「ユラギ、幼い見た目のプラチナより男女関係に疎かいとか……友達として心配になってくるよ」
-    疎かい          疎開            dispersal; evacuation; removal​
-「こいつ公爵令嬢にまで……何でこんな奴がモテるんだよ」
-    令嬢            れいじょう          (your) daughter; young woman​
-
-「ふぅ、やっぱり病気だった。メディカで調べたら毒蝮サンダーという訳の分からない病名? が出たんだが……」
-    毒蝮            どくまむし
-    病名            びょうめい
-「毒蝮サンダー! ?それは闘族時代に病死を装って対象を暗殺するために使われた毒のことです」
-    装う            よそおう
-「毒か……さすが世界中が戦争にあけくれた闘族時代。本当に碌でもないな」
-    あけくれる          明け暮れる          to do nothing but; to spend all one's time doing​
-    碌でもない          ろくでもない            good-for-nothing; worthless
+「何とか持ち直したが、体内に吸収された毒物が症状を発生させるから撲滅しないときりがない」
+    持ち直す            もちなおす          to recover; to rally; to improve; to pick up​
+    毒物            どくぶつ
+    きりがない          切りが無い          endless; boundless; innumerable​
+「失った体力が回復しきれない。このままだといずれ衰弱して……」
+    衰弱            すいじゃく
+「その、アレクのスキル……メディカは本当に規格外の能力なのだな。せ、セックスで病気を治すだなんて」
+    規格外          きかくがい          non-standard
+ホスピスには全ての執務を後回しにしたパトリオットも駆けつけていた。
+    後回し          あとまわし          putting off; postponing​
+「俺はぎりぎり、ペトリさんなら有りだが」
+    ぎりぎり
+    有り            在り            あり            alright; acceptable; passable
+「いや、好みとかどうとか以前にだな、その……これは身内しか知らない秘密の話なのだが……」
+    身内            みうち          relatives; one's family​
+「医者として守秘義務は守るぞ」
+    守秘義務            しゅひぎむ
+「そうか……その、だな。姉上は重度のショタコンなのだ」
+    ショタコン          sexual interest in young boys; boy love
+「姉上の好みは年下、しかもかなりの年下を対象にしているため、今まで婚期を逃してきたのだよ」
+    年下            としした            younger; junior​
+    婚期            こんき          marriageable age; chance of marriage​
+「どうしたマン・トラ。ホスピスで騒々しくするな」
+    騒々しい            そうぞうしい
+「重体で運び込まれたって聞いたぞ」
+    重体            重態            じゅうたい          serious condition; critical condition​
+「あんな優しい方が襲われるだなんて、ああ、おいたわしや」
+    いたわしい          労しい
+「これも戦争に賛成する者の仕業か……」
+    賛成            さんせい
+「……だが、もしも姉上がこのまま命を落とすことになったら……」
+    もしも          若しも
+「ふむ、じゃあ正攻法でいくしかないか」
+    正攻法          せいこうほう            frontal attack​
+「毒蝮サンダーの毒、それが手に入れば血清を作れると思う」
+    血清            けっせい
+「そうだな。案外、現地に向かえば良い手が浮かぶかもしれないぞ」
+    案外            あんがい            unexpectedly; surprisingly​
+「以前のカノなら分の悪い賭けだと言って乗らなかったはずですが」
+    分の悪い            ぶのわるい          disadvantageous; long (odds)
+「このままだとイシュタムの連中の思う壺だ。なんとしてでもペトリさんを助けて奴らの鼻をあかしてやろう」
+    思う壺          おもうつぼ          one's wishes; one's expectations​
+    鼻を明かす          はなをあかす            to outwit; to get the better of; to overcome a superior opponent and leave him speechless​
+「パトリオット、ペトリさんの容体は安定しているが点滴だけは絶やすな。栄養を与えていればしばらくは持つ」
+    絶やす          たやす          to exterminate; to eradicate; to wipe out; to put an end to​
+「どういうことだ、シャロ！公爵はあの男と……で、できているのか！」
+    できる          to become intimate; to take up (with somebody)​
+セドリックは苛立たしげに予測をメモへと書き記していく。
+    苛立たしげ          いらだたしげ            antsy; agitated; irritated; anxious; vexed​
+    書き記す            かきしるす
+「そうだ、公爵会議だ !ハイラインの成金が連れてきた男がそういう名だった」
+    成金            なりきん            upstart; nouveau riche; new money; new rich; coming into wealth suddenly
+「あと少しで南部の民として差別された私がアジモフの全てを裏から牛耳れるというのに……」
+    牛耳る          ぎゅうじる          to control; to take the lead in; to have under one's thumb​
+「ふん、あの男との逢い引きの口実だろう。その件に関しては捨て置け」
+    逢い引き            媾曳き          あいびき            (secret) date; clandestine meeting; assignation; tryst; rendezvous​
+    口実            こうじつ            excuse; pretext​
+    捨て置く            すておく            to leave as is; to ignore​
+「パトリオットはあの男に心を許しかけている……完全に堕ちればアジモフはハイラインの手に……」
+    心を許す            こころをゆるす          to trust; to relax one's guard (around)​
+    堕ちる          墜ちる          落ちる          おちる
+「だから体を使えと言っている。奴の顔を見れば分かる……相当な女好き、お前が誘えば簡単乗ってくる」
+    女好き          おんなずき
+「すぐに未亡人になる」
+    未亡人          みぼうじん          widow​
+「次の公爵は私が思い通りに動かせる傀儡を立て、ゆくゆくは世界を……」
+    傀儡            かいらい
+    ゆくゆく            行く行く            on the way; someday
+「失敗すればブロンテ家は終わる。そうなったらエミーリアは路頭に迷ってしまうのだぞ」
+    路頭に迷う          ろとうにまよう          to be left without means of sustenance; to be turned adrift in the streets; to be rendered homeless
+二人の密談に割って入ったのはエンデに肩を借りて入室したエミーリアだった。
+    密談            みつだん
+エミーリアがシャロに手渡したのは禍々しい装飾の施された一振りのナイフだった。
+    禍々しい            まがまがしい
+    装飾            そうしょく
+    施す            ほどこす
+    一振り          ひとふり
+「これを使えばお姉ちゃんは頼まれたお仕事を完璧にこなせるからね」
+    こなす          熟す
+「あれは闘族時代の遺物。素人を暗殺者に仕立て上げる呪われたナイフ」
+    仕立て上げる            したてあげる            to make out to be; to set someone up (as); to prepare (e.g. someone for a role)
