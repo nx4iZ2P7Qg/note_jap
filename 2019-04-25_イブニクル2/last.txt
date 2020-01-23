@@ -1,81 +1,96 @@
-「何とか持ち直したが、体内に吸収された毒物が症状を発生させるから撲滅しないときりがない」
-    持ち直す            もちなおす          to recover; to rally; to improve; to pick up​
-    毒物            どくぶつ
-    きりがない          切りが無い          endless; boundless; innumerable​
-「失った体力が回復しきれない。このままだといずれ衰弱して……」
-    衰弱            すいじゃく
-「その、アレクのスキル……メディカは本当に規格外の能力なのだな。せ、セックスで病気を治すだなんて」
-    規格外          きかくがい          non-standard
-ホスピスには全ての執務を後回しにしたパトリオットも駆けつけていた。
-    後回し          あとまわし          putting off; postponing​
-「俺はぎりぎり、ペトリさんなら有りだが」
-    ぎりぎり
-    有り            在り            あり            alright; acceptable; passable
-「いや、好みとかどうとか以前にだな、その……これは身内しか知らない秘密の話なのだが……」
-    身内            みうち          relatives; one's family​
-「医者として守秘義務は守るぞ」
-    守秘義務            しゅひぎむ
-「そうか……その、だな。姉上は重度のショタコンなのだ」
-    ショタコン          sexual interest in young boys; boy love
-「姉上の好みは年下、しかもかなりの年下を対象にしているため、今まで婚期を逃してきたのだよ」
-    年下            としした            younger; junior​
-    婚期            こんき          marriageable age; chance of marriage​
-「どうしたマン・トラ。ホスピスで騒々しくするな」
-    騒々しい            そうぞうしい
-「重体で運び込まれたって聞いたぞ」
-    重体            重態            じゅうたい          serious condition; critical condition​
-「あんな優しい方が襲われるだなんて、ああ、おいたわしや」
-    いたわしい          労しい
-「これも戦争に賛成する者の仕業か……」
-    賛成            さんせい
-「……だが、もしも姉上がこのまま命を落とすことになったら……」
-    もしも          若しも
-「ふむ、じゃあ正攻法でいくしかないか」
-    正攻法          せいこうほう            frontal attack​
-「毒蝮サンダーの毒、それが手に入れば血清を作れると思う」
-    血清            けっせい
-「そうだな。案外、現地に向かえば良い手が浮かぶかもしれないぞ」
-    案外            あんがい            unexpectedly; surprisingly​
-「以前のカノなら分の悪い賭けだと言って乗らなかったはずですが」
-    分の悪い            ぶのわるい          disadvantageous; long (odds)
-「このままだとイシュタムの連中の思う壺だ。なんとしてでもペトリさんを助けて奴らの鼻をあかしてやろう」
-    思う壺          おもうつぼ          one's wishes; one's expectations​
-    鼻を明かす          はなをあかす            to outwit; to get the better of; to overcome a superior opponent and leave him speechless​
-「パトリオット、ペトリさんの容体は安定しているが点滴だけは絶やすな。栄養を与えていればしばらくは持つ」
-    絶やす          たやす          to exterminate; to eradicate; to wipe out; to put an end to​
-「どういうことだ、シャロ！公爵はあの男と……で、できているのか！」
-    できる          to become intimate; to take up (with somebody)​
-セドリックは苛立たしげに予測をメモへと書き記していく。
-    苛立たしげ          いらだたしげ            antsy; agitated; irritated; anxious; vexed​
-    書き記す            かきしるす
-「そうだ、公爵会議だ !ハイラインの成金が連れてきた男がそういう名だった」
-    成金            なりきん            upstart; nouveau riche; new money; new rich; coming into wealth suddenly
-「あと少しで南部の民として差別された私がアジモフの全てを裏から牛耳れるというのに……」
-    牛耳る          ぎゅうじる          to control; to take the lead in; to have under one's thumb​
-「ふん、あの男との逢い引きの口実だろう。その件に関しては捨て置け」
-    逢い引き            媾曳き          あいびき            (secret) date; clandestine meeting; assignation; tryst; rendezvous​
-    口実            こうじつ            excuse; pretext​
-    捨て置く            すておく            to leave as is; to ignore​
-「パトリオットはあの男に心を許しかけている……完全に堕ちればアジモフはハイラインの手に……」
-    心を許す            こころをゆるす          to trust; to relax one's guard (around)​
-    堕ちる          墜ちる          落ちる          おちる
-「だから体を使えと言っている。奴の顔を見れば分かる……相当な女好き、お前が誘えば簡単乗ってくる」
-    女好き          おんなずき
-「すぐに未亡人になる」
-    未亡人          みぼうじん          widow​
-「次の公爵は私が思い通りに動かせる傀儡を立て、ゆくゆくは世界を……」
-    傀儡            かいらい
-    ゆくゆく            行く行く            on the way; someday
-「失敗すればブロンテ家は終わる。そうなったらエミーリアは路頭に迷ってしまうのだぞ」
-    路頭に迷う          ろとうにまよう          to be left without means of sustenance; to be turned adrift in the streets; to be rendered homeless
-二人の密談に割って入ったのはエンデに肩を借りて入室したエミーリアだった。
-    密談            みつだん
-エミーリアがシャロに手渡したのは禍々しい装飾の施された一振りのナイフだった。
-    禍々しい            まがまがしい
-    装飾            そうしょく
-    施す            ほどこす
-    一振り          ひとふり
-「これを使えばお姉ちゃんは頼まれたお仕事を完璧にこなせるからね」
-    こなす          熟す
-「あれは闘族時代の遺物。素人を暗殺者に仕立て上げる呪われたナイフ」
-    仕立て上げる            したてあげる            to make out to be; to set someone up (as); to prepare (e.g. someone for a role)
+「ええ、暗示が得意なエミーリアにはうってつけの道具よ」
+    うってつけ          打って付け          ideal; most suitable
+「ま、あとは果報は寝て待てよね」
+    果報は寝て待て          かほうはねてまて            good things come to those who wait​
+「おい、シャロ！どうした、ぼーっとして」
+    ぼーっと            in a daze; absent-mindedly; vacantly; abstractedly; blankly; idly
+「ああ、蔵握領へ通じる場所を封鎖しているのだが、なぜかベイスケ氏だけが南部が臭いと言って飛び出したんだ」
+    氏          し          Mr; Mrs; Ms; Miss
+「南部には港も無いし、袋小路ですよ」
+    港          湊          みなと
+    袋小路          ふくろこうじ            blind alley; cul-de-sac; dead end street​
+パトリオットは潤んだ目でアレクを見つめ、その頬は朱に染まっていた。
+    潤む            うるむ
+    朱          緋          あけ
+「もうどうにもならない……諦めろ」
+    どうにもならない            hopeless; futile; no use; beyond help; cannot be done
+「え? そ、そうでしょうか?ピラミッドは考古学者憧れの場所なので気負い過ぎかもしれないですね」
+    気負い          きおい          eagerness; enthusiasm; fervor; excitement; fighting spirit; fighting mood​
+「まるで焼け焦げたみたいな色ですねぇ」
+    焼け焦げる          やけこげる          to burn to a crisp; to scorch​
+「大昔、この地は大量のモンスターが跋扈する危険地帯だったのです」
+    跋扈            ばっこ
+「力なき人類は、モンスターを前に絶滅の危機へと追いやられていました」
+    追いやる            追い遣る            おいやる
+破格の力を得た聖騎士は人類を救い、ここに世界は統一された……
+    破格            はかく
+    統一            とういつ
+「正直、どこまで本当の話か、眉唾物ではあると思っていますが」
+    眉唾物          まゆつばもの            dubious tale; cock-and-bull story; questionable information​
+「まあ、解明されていない自然の驚異は全てなにがしかの伝説に絡めた方がありがたみも出るだろうからな」
+    絡める          搦める          からめる
+    ありがたみ          有り難味            value; worth; virtue; blessing
+「魔法ビジョンも魔法通信機も、魔法洗濯機も魔ッチが無ければガラクタだからな」
+    ガラクタ            我楽多          junk; rubbish; trash; garbage; odds and ends​
+「昔は工場が密集して街も多くありました。なんでも魔ッチは無料で使い放題の世界で最も裕福な街だったそうです」
+    密集            みっしゅう
+    裕福            ゆうふく
+「夜でも灯りが点け放題だったのですね」
+    灯る            ともる
+    点ける          つける
+「一日中魔法ビジョン、観てられるね」
+    一日中          いちにちじゅう
+    観る            見る            視る            みる
+「そして長い間ここで暮らしている内に、聖騎士の炎に対応した人たちは肌が褐色に変化したと言われています」
+    褐色            かっしょく
+「こう暑いと魔法クーラーが恋しい、ね」
+    恋しい          こいしい            yearned for; longed for; missed​
+アレクたちは聖騎士の炎によって灼熱の地となったアジモン南部地方に足を踏み入れようとしていた。
+    灼熱            しゃくねつ
+「上れるのは年末の煤払いに参加するボランティア清掃員だけですよ」
+    煤払い          すす払い            cleaning dust etc. from rooms; housecleaning​
+    清掃員          せいそういん
+「あそこで拝んでいる人がいる、みたい」
+    拝む            おがむ
+「大丈夫、物影でこっそりとだ」
+    物影            ものかげ            form; shape; figure​
+「余所者を警戒しているんです。あとはカモ探しですね。戦士に見える私たちに手出しはしません」
+    余所者          よそ者          よそもの            stranger; outsider​
+「表通りは鍛冶屋が多いな」
+    表通り          おもてどおり            main street​
+    鍛冶屋          かじや
+「Mパイプラインができたせいで、多くの工場が快適に暮らせる北部へと移転していったからです」
+    北部            ほくぶ
+    移転            いてん
+「あの……先程から道端で寝ている人もよく見かけるのですが……」
+    道端            みちばた            roadside; wayside​
+「ホームレスです。凍えるような場所でもないから放置しても平気ですよ。これでも随分と数は減りました」
+    凍える          こごえる
+    減る            へる
+「熱中症にならないように水分はこまめに取るように、あと塩を舐めとけ」
+    こまめ            小まめ          diligent; earnest; attentive to detail; brisk (working, moving); frequent (e.g. checking)​
+「情報料として金銭をせがまれるのも難儀だったな……でたらめばかりだし」
+    金銭            きんせん
+    せがむ          to badger; to pester; to beg​
+「ピラミッドへ向かう研究に進展はありませんでした。まったく不甲斐ない話ですね」
+    不甲斐ない          ふがいない          disappointing; weak-minded; spiritless; cowardly; worthless
+「アジモフを支える聖騎士の炎がピラミッド行きを阻んでいるんだな」
+    阻む            はばむ
+「かなり上空まで行かないと、こんがりとローストされてしまうぞ」
+    上空            じょうくう
+    こんがり            well-cooked; well-done; browned
+    ロースト            roast​
+「凧に乗って飛んだりしないのですか ?」
+    凧          たこ            kite​
+「公園の滑り台を逆走してみろ。無理だってすぐに分かるから」
+    滑り台          すべり台            すべりだい          (playground) slide​
+「そうですか? この辺りだと語尾にアホ、ボケ、カスと付ける人が多いから慣れないとしんどいですよ」
+    語尾            ごび
+    しんどい            tired; frazzled​
+アレクたちの側で怒声を上げる男は土下座する勢いの青年を一方的に罵り続けた。
+    土下座          どげざ          kneeling down on the ground; prostrate oneself​
+「いいから、鋼カーボンを持ってこい !それができるまで帰ってくんな」
+    鋼          刃金            はがね
+    カーボン            carbon​
+「で、でもモンスターが居座っているし、かれこれ二日も徹夜してるんです……明日じゃダメでしょうか」
+    居座る          いすわる            to remain; to stay (somewhere)​
