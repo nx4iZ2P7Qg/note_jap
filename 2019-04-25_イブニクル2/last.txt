@@ -1,65 +1,55 @@
-「なに、皮肉な物だと感心していただけだ」
-    皮肉            ひにく          irony; sarcasm; cynicism; satire​
-「発展のために作られたMパイプラインを戦争の引鉄にする企てが、戦争のために作られたからくりに阻止されたのだ」
-    引鉄            引き金          引金            ひきがね            trigger (of a gun, etc.)​
-    企てる          くわだてる
-「な、何を落ちついているのだ !周りの兵士を見てみろ、こんなにも日和ってしまったではないか」
-    日和る          ひよる          to wait and see; to sit on the fence; to be noncommittal
-「用地の買収に武器の製造と買い取り、戦争が起こらなければブロンテ家には後がないのだ」
-    用地            ようち          site​
-    買収            ばいしゅう          acquisition (esp. corporate); buy-out; takeover; purchase​
-    後が無い            あとがない          having one's back to the wall; having nowhere to go; having no way out; not having another chance
-「奇跡によって厄災が払われたのだ、ならば式典の一つも開かれるだろう」
-    厄災            やくさい
-    式典            しきてん
-「戦争に反対していた者たちは、こぞって浮かれた顔をして参加するはずだ」
-    こぞる          挙る            to assemble everything together​
-「ま、まさか……直接手を下せと?」
-    下す            くだす
-自分に反対する貴族たちを実力行使で排除する考えはセドリックの中にもあった。
-    実力行使            じつりょくこうし            use of force​
-だが、なぜ行わなかったかと言われればセドリックの仕業であることが明白すぎるからである。
-    明白            めいはく            obvious; clear; plain; evident; apparent; explicit; overt​
-「粛清にはエンデを使えばいい。疑惑の目は向けられるだろうが、断定はできないだろう」
-    粛清            しゅくせい          (political) purge​
-決意を秘めて帰路へつくセドリックにピュロスは冷めた目を向ける。
-    帰路            きろ
-    秘める          ひめる          to hide
-    冷める          さめる
-（アジモフ側はこの辺りが潮時だな。ならば、最後にこの男を仕上げるか……）
-    潮時            しおどき            right time; favourable opportunity (favorable)​
-
-パトリオットを皮切りに嫁たちを抱擁するアレク。周囲からは自然と嫉妬の混ざった視線を向けられるが気付かない。
-    皮切り          かわきり            beginning; start​
-    抱擁            ほうよう
-「ええ、でもユラギちゃんを刺したことで私の記録に齟齬が生じてしまいました。もう私は姿を保てなくなったんです」
-    齟齬            そご            inconsistency; discord; conflict; discrepancy; contradiction; failure; frustration​
-    保つ            たもつ
-「考古学スキルで呼び出された想念は、記録と矛盾する行動を取れば消失してしまいます……」
-    矛盾            むじゅん
-「私が主人の言うことを黙って聞いていたせいで、歪みを止められませんでした」
-    歪み            ゆがみ
-「シャロ、もう私は死んでいるの。ここにいる私はシャロが記録として残してくれた魂の残り滓だから……」
-    滓          粕          糟          かす
-「私のまま……でも、本当の私はがさつで、敵も多いし、嫌われ者だったし」
-    がさつ          crude; unrefined; coarse; rough​
-「さようなら、愛しのシャロ。一緒に探索したピラミッド……とても、楽しかった……」
-    愛しの          いとしの
-シャロの中から何かが抜け出し、虚空に消えていく気配を皆が感じた。
-    虚空            こくう
-「ユラギ……できれば短剣は抜いてぐれ。俺のナニに短剣が刺さっているのを見ると金玉がひゅんっとする……」
-    金玉            きんたま             睾丸（こうがん）の俗称。陰囊（いんのう）。きん。
-「……でも、このままじゃダメよね。落とし前はしっかりとつけないと」
-    落とし前を付ける            おとしまえをつける          to settle a matter; to get even with someone​
-「歪んでいるとは気付いていたけど、人の道を踏み外したのであれば放置しておく訳にはいかない」
-    歪む            ゆがむ
-「姉としてけじめを付けるわ」
-    けじめを付ける          to draw the line (between two situations); to make a clear distinction
-「ああ、エミーリアが事故になるきっかけとなった話だよな。確か貴族を振った腹いせだっけ?」
-    腹いせ          腹癒せ          はらいせ            retaliation; revenge​
-「パトリオット、 野暮用ができた。ちょっと先に帰る !」
-    野暮用          やぼよう            minor business​
-
-ブロンテ家のリビングではエミーリアが人目を憚ることなく体を動かしていた。
-    人目            ひとめ          public gaze; public notice; attention​
-    憚る            はばかる
+「あー、体がなまっちゃうわ。引きこもりも楽じゃないのよねぇ、つらいわぁー、働くよりしんどいわぁ」
+    なまる          鈍る
+    しんどい            tiresome; tiring; draining; bothersome; worrisome​
+家族が出かけて誰もいない時間の自宅はエミーリアにとって好き放題できる羽を伸ばす貴重な一時である。
+    羽          はね
+「んー、アムゾンから漫画が届くのは今日だったかしら?プライムに加入しとこうかなぁ」
+    アマゾン            Amazon
+    プライム            prime
+ぺたぺたと裸足で歩き回り、魔法冷蔵庫を漁っていると強引に扉が開け放たれた。
+    ぺたぺた            sound of a flat surface repeatedly making contact with something
+    裸足            はだし
+    漁る            あさる
+「きゃあっ！！なになに？強盗？お金なら銀行を襲いなさいよ！！」
+    強盗            ごうとう
+    襲う            おそう
+「こ、これは……り、リハビリをしていたの !立っているだけで精一杯ですから! 」
+    リハビリ            rehabilitation
+エミーリアはよろよろと椅子に近づくと足を震えさせながら腰掛けた。全て自己暗示による演技である。
+    よろよろ            tottering; staggering; faltering; reeling
+エミーリアはその言葉を聞くと途端に表情を凍り付かせた。
+    凍り付く            こおりつく
+「そりゃあ振った男に対して酷い仕打ちをしたのは若干……かなり引くけどさ」
+    仕打ち          しうち          (poor) treatment; (bad) behavior; behaviour; action
+「元気で活発で人の中心に立つシャロ……それはかなりオブラートに包んだ好意的な表現をしているだけだ」
+    オブラートに包む            おぶらーとにつつむ          to say in a round-about way (not to upset); to cushion the blow; to wrap in wafer paper​
+「我が儘でマイペース、傍若無人を体現したような性格で彼女に逆らおうとする人間は誰もいなかったな」
+    マイペース          doing things one's own way (esp. in an inconsiderate manner)​
+    傍若無人            ぼうじゃくぶじん
+「人は彼女をワイルド眼鏡と呼んでなるべく関わり合おうとはしなかった」
+    関わり合う          かかわりあう            to get involved or entangled in; to get mixed up in; to have something to do with; to have dealings with​
+「そういうあだ名で呼ばれていた時期もありましたね。なぜかその名前を出した方は休みがちになってしまいましたけど」
+    あだ名          渾名            綽名            仇名            あだな
+    がち            よく～する、～する傾向が強い、という意味の接尾語です
+「彼女と付き合えたのは暢気なユラギと、レンジャーの訓練で荒事に慣れている僕くらいなものだったんだ」
+    荒事            あらごと            (theatrical) fighting scene​
+「ユラギから学園で言い寄る男は皆無だと聞いたことはないか? あれは単に男が恐れて近寄ってこなかっただけだ」
+    皆無            かいむ
+「密かにユラギは土下座をすればやらせてくれそうだという理由で人気はあったが、シャロを恐れて言い出す奴はいなかった」
+    密か            秘か            ひそか
+    土下座          どげざ          kneeling down on the ground; prostrate oneself​
+「彼女に言い寄った貴族は護衛としてゴロツキを雇っていたんだが……みんなシャロが殺した」
+    ゴロツキ            破落戸          ごろつき            rogue; thug; hoodlum; punk; racketee
+「とにかく私は逃げる！命が惜しいから地の果てにだって逃げてやる」
+    地の果て            ちのはて            end of the earth​
+「ちょっ、離しなさいよ、このちびっ子 ! !ってか、すごい力なんですけど! ?」
+    ちびっ子            small child; kid; kiddy; tot; rug rat; ankle-biter
+「もういいでしょう、放っておいて!金目のものをまとめられないでしょう ! 」
+    金目            かねめ          monetary value​
+「あー、もうっ! うっさいな!そのお姉ちゃんが鬱陶しいのよ!ずっと、ずっと気にくわないの ! 」
+    鬱陶しい            うっとうしい            gloomy (e.g. mood); depressing      irritating; troublesome
+    気にくわない            気に食わない            unable to stomach; sticking in one's throat; displeased with​
+追い詰められたエミーリアは内に抱えていた姉への鬱憤を爆発させた。
+    鬱憤            うっぷん
+「素晴らしいわ、エミーリア。あなたは技術を磨いて姉を超えたのよ」
+    磨く            みがく
