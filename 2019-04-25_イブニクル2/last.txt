@@ -1,76 +1,69 @@
-「ならば、今まであなたが受けた屈辱を、比較されて追い込まれた劣等感を倍にして与えるのが姉妹というものよ」
-    倍にする            ばいにする
-「あなたはたかが嫉妬で人を殺すの ?死んでも良いと平気で言えるほど堕落してしまったようね」
-    たかが          高が            only; merely; just; at most; no more than
-「……すごい怯え様だな」
-    怯え様          おびえよう
-プラチナやユラギが武器を構えると、平和な暮らしを謳歌していたエミーリアはその迫力に悲鳴を上げた。
-    謳歌            おうか
-「そ、それは言ったかもしれないけど……その場の雰囲気、言葉の綾かな……」
-    言葉の綾            ことばのあや            figure of speech​
-突如、脳内に響いた自分を労る姉らしき存在からの言葉にエンデは身を強ばらせた。
-    労わる          労る            いたわる            to tend to (e.g. an injury); to care for; to nurse; to soothe​
-    強ばる          強張る          こわばる            to stiffen; to become stiff​
-エンデは顔に不安の色を濃く写しながらエミーリアへと縋るように抱きついた。
-    濃い            こい
-    写す            うつす
-    縋る            すがる
-「もしかすると城で行われる慰労の祝賀会のことかもしれない……」
-    祝賀会          しゅくがかい
-「今回のテロ事件とMパイプラインの破壊がイシュタムの目的だとすればその策はことごとく外れたことになる」
-    ことごとく          悉く            尽く            altogether; entirely​
-「破れかぶれになって無茶な手を講じる可能性もある訳ね」
-    破れかぶれ          やぶれかぶれ            desperation; self-abandonment​
-「いや、そっちの方がしっくり来ると思っただけだ」
-    しっくり来る            しっくりくる            to feel right; to sit well with one; to be happy about; to suit to a T; to fit well together​
-パトリオットはそわそわとした様子で言い訳するが、背後に付き従っていた兵士は長く立っていたのかが疲れ果てていた。
-    そわそわ            restlessly; nervously; uneasily; in a fidget
-「アレクはなぜか無害そうに見えるけど油断して心を許した途端にグサリと急所を一突きにしてくるのよね」
-    グサリと            ぐさりと            deeply (stab, thrust, etc.); hard
-    急所            きゅうしょ          vital part (of the body); tender spot; weak point; vitals​
-「そ、そう聞くとアレクさんが単なる女たらしみたいなのですが……」
-    女たらし            おんなたらし            womanizer; Lothario; Don Juan; philanderer; lady-killer​
-「ところでもう一人の主役はどうした ?ブラウニーは来ていないのか」
-    主役            女誑し          女垂らし            しゅやく
-「黒い服の女か……見覚えがないな。黒いと言えば城に来たのはエピデ宰相くらいのものだ」
-    宰相            さいしょう
-「マン湖が見たいと駄々をこねてな。その後にテロ事件もあり対応を先延ばしにしていたのだが……忘れてた」
-    駄々をこねる            駄々を捏ねる            だだをこねる            to be unreasonable; to whine; to throw a tantrum​
-    先延ばしにする          さきのばしにする            to delay; to put off; to procrastinate​
-「素性の知らない女が潜り込める場所は国王を泊めている場所しか……」
-    素性            すじょう            birth; lineage; parentage; origin​
-すっかり混乱し喧騒に飲み込まれた城にアレクたちは足を踏み入れた。
-    喧噪            けんそう
+「派閥だ仲間だと言い合っていた連中が殺し合う姿はどうだったかしら?面白い病気だったと思うのだけど」
+    派閥            はばつ          clique; faction​
+さらに、このキチガイじみた行為に父親が荷担しているということを知り、エミーリアは内心で激しく動揺していた。
+    染みる          じみる          to become; to appear like; to have a touch of; to look like​
+    荷担            加担            かたん
+「こっちの方が面白いから。信頼しあった仲間も病気に冒されれば醜く殺し合う……それを見たかった」
+    冒す            おかす          to brave; to risk; to face; to venture​
+    醜い            みにくい
+（分かりやすい男ですね。ピュロスからエンデに乗り換えですか、しかし……）
+    乗り換え            のりかえ            transfer (trains, buses, etc.); connection
+「使う予定のなかったチュバカプラは予防措置もしていない。こんな場所に滞在するのは御免ですね」
+    滞在            たいざい
+「だが、万一に備えておきたい。エピデからの預かり物を無用も送り返すもあるのでね」
+    備える          そなえる
+「だが、力を得て生き残れる確率は低い。進退窮まったときに用いることだ」
+    窮まる          谷まる          きわまる            to reach an extreme; to reach a limit; to terminate; to come to an end​
+(エンデ諸共、見切りを付けられているとも知らずに……滑稽なことですね)
+    諸共            もろとも            (all) together​
+    見切りを付ける          みきりをつける          to give up as hopeless; to wash one's hands (of someone or something)​
+    滑稽            こっけい
+「エミーリアはエンデ様に随分と気に入られたようだな。くれぐれも失礼の無いようにお相手するのだぞ」
+    くれぐれも          sincerely; earnestly
+    相手をする          あいてをする            to keep company; to look after; to entertain; to play (a game) with​
+「ふふふ、ブロンテ家の子女として誇らしいご友人だな」
+    子女            しじょ
+    誇らしい            ほこらしい
+父セドリックが浮かべる笑顔は昨日までと変わらない。だが、そのことがエミーリアにはやけに恐ろしく感じた。
+    やけに          awfully; frightfully; desperately; violently; unduly; extremely​
 
-「パーティー会場から逃げてきた者はいません。手練れも多く配置されているので、おそらく籠城して守りを固めているのかと」
-    手練            しゅれん            skill; dexterity; master hand​
-モンスターを退けたアレクたちは怯えた兵士を前に一息ついた。
-    退ける          のける
-「おそらくだが……城に設けられた秘密の脱出通路からだと思われる」
-    設ける          もうける
-会場に足を踏み入れたアレクたちが見たのは血の海に沈む夥しい数の死体だった。
-    血の海          ちのうみ
-    夥しい          おびただしい
-無数の死体の中で蹲っていたマン・トラは体中に無数の刀傷を受けていた。
-    刀傷            かたなきず          とうしょう
-青い光がマン・トラへと流れ込むが、アレクの表情はより険しくなった。
-    険しい          嶮しい          けわしい
-「それ吸血鬼みたい、だね」
-    吸血鬼          きゅうけつき
-「私は……と、共に領地の発展を願いあった仲間を……この手で殺めた。もう、生きている価値の無い人間です」
-    殺める          危める          あやめる            to wound; to murder​
-「息子に、託します……アジモフ領に……繁栄と平和を! 」
-    繁栄            はんえい
-マン・トラはパトリオットに後を託す言葉を遺すと、刺さっていた剣を引き抜いて自らの首を貫いた。
-    遺す            残す            のこす
-    貫く            つらぬく
-「先程まで皆元気だったのだぞ……戦争なんて御免だと、笑顔で語り合っていたというのに……」
-    御免            ごめん
+「お前、つまみ食いしてきたのか?」
+    つまみ食い          つまみぐい          snitching food; snatched food; secret eating; food snatched and eaten without the meal starting​
+「緊急時だからな、ちと拝借した」
+    拝借            はいしゃく
+「それ、要冷蔵だけど大丈夫 ?」
+    要冷蔵          ようれいぞう            requiring refrigeration​
 
-一方、連れ去られたエミーリアは床に噂り、側には吐いたと思われる汚物が飛び散っていた。
-    汚物            おぶつ
-エミーリアはチュバカプラに感染した患者達が殺し合い、生き血を啜り合う光景を見せ付けられたのである。
-    生き血          いきち
-    啜り合う            すすりあう
-（こ、こいつ正気じゃない……マジモンのキチガイじゃん）
-    マジモン            マジモンとは、「本物」という意味で使います
+ピュロスは肩に意識を失ったようにぐったりとしているジョンを抱えていた。
+    ぐったり            limply; wearily; listlessly; languidly; exhaustedly; unenergetically
+    抱える          かかえる
+「ビジュアル的に誘拐っぽいが、まあチャラ男だから良いか」
+    ビジュアル          visual​
+    誘拐            ゆうかい
+「ピュロス、何をしているのですか?ただでさえ徒歩の移動を強いられて面倒だというのに……」
+    ただでさえ          唯でさえ            even at the best of times; already; (even) under normal circumstances; in addition to; as it is​
+    徒歩            とほ
+    強いる          しいる          to force; to compel; to coerce; to press; to impose
+「おやおや、壊れた小娘に転移アイテムを使い切られたと思えば、正体までばれるとは……ついてないですね」
+    ついてる            付いてる            to be lucky; to be in luck​
+「より相応しい潜伏先もあったのですが、なぜが牝狐が王家にこだわっていましてね」
+    牝狐            女狐            めぎつね            woman who deceives men​
+    こだわる            拘る            to fuss over; to be particular about​
+「象徴として都合良く配置しておきながら権力も責任も義務も与えずに飼い殺しにしていたのだ。持てあますだけだろう」
+    象徴            しょうちょう
+    飼い殺し            かいごろし          keeping a domestic animal beyond its useful life​
+    持て余す            もてあます          to be too much for one; to find unmanageable; to be beyond one's control; to not know what to do with
+「まず、私たちの逃亡が不自然でしょう。これが私たちの計画ならば、王を担いで逃げるなんて真似はしません」
+    逃亡            とうぼう
+    担ぐ            かつぐ
+「完全に見境が無くなった。もはやあれは制御不能と判断した」
+    見境            みさかい            distinction; discrimination​
+    制御            制禦            せいぎょ            control
+「言ったはずだ、手放すつもりはない。この場でお前たちと雌雄を決してでもこの駒は持ち帰る」
+    雌雄            しゆう
+    駒          こま
+「そう、賢明な判断ですよ !今の国王の価値など、二人の小娘以下でしかありませんからねえ !」
+    賢明            けんめい
+「……違うな、我らイシュタムの宿願とは全人類の治療、救済に他ならない」
+    宿願            しゅくがん
+    救済            きゅうさい

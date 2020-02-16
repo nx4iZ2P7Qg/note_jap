@@ -17573,3 +17573,72 @@ Mパイプラインの下にプラチナが隠れられるほど大きな植物�
     啜り合う            すすりあう
 （こ、こいつ正気じゃない……マジモンのキチガイじゃん）
     マジモン            マジモンとは、「本物」という意味で使います
+「派閥だ仲間だと言い合っていた連中が殺し合う姿はどうだったかしら?面白い病気だったと思うのだけど」
+    派閥            はばつ          clique; faction​
+さらに、このキチガイじみた行為に父親が荷担しているということを知り、エミーリアは内心で激しく動揺していた。
+    染みる          じみる          to become; to appear like; to have a touch of; to look like​
+    荷担            加担            かたん
+「こっちの方が面白いから。信頼しあった仲間も病気に冒されれば醜く殺し合う……それを見たかった」
+    冒す            おかす          to brave; to risk; to face; to venture​
+    醜い            みにくい
+（分かりやすい男ですね。ピュロスからエンデに乗り換えですか、しかし……）
+    乗り換え            のりかえ            transfer (trains, buses, etc.); connection
+「使う予定のなかったチュバカプラは予防措置もしていない。こんな場所に滞在するのは御免ですね」
+    滞在            たいざい
+「だが、万一に備えておきたい。エピデからの預かり物を無用も送り返すもあるのでね」
+    備える          そなえる
+「だが、力を得て生き残れる確率は低い。進退窮まったときに用いることだ」
+    窮まる          谷まる          きわまる            to reach an extreme; to reach a limit; to terminate; to come to an end​
+(エンデ諸共、見切りを付けられているとも知らずに……滑稽なことですね)
+    諸共            もろとも            (all) together​
+    見切りを付ける          みきりをつける          to give up as hopeless; to wash one's hands (of someone or something)​
+    滑稽            こっけい
+「エミーリアはエンデ様に随分と気に入られたようだな。くれぐれも失礼の無いようにお相手するのだぞ」
+    くれぐれも          sincerely; earnestly
+    相手をする          あいてをする            to keep company; to look after; to entertain; to play (a game) with​
+「ふふふ、ブロンテ家の子女として誇らしいご友人だな」
+    子女            しじょ
+    誇らしい            ほこらしい
+父セドリックが浮かべる笑顔は昨日までと変わらない。だが、そのことがエミーリアにはやけに恐ろしく感じた。
+    やけに          awfully; frightfully; desperately; violently; unduly; extremely​
+
+「お前、つまみ食いしてきたのか?」
+    つまみ食い          つまみぐい          snitching food; snatched food; secret eating; food snatched and eaten without the meal starting​
+「緊急時だからな、ちと拝借した」
+    拝借            はいしゃく
+「それ、要冷蔵だけど大丈夫 ?」
+    要冷蔵          ようれいぞう            requiring refrigeration​
+
+ピュロスは肩に意識を失ったようにぐったりとしているジョンを抱えていた。
+    ぐったり            limply; wearily; listlessly; languidly; exhaustedly; unenergetically
+    抱える          かかえる
+「ビジュアル的に誘拐っぽいが、まあチャラ男だから良いか」
+    ビジュアル          visual​
+    誘拐            ゆうかい
+「ピュロス、何をしているのですか?ただでさえ徒歩の移動を強いられて面倒だというのに……」
+    ただでさえ          唯でさえ            even at the best of times; already; (even) under normal circumstances; in addition to; as it is​
+    徒歩            とほ
+    強いる          しいる          to force; to compel; to coerce; to press; to impose
+「おやおや、壊れた小娘に転移アイテムを使い切られたと思えば、正体までばれるとは……ついてないですね」
+    ついてる            付いてる            to be lucky; to be in luck​
+「より相応しい潜伏先もあったのですが、なぜが牝狐が王家にこだわっていましてね」
+    牝狐            女狐            めぎつね            woman who deceives men​
+    こだわる            拘る            to fuss over; to be particular about​
+「象徴として都合良く配置しておきながら権力も責任も義務も与えずに飼い殺しにしていたのだ。持てあますだけだろう」
+    象徴            しょうちょう
+    飼い殺し            かいごろし          keeping a domestic animal beyond its useful life​
+    持て余す            もてあます          to be too much for one; to find unmanageable; to be beyond one's control; to not know what to do with
+「まず、私たちの逃亡が不自然でしょう。これが私たちの計画ならば、王を担いで逃げるなんて真似はしません」
+    逃亡            とうぼう
+    担ぐ            かつぐ
+「完全に見境が無くなった。もはやあれは制御不能と判断した」
+    見境            みさかい            distinction; discrimination​
+    制御            制禦            せいぎょ            control
+「言ったはずだ、手放すつもりはない。この場でお前たちと雌雄を決してでもこの駒は持ち帰る」
+    雌雄            しゆう
+    駒          こま
+「そう、賢明な判断ですよ !今の国王の価値など、二人の小娘以下でしかありませんからねえ !」
+    賢明            けんめい
+「……違うな、我らイシュタムの宿願とは全人類の治療、救済に他ならない」
+    宿願            しゅくがん
+    救済            きゅうさい
