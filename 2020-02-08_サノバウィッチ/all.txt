@@ -1,8 +1,3 @@
-保科    ほしな
-和奏    わかな
-海道    かいどう
-綾地    あやち
-
 打ち解ける  うちとける  to open one's heart; to throw off reserve; to be frank​
 若干    じゃっかん
 上目遣い    うわめづかい
@@ -74,3 +69,55 @@
 著者    ちょしゃ
 出版社  しゅっぱんしゃ
 訊く    聞く    聴く    きく
+きしむ  軋む
+巻末    かんまつ    end of a book​
+キータッチ  key-touch​
+傾く    かたむく
+少なくとも  すくなくとも    at least​
+施錠    せじょう    locking​
+平らぐ  たいらぐ    to be suppressed​
+やりきる    遣り切る    物事を最後までする。やりとげる。
+独り占め    ひとりじめ
+決めポーズ  きめぽーず  格好つけて整えたポーズ
+エンターキー    enter key
+調子に乗る  to get carried away; to get overly elated; to become over-excited; to be caught up in the moment; to get cocky​
+はっちゃける    to make merry and forget one's troubles; to do as one pleases​
+折角    せっかく
+快い    心よい  こころよい
+改革    かいかく
+些細    ささい
+被さる  かぶさる
+返却    へんきゃく
+やましい    疚しい  疾しい  feeling guilty; having a guilty conscience; having qualms about​
+没頭    ぼっとう
+昂ぶる  高ぶる  たかぶる
+惹く    ひく
+捲し上げる  まくしあげる
+露わ    あらわ
+紛うことなき    まがうことなき  undoubted; unmistakable; definite
+有り得ない  ありえない  impossible; unlikely; improbable​
+清楚    せいそ  neat and clean; tidy; trim​
+弛む    たるむ
+凝らす  こらす
+見惚れる    みとれる
+火照る  ほてる
+浸食    しんしょく
+いっそ  rather; sooner; preferably​
+貪欲    どんよく
+だらしない  slovenly (appearance, work, etc.); sloppy; untidy; undisciplined; careless; loose; slack​
+ほっと  ホッと  with a feeling of relief; with a sigh of relief​
+掃除    そうじ
+途切れる    とぎれる
+なんだったら    if you are so inclined; if it suits you; if you like​
+会釈    えしゃく    slight bow (as a greeting or sign of gratitude); nod; salutation​
+スッと  quietly; gently; softly
+
+
+
+
+
+
+保科    ほしな
+仮屋 和奏   かりや わかな
+海道    かいどう
+綾地    あやち
