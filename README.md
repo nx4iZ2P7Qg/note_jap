@@ -1,8 +1,8 @@
 # note_jap
 private japanese learning note
 
-个人日文学习笔记
-private jap-learning note
+- 个人日文学习笔记
+- private jap-learning note
 
 持续一年的日语学习挑战结束了
 one-year-jap-learning challenge has come to an end
