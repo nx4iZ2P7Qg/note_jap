@@ -16,6 +16,11 @@
 豆鉄砲  まめでっぽう    peashooter​
 ベタベタ    sticky
 
+０３
+寒がり  さむがり    sensitive to cold​
+ブレーキ    brake​
+女房    にょうぼう  wife (esp. one's own wife)​
+
 ４
 夜更かし    夜更し  夜ふかし    よふかし    staying up late; keeping late hours; sitting up late at night; nighthawk​
 酷使    こくし  exploitation; overuse; abuse​
