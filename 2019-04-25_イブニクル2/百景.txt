@@ -750,8 +750,7 @@
 欠片    かけら
 餌付け  えづけ  artificial feeding; accustoming wild animals to eating food given by humans​
 
-０５７
-冬ゾーン
+０５７　冬ゾーン
 絶え間ない  たえまない  incessant; constant; continuous; perpetual; everlasting​
 降る    ふる
 くるくる    whirling; revolving; spinning; going round and round​
@@ -767,7 +766,7 @@
 逸れる  はぐれる    to lose sight of (one's companions); to stray from​
 間抜け  まぬけ  stupid; foolish; idiotic; inane​
 
-０５９
+０５９　温泉
 猿  サル
 がてら  on the same occasion; at the same time
 湯  ゆ
@@ -776,7 +775,60 @@
 男湯    おとこゆ
 拗ねる  すねる
 
-０６０
+０６０　鉱山の入り口
 勤しむ  いそしむ
 寂れる  さびれる
 出くわす    でくわす    to happen to meet; to come across​
+
+０６１　釣り竿
+ぷかぷか    プカプカ    lightly (floating); buoyantly
+浮き浮き    ウキウキ
+看過    かんか  overlooking; turning a blind eye​
+緊縛    きんばく
+縞々    しましま
+下らない    くだらない
+釣竿    釣り竿  つりざお
+朽ちる  くちる
+庵  いおり
+修行僧  しゅぎょうそう
+仮初め  かりそめ    temporary; transient
+
+０８８　ハニーの店
+僻地    へきち
+大抵    たいてい
+品揃え  しなぞろえ  assortment; product lineup​
+駄菓子  だがし  cheap sweets​
+ぶっちゃけ  frankly; honestly speaking; to tell the truth; to put it bluntly​
+物流    ぶつりゅう
+飴玉    あめだま    candy​
+
+０９０　魔王のカップ
+持ち手  もちて  handle; grip​
+漬ける  浸ける  つける
+割れる  われる
+しょんぼり  downheartedly; dejectedly; dispiritedly; despondently
+
+０９２　クラゲビーチ
+砂  すな
+珊瑚    サンゴ
+海月    水母    クラゲ  jellyfish
+
+０９３　さんま
+秋刀魚  サンマ  さんま
+証言    しょうげん
+脂が乗る    あぶらがのる    to get into the swing of (one's work); to hit one's stride  (for a fish or bird) to put on fat for the winter​
+
+０９４ 無人島
+白骨    はっこつ
+飾り気のない    かざりけのない  plain; unaffected​
+佇む    たたずむ
+無人島  むじんとう
+風化    ふうか
+大嵐    おおあらし
+身寄り  みより  relative; relation​
+心残り  こころのこり    regret​
+悼む    いたむ
+日付    ひづけ  date; dating​
+供養    くよう  memorial service for the dead; holding a service​
+哀れ    憐れ    あわれ
+安らか  やすらか
