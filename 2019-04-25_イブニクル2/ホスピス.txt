@@ -664,6 +664,13 @@
 スニーカー  sneaker; sneakers​
 ビーチサンダル  beach sandals; flip-flops; thongs; pluggers; jandals​
 樹液    じゅえき
+ーーー
+トレイ  tray​
+樹液    じゅえき
+ハンドミキサー  handheld mixer; hand mixer​
+練る    ねる
+果汁    かじゅう
+咀嚼    そしゃく
 
 ユラギ　ひまん
 ー
@@ -683,21 +690,36 @@
 感染経路    かんせんけいろ
 薬剤    やくざい
 
-プラチナ
+プラチナ　イカナゴ症候群
 ー
 語尾    ごび
+ーー
+症候群  しょうこうぐん  syndrome​
+憑く    つく
+痴呆症  ちほうしょう
+生姜    しょうが
+片手間  かたてま    in spare time; odd job​
 
-シャロ
+シャロ　エイジ
 ー
 大工    だいく  carpenter​
 消耗    しょうもう
 茹で卵  ゆでたまご  boiled egg​
 卵サンド    たまごさんど    egg sandwich​
+ーー
+殻  から
+消化    しょうか
+窒息死  ちっそくし
+面白おかしい    面白可笑しい    おもしろおかしい
+泥濘む  ぬかるむ    to be muddy; to be slushy​
+冷え性  冷性    冷え症  ひえしょう  sensitivity to cold​
 
-プラチナ
+プラチナ　ムシ歯
 ー
 餡子    あんこ  red bean paste; red bean jam; anko​
 ホイップクリーム    whipped cream​
 緻密    ちみつ  minute; fine; delicate; accurate; precise; elaborate​
 抹茶    まっちゃ
 虫歯    むしば
+ーー
+海域    かいいき
