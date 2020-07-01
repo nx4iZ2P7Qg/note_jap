@@ -1,5 +1,5 @@
 ユラギ
-０１
+１
 拝借    はいしゃく  borrowing
 過程    かてい
 筋金入り    すじがねいり    staunch; hardcore; dyed-in-the-wool​
@@ -26,7 +26,7 @@
 計る    測る    量る    はかる
 称する  しょうする
 
-０２
+２
 ベーコンエッグ  bacon (and) eggs​
 香ばしい    芳ばしい    こうばしい
 ぱくぱく    repeatedly opening and closing (one's mouth); gasping​
@@ -52,3 +52,121 @@
 ヘロヘロ    へろへろ    completely exhausted
 初っ端  しょっぱな  (very) beginning; start
 ブレーキ    brake​
+
+３
+おっしゃる通り  仰る通り    おっしゃるとおり    I agree with you; it is as (someone) says​
+互角    ごかく
+大方    おおかた
+緩緩    ゆるゆる    very loose; slowly; leisurely​
+郭公    カッコウ    カッコー    common cuckoo
+雛鳥    ひなどり    chick; baby bird​
+綿菓子  わたがし    cotton candy​
+雲  くも
+がばがば    oversized (clothing); baggy
+ふんわり    gently; airily; fluffily
+共同    きょうどう
+アンバランス    unbalanced
+力む    りきむ  to strain (oneself); to bear up; to exert one's strength​
+堪える  こらえる
+拗らせる    こじらせる  to aggravate; to complicate; to make worse
+渾身    こんしん
+途切れ  跡切れ  とぎれ  break; pause; interruption; intermission​
+交互    こうご
+発する  はっする
+がっくり    heartbroken; crestfallen; dejected; disappointed​
+遮る    さえぎる
+五感    ごかん
+生殺し  なまごろし  half-dead
+寸止め  すんどめ    stopping just before​
+先行    せんこう    preceding; going first; leading; going ahead; taking priority​
+咳払い  せきばらい  clearing one's throat; cough​
+むせ返る    噎せ返る    咽かえる    むせかえる  to choke; to be choked (by)​
+アンモニア  ammonia
+遣り兼ねない    やりかねない    capable of anything; liable to do​
+検尿    けんにょう
+あやす  to cuddle; to comfort; to rock; to soothe; to dandle; to humor; to humour; to lull​
+真綿    まわた
+奥底    おくそこ
+踏みとどまる    踏み止まる  ふみとどまる    to stay on; to remain; to hold out; to hold one's ground
+緩急    かんきゅう  pace; tempo; slow and fast​
+小鹿    こじか
+辛うじて    かろうじて  barely; narrowly; only just; with difficulty​
+眩む    暗む    くらむ
+メロメロ    酔ったようになった弛緩した様子
+ピクピク    ぴくぴく    twitching​
+後先考えず  あとさきかんがえず  後々どのような結果をもたらすかを考慮していないさま
+轢く    ひく    to run over (with a vehicle); to knock down​
+
+４
+息巻く  いきまく    to rage; to storm (at); to be furious​
+見る人が見れば  to the trained eye​
+綿  棉  めん
+鈍器    どんき
+しくしく    (T_T)
+綿  棉  わた
+教え子  おしえご    one's student (esp. a former one); one's pupil; one's disciple​
+愚直    ぐちょく
+反復    はんぷく
+施術    しじゅつ
+お手の物    おてのもの  one's speciality; one's forte; one's strong point​
+ぴたっと    ピタッと    tightly; closely​
+窒息    ちっそく
+凶器    兇器    きょうき
+諸々    もろもろ    all kinds of things; various things; large number of people​
+建前    建て前  たてまえ    face; official stance; public position or attitude (as opposed to private thoughts)
+着実    ちゃくじつ
+ぶちまける  to dump (e.g. onto the floor); to empty by overturning; to throw out (contents)
+就く    つく
+保育士  ほいくし    nursery school teacher; childcare worker​
+立ち会う    立会う  たちあう    to be present (esp. during a birth); to be witness to​
+よりけり    depends on
+担ぎ込む    かつぎこむ
+負ぶう  おぶう
+おんぶ紐    おんぶひも  baby backpack; back-mounted baby carrier; sling
+羊羹    ようかん
+道すがら    みちすがら  along the road; along the way​
+汗だく  あせだく    dripping with sweat; bathed in perspiration​
+待合室  まちあいしつ    waiting room​
+携わる  たずさわる  to engage in; to participate in; to take part in; to be involved in​
+
+５
+
+
+
+カノ
+１
+ハイカラ    stylish; smart; fashionable​
+舌鼓を打つ  したつづみをうつ
+各々    おのおの    each​
+ゆったり    comfortable; easy; calm; relaxed​
+粗末    そまつ  crude; rough; plain; humble; shabby
+仏頂面  ぶっちょうづら  sour look; surly face; pout​
+和気藹々    わきあいあい
+そわそわ    restlessly; nervously; uneasily; in a fidget​
+尋常    じんじょう
+吐露    とろ
+おずおず    timidly; nervously; with nervous diffidence; trembling with fear
+明かりを消す    灯りを消す  あかりをけす    to turn the lights off​
+導く    みちびく
+胡座をかく  胡坐をかく  あぐらをかく    to sit cross-legged
+跨る    またがる
+敬う    うやまう
+盛る    もる
+案の定  あんのじょう    just as one thought; as usual; sure enough​
+天狗    てんぐ
+装う    よそおう
+見栄    みえ    airs; pretensions; show; ostentation; display; appearance; vanity; charm
+前髪    まえがみ
+呆ける  惚ける  ぼける
+瑞々しい    みずみずしい
+貪る    むさぼる
+戯ける  たわける
+血祭り  ちまつり
+花嫁修業    はなよめしゅうぎょう    training for homemaking; training in homemaking arts
+滴る    したたる
+穿つ    うがつ
+背骨    せぼね
+酸欠    さんけつ    oxygen deficiency; oxygen shortage; lack of oxygen​
+にやける    to break into a smile; to grin​
+ぺたぺた    sticky
+２
