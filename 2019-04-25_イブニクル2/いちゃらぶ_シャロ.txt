@@ -1,8 +1,8 @@
-1
+０１
 ほのぼの    仄々    dimly; faintly; with a faint light
 からかう    揶揄う  to ridicule; to tease; to mock; to chaff; to razz; to banter with; to make fun of; to poke fun at; to make cracks about​
 
-２
+０２
 パッと見    (at) a glance; (judging from) appearances
 童顔    どうがん
 ドギマギ    flurried; flustered; upset; nervous; embarrassed​
@@ -21,7 +21,7 @@
 ブレーキ    brake​
 女房    にょうぼう  wife (esp. one's own wife)​
 
-４
+０４
 夜更かし    夜更し  夜ふかし    よふかし    staying up late; keeping late hours; sitting up late at night; nighthawk​
 酷使    こくし  exploitation; overuse; abuse​
 寝つきが良い    寝付きが良い    ねつきがよい    to find it easy to fall asleep; to sleep well​
@@ -29,3 +29,7 @@
 佇まい  たたずまい  appearance; shape; form; atmosphere; look; feel​
 あどけない  innocent; cherubic​
 努める  勉める  つとめる    to endeavor (endeavour); to try; to strive; to make an effort; to exert oneself; to be diligent; to be committed (to doing something)​
+
+０５
+ポツリ  ぽつり  isolated; standing alone
+しなやか    supple; flexible; elastic   graceful; elegant; refined​
