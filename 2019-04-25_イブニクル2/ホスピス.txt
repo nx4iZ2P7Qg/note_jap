@@ -723,3 +723,7 @@
 虫歯    むしば
 ーー
 海域    かいいき
+---
+顰める  しかめる    to pull a wry face; to screw one's face up; to pucker one's face; to scowl; to grimace; to frown
+腐る    くさる
+
