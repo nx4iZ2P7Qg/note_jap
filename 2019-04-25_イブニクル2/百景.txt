@@ -847,6 +847,36 @@
 神頼み  かみだのみ
 水浸し  みずびたし
 
+０７０　大岩
+伊達    だて
+断面    だんめん
+すっぱり    completely (quitting, etc.); entirely; thoroughly; totally
+柵  さく
+
+０７１　隙間仙人
+一刀両断    いっとうりょうだん
+のそのそ    (move) slowly (e.g. walk)
+よぼよぼ    doddering; tottering; unsteady
+
+０７２　虹の下
+屈折    くっせつ
+些細    ささい  trivial; slight​
+雨粒    あまつぶ
+雨宿り  あまやどり  taking shelter from rain​
+通り雨  とおりあめ  shower​
+沸かす  わかす
+あべこべ    contrary; opposite; inverse; reverse; back-to-front​
+醍醐味  だいごみ    the real pleasure
+
+０７３　角くじら
+聳える  そびえる    to rise; to tower; to soar​
+並大抵  なみたいてい    ordinary; average; run-of-the-mill​
+陶器    とうき
+残骸    ざんがい
+我楽多  がらくた    junk; rubbish; trash; garbage; odds and ends​
+長靴    ながぐつ
+漁師    りょうし
+
 ０８８　ハニーの店
 僻地    へきち
 大抵    たいてい
