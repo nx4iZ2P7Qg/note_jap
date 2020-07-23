@@ -795,6 +795,15 @@
 焼死    しょうし
 雑穀    ざっこく    assorted grains; cereals​
 懲りる  こりる  to learn by experience; to learn one's lesson; to learn the hard way​
+ーーー
+熟す    じゅくす
+穂  ほ
+実る    稔る    みのる  to bear fruit; to ripen​
+イネ科  いねか
+稗  ヒエ
+小麦    こむぎ
+手際よく    てぎわよく  efficiently; skillfully; cleverly​
+行列    ぎょうれつ
 
 カノ    井戸コロリ
 ー
@@ -803,6 +812,9 @@
 カサカサ    rustling
 ーー
 蛸  章魚    たこ
+ーーー
+淡泊    淡白    たんぱく
+食通    しょくつう  gourmandism​
 
 プラチナ　ハニハニ
 ー
@@ -810,8 +822,12 @@
 ーー
 執着    しゅうちゃく
 偏愛    へんあい
+ーーー
+分際    ぶんざい    social standing​
+じれったい  vexing; irritating; impatient​
+えぐみ  harshness; acridity; astringent taste; bitter taste​
 
-カノ    ほうち症
+カノ    放置症
 ー
 小休止  しょうきゅうし  short break; breather​
 小刀    こがたな
@@ -822,6 +838,7 @@
 痴呆症  ちほうしょう
 逸品    いっぴん    excellent article; fine item; rare beauty; masterpiece; gem​
 呆気ない    あっけない  unsatisfying; disappointing; abrupt; not enough; too quick; too short; over too soon​
+ーーー
 
 ユラギ　大寒気
 ー
@@ -830,6 +847,16 @@
 芋虫    いもむし    hornworm (caterpillar of a hawk moth)
 簀巻き  簀巻    すまき  wrapping something in a bamboo mat​
 凍死    とうし
+ーーー
+炙る    焙る    あぶる
+まな板  俎板    まないた    chopping board; cutting board​
+ぐつぐつ    グツグツ    simmering; (boiling) gently​
+栽培    さいばい
+こく    コク    richness; fullness; lushness; body (esp. of food, wine, etc.); depth; weight; substance​
+市販品  しはんひん
+レトルト    retort; sealed plastic pouch typically containing ready-made sauce or stew; boil-in-the-bag​
+ひき肉  挽肉    ひきにく    minced meat; ground meat​
+玉ねぎ  玉葱    タマネギ
 
 ユラギ　ド近眼
 ー
@@ -838,6 +865,9 @@
 シルエット  silhouette
 ーー
 ばらつき    scattering (e.g. in statistics); scatter; dispersion; variation​
+ーーー
+粒  つぶ
+落ち    オチ
 
 シャロ　わんこ症候群
 ー
@@ -847,11 +877,49 @@
 首輪    くびわ
 葡萄    ぶどう
 放牧    ほうぼく
+ーーー
+豚  ぶた
+もぎ取る    捥ぎ取る    もぎとる    to pluck off (esp. by twisting); to pick; to break off; to tear off​
+炊飯器  すいはんき  rice cooker​
+バター  butter
 
-シャロ  中二病
+シャロ  Ｓ型中二病
 ー
 躱す    かわす
+ーー
+藻掻く  もがく  to struggle; to writhe; to wriggle; to squirm
+架空    かくう
+でっち上げる    でっちあげる    to fabricate; to invent; to make up (a story); to hoax; to pull a hoax​
+精神疾患    せいしんしっかん
+ーーー
+生い茂る    おいしげる
+むしり取る  毟り取る    むしりとる  to tear off; to pluck off; to take forcibly​
+咀嚼    そしゃく
+盛り合わせ  もりあわせ  assortment (of food); assorted dishes; combination platter​
+菊の花  きくのはな
 
-プラチナ    右手
+プラチナ    悪魔の右手
 ー
 ねちっこい  persistent; obstinate; stubborn; pigheaded​
+ーー
+銘酒    名酒    めいしゅ    famous brand of sake; choice sake​
+米作り  こめづくり
+携わる  たずさわる  to engage in; to participate in; to take part in; to be involved in​
+ーーー
+田んぼ  田圃    たんぼ
+稲  いね    rice plant​
+飄々    飄飄    ひょうひょう
+濁酒    どぶろく    doburoku (unrefined sake)​
+
+プラチナ　成人病
+ー
+ごそごそ    with a rustling sound; (rummaging) around​
+ーー
+うたい文句  謳い文句    うたいもんく    catchphrase; promotional line; slogan​
+猥褻    わいせつ
+ーーー
+跪く    ひざまずく
+蟹  カニ
+茹でる  ゆでる
+雑炊    ぞうすい
+
