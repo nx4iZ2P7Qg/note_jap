@@ -18,7 +18,6 @@
 なぞる  to trace (drawing); to follow​
 締めくくる  締め括る    しめくくる  to bring to a finish​
 祝う    いわう
-見苦しい    みぐるしい  unsightly; ugly; unseemly; indecent; deplorable; disgraceful; shameful​
 
 日向    ひなた  sunny place; in the sun​
 人出    ひとで  crowd; turnout​
@@ -50,7 +49,6 @@
 披露宴  ひろうえん  reception (e.g. wedding); banquet; celebration; party​
 ちゃっかり  shrewdly; smartly; calculatingly; astutely; cunningly​
 
-娶る    めとる
 お供    おとも  attendant; companion​
 
 待ちかねる  待ち兼ねる  まちかねる  to wait impatiently for​
@@ -92,7 +90,6 @@
 
 炬燵    火燵    コタツ  こたつ  table over an electric heater
 磨く    研く    みがく
-不束者  ふつつかもの    incompetent person; ignoramus​
 ちょこん    slightly (of an action); (looking) small and quiet​
 現役    げんえき
 遣る    やる    to give (esp. to someone of equal or lower status); to let have; to present; to bestow; to confer
@@ -141,13 +138,11 @@
 諸刃の剣    もろはのつるぎ  double-edged sword​
 入れ物  容れ物  いれもの    container; case; receptacle​
 灯る    点る    燈る    ともる
-月刊    げっかん
 
 無修正  むしゅうせい
 ヌード  nude
 
 宝探し  宝捜し  たからさがし
-過激    かげき
 凌辱    りょうじょく
 
 隅っこ  すみっこ
@@ -299,7 +294,6 @@
 数多    あまた  many; a lot; much; multitude​
 童貞    どうてい
 不本意  ふほんい    reluctant; unwilling; involuntary; unintentional; unintended; unlooked-for; disappointing
-はしたない  improper; immodest; disgraceful; shameful; vulgar; low​
 キリリ  きりり  小気味好く引き締まった様子など
 兼ね備える  かねそなえる    to have both; to possess both; to combine with​
 緩和    かんわ
@@ -421,8 +415,6 @@
 玉座    ぎょくざ    throne​
 謁見    えっけん
 
-司る    掌る    つかさどる
-
 摩耗    磨耗    まもう  wear; abrasion​
 沈痛    ちんつう
 相見える    あいまみえる    会う。対面する
@@ -478,6 +470,5 @@
 親玉    おやだま    boss; chief; head​
 
 喉元過ぎれば熱さを忘れる    danger past and God forgotten
-はけ口  捌け口  はけぐち    outlet (e.g. for water or gas)​
 重箱    じゅうばこ
 風呂敷  ふろしき    wrapping cloth; cloth wrapper​

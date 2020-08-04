@@ -67,7 +67,6 @@
 
 『街』ホワイト
 「ああ、手でヌいてもらったが気持ち良かった。初々しい様子がまた堪らなくてな」
-    初々しい            ういういしい            innocent; naive; artless; unsophisticated; pure; fresh​
 「少しはオブラートに包みなさい！あくまでスペシャル浄化よ、浄化！」
     オブラートに包む            to say in a round-about way (not to upset); to cushion the blow; to wrap in wafer paper
 一瞬で男との間合いを詰めたジェンスは、男を引き倒すとその分厚い胸板を踏み付けた。
@@ -86,7 +85,6 @@
 男はキラキラと目を輝かせると、なぜか内股で教会を飛び出していった。
     内股            うちまた            内腿            うちもも            (walking) pigeon-toed; one's toes turned inward
 「教会に通っていたなんて大嘘ね。人から強いと思われたい、そんな欲望が彼の有り様に影響してたんでしょ」
-    通う            かよう
     大嘘            おおうそ
     有り様          ありさま            state; condition; circumstances; sight; spectacle
 「ええ、欲望は簡単に人を変えてしまうわ。そして醜悪になった人は聖母様から見切りを付けられたこともあるの」
@@ -167,11 +165,9 @@
 狼狽える    うろたえる
 巡礼    じゅんれい
 始祖    しそ
-育む    はぐくむ
 賢者    けんじゃ
 門外不出    もんがいふしゅつ    (treasuring something by) never taking (it) off the premises
 全貌    ぜんぼう
-生涯    しょうがい
 しかるべき  然るべき    proper; appropriate; due; suitable​
 
 詣でる  もうでる    to make a pilgrimage​
@@ -186,7 +182,6 @@
 まさしく    正しく
 無駄飯食い  むだめしぐい    ne'er-do-well; waster; idler; good-for-nothing​
 睦まじい    むつまじい
-娶る    めとる
 外聞    がいぶん    reputation; respectability; honour; honor​
 おおっぴら  大っぴら
 欠片    かけら
@@ -195,7 +190,6 @@
 妬む    嫉む    ねたむ
 挙動不審    きょどうふしん
 束縛    そくばく
-営む    いとなむ
 取り締まる  取締る  とりしまる  to manage; to control; to supervise; to oversee; to command​
 身勝手  みがって    selfish; self-centred; egotistical​
 辛辣    辛らつ  しんらつ
@@ -203,7 +197,6 @@
 規制    きせい
 当て    宛て    あて    aim; object; purpose; end​
 酷使    こくし  exploitation; overuse; abuse​
-娶る    めとる
 独り身  ひとりみ    unmarried man (woman)​
 孕む    はらむ
 多大    ただい  great (quantity, amount, etc.); huge; enormous; serious​

@@ -27,7 +27,6 @@
 「街に寄ったらホスピスに行こうな」
 「は、はい」
 ユラギは病気を患ってしまった。
-    患う          わずらう
 
 「よし、じゃあベッドで横になって楽にしてくれ」
 「はい、お願いします」
@@ -83,7 +82,6 @@
 「ひにゃあああ！」
 「え？」
 振り向かせようと軽く二の腕に触れただけでユラギは涙目になって悲鳴をあげた。
-    二の腕         にのうで            上半截胳膊，上膊
 「じ、実は全身が肩こりみたいになってしまったのです」
 「あちゃー、これはひどい」
 「あの、もしかしてこれは......」
@@ -104,7 +102,6 @@
 「ユラギの身体を蝕む病気が分かった。......身体こりだな」
 「そのままな病気ですね」
 「全身に凝りが生じて動きが鈍ったり、命中力が衰える可能性があるな」
-    生じる         しょうじる
     鈍る          にぶる
     命中          めいちゅう
     衰える         おとろえる
@@ -136,7 +133,6 @@
 「よし、成功だ」
 「はあ、はあ......ど、どうでしたか？」
 「ユラギの身体を蝕む病気が分かった。......心配性だな」
-    心配性         しんぱいしょう         prone to worrying
 「割と軽そうな病気ですね」
 「心配性を舐めたらいけない！」
 「は、はい、すみませんでした！」
@@ -198,7 +194,6 @@
     股ぐら          股座            またぐら            crotch​
 
 「カノの身体を蝕む病気が分かった。......肝濃変だ」
-    肝          きも
     濃          のう
 「末期になると内臓が毛むくじゃらになって死んでしまうから早めに治そう」
     毛むくじゃら            けむくじゃら            densely covered in thick hair
@@ -243,7 +238,6 @@
     安眠            あんみん
     病む            やむ
 赤く鮮やかに咲いた花に顔を近付けるとユラギの顔が自然と綻んだ。
-    鮮やか          あざやか
     綻ぶ            ほころぶ
 「それはアロハアロマだよ。ハイラインじゃあ芳香剤として普通に使っているからね」
     芳香剤          ほうこうざい
@@ -285,7 +279,6 @@
     死亡率          しぼうりつ
 
 「確かにこれは……じっくりと咀嚼して楽しみたい優しい味わいですね」
-    咀嚼            そしゃく
 「よし、もう少し多めに取っていって焼き魚にでも使おう」
     多め            多目
 
@@ -441,7 +434,6 @@
 靴下    くつした    socks; sock; stockings; stocking
 雑巾    ぞうきん
 捻る    ひねる
-フェチ  fetish
 
 カノ　風邪皇帝
 ー
@@ -512,7 +504,6 @@
 アレルギー  allergy
 遠ざける    とおざける  to keep away; to keep at a distance​
 ほっと  with a feeling of relief; with a sigh of relief​
-閃く    ひらめく
 天日干し    てんぴぼし
 唐揚げ  からあげ    deep-fried food (esp. chicken)​
 忘れかける  わすれかける    to start forgetting​
@@ -529,7 +520,6 @@
 がぶり  emphatically (bite, gulp, chew, etc.)​
 躍り    おどり
 ーーーー
-暴れる  あばれる
 虚空    こくう
 耽る    ふける  to indulge in; to give oneself up to; to be obsessed by
 がくっり    heartbroken; crestfallen; dejected; disappointed​
@@ -539,7 +529,6 @@
 呪文    じゅもん
 唱える  となえる
 モチベーション  motivation
-保つ    たもつ
 潤滑油  じゅんかつゆ
 歪む    ゆがむ
 鈍い    にぶい
@@ -676,7 +665,6 @@
 ハンドミキサー  handheld mixer; hand mixer​
 練る    ねる
 果汁    かじゅう
-咀嚼    そしゃく
 
 ユラギ　ひまん
 ー
@@ -699,7 +687,6 @@
 感染経路    かんせんけいろ
 薬剤    やくざい
 ーーー
-集い    つどい
 ひくつく    to twitch
 線香    せんこう    incense stick​
 ブレンド    blend
@@ -713,7 +700,6 @@
 症候群  しょうこうぐん  syndrome​
 憑く    つく
 痴呆症  ちほうしょう
-生姜    しょうが
 片手間  かたてま    in spare time; odd job​
 
 シャロ　エイジ
@@ -769,7 +755,6 @@
 ー
 ーー
 就く    つく
-患う    煩う    わずらう
 れっきとした    accepted; fully-fledged; clear; respectable​
 窒息    ちっそく
 海老    蝦  エビ
@@ -784,7 +769,6 @@
 シャロ  熱中症
 ー
 常軌を逸する    じょうきをいっする
-閃く    ひらめく
 硬直    こうちょく
 ぶっ掛ける  ぶっかける  to dash (e.g. liquid on someone's face); to slosh; to splash; to souse; to pour​
 湯気    ゆげ
@@ -833,7 +817,6 @@
 小刀    こがたな
 ゲタ    Geta​
 履物    はきもの
-裸足    跣  はだし
 ーー
 痴呆症  ちほうしょう
 逸品    いっぴん    excellent article; fine item; rare beauty; masterpiece; gem​
@@ -860,7 +843,6 @@
 
 ユラギ　ド近眼
 ー
-よそ見  余所見  よそみ  looking away; looking aside​
 誤る    あやまる
 シルエット  silhouette
 ーー
@@ -894,7 +876,6 @@
 ーーー
 生い茂る    おいしげる
 むしり取る  毟り取る    むしりとる  to tear off; to pluck off; to take forcibly​
-咀嚼    そしゃく
 盛り合わせ  もりあわせ  assortment (of food); assorted dishes; combination platter​
 菊の花  きくのはな
 
@@ -913,7 +894,6 @@
 
 プラチナ　成人病
 ー
-ごそごそ    with a rustling sound; (rummaging) around​
 ーー
 うたい文句  謳い文句    うたいもんく    catchphrase; promotional line; slogan​
 猥褻    わいせつ

@@ -191,7 +191,6 @@
 「このポーズで広い景色を見渡すとなんとなく偉くなった気がするんだ」
 「ふふふ、男の子ですねー」
 アレクたちは雄大で穏やかなダムを心ゆくまで眺めて楽しんだ。
-    穏やか         おだやか
     心ゆくまで           こころゆくまで         心满意足，尽情
 
 １３　水車
@@ -231,7 +230,6 @@
 「水に二日ほどつけ込んで柔らかくしてから食べると最高に美味いぞ」
     二日          ふつか
 アレクは石キノコを採取すると笑顔で懐にしまい込んだ。
-    懐に          ふところに
     しまい込む           收藏；收藏起来
 
 １５
@@ -281,7 +279,6 @@
 「……よく考えると、カラーってしょっちゅう水浴びしてるイメージがあるな」
     しょっちゅう            always; constantly; frequently; often​
 「常に体を綺麗に美しく保つのが、カラーとしての種族的本能……とかそんなところだろうか」
-    保つ            たもつ
 「嘘です。本当はめっちゃいやらしい目で見てました」
     めっちゃ            滅茶            very; extremely; excessively
 アレク達はジト目で睨みつけるカラー達から逃げるようにその場を後にした。
@@ -551,7 +548,6 @@
     得も言われぬ            えもいわれぬ            indescribable; exquisite; inexpressible; indefinable
 アレクは棒に突き刺した芋を、聖騎士の炎にかざしてみた。
     棒          ぼう
-    かざす          翳す            to hold over something; to hold (one's hands) out (e.g. towards a fire)
 「まあ半ば分かってたことではあるが、火力が強すぎてとても無理か……」
     半ば            なかば
 「街に戻ったら大学芋でも作るよ」
@@ -623,7 +619,6 @@
 行商    ぎょうしょう    monger; peddling​
 盛ん    壮ん    さかん
 作物    さくもつ
-バラバラ    scattered; disperse; loose; disconnected; in pieces; in drops; rustling​
 語源    語原    ごげん  origin of a word; derivation of a word; etymology​
 物差し  物差    物指し  物指    ものさし    ruler; measure​
 氷  凍り    こおり
@@ -636,7 +631,6 @@
 手づかみ    手掴み  てづかみ    grasping (with one's bare hands); holding; grabbing; seizing; catching​
 ニーズ   needs; demands; requests​
 講義    こうぎ
-賢い    かしこい
 
 ５１　大鳥居
 鳥居    とりい
@@ -667,7 +661,6 @@
 物騒    ぶっそう    dangerous; unsettled; troubled; disturbed; insecure​
 畏敬    いけい  reverence; awe; respect​
 育成    育生    いくせい    rearing; training; nurture; cultivation; promotion​
-塗る    ぬる    to paint; to plaster; to lacquer; to varnish; to spread; to smear; to put up (wallpaper)​
 紛れる  まぎれる    to disappear into; to be lost in; to slip into; to get mixed in among​
 年月    としつき    ねんげつ    months and years​
 青空    あおぞら    blue sky​
@@ -719,7 +712,6 @@
 くるくる    whirling; revolving; spinning; going round and round​
 かく言う    in this way; along these lines; similarly​
 わくわく    trembling; getting nervous; excited; thrilled​
-燥ぐ    はしゃぐ
 
 ０５８　ホワイトアウト
 突風    とっぷう    gust (of wind); blast​
@@ -762,11 +754,9 @@
 掲げる  かかげる
 極論    きょくろん  extreme logic; extreme argument; unreserved argument​
 堅苦しい    かたくるしい
-賢い    かしこい
 
 ０６３　旧遺跡
 ほいほい    ホイホイ    recklessly; thoughtlessly; carelessly; readily; blithely; willingly; easily​
-通う    かよう
 彷彿    髣髴    ほうふつ
 紐解く  繙く    ひもとく    to read (a book); to open (a book) to read​     to unravel (e.g. a mystery); to discover (the truth)​
 ロジカル    logical​
@@ -844,7 +834,6 @@
 あんぐり    open-mouthed​
 びくともしない  頑丈で、まったく動かない様子
 億  おく
-身をもって  身を以て    みをもって  with one's own body; by one's own action; through one's own experience; firsthand​
 
 ０７５　海底都市
 柱  はしら
@@ -906,7 +895,6 @@
 
 
 ０８７　百合カラー
-もたれ掛かる    凭れ掛かる  靠れかかる  もたれかかる    to lean on; to recline on​
 同性愛  どうせいあい
 根ざす  根差す  ねざす  to come from; to have roots in​
 不適切  ふてきせつ

@@ -102,7 +102,6 @@ gas		ガス
 cloud		クラウド
 cube		キューブ
 boots		ブーツ
-symbol		シンボル
 jewel		ジュエル
 ghost		ゴースト
 red		レッド

@@ -71,7 +71,6 @@
 纏わる  まつわる
 浮き浮き    ウキウキ    うきうき    cheerfully; buoyantly; happily; in high spirits
 ルーツ  roots​
-頷く    うなずく
 
 総本山  そうほんざん    head temple of a sect​
 一箇所  一カ所  いっかしょ  one place; (all in) the same place; one spot; one location; one part; one passage​
@@ -123,7 +122,6 @@
 目くるめく  めくるめく  to dazzle; to blind​
 あやす  to cuddle; to comfort; to rock; to soothe; to dandle; to humor; to humour; to lull​
 くねる  to bend loosely back and forth; to wriggle; to be crooked​
-淡い    あわい
 湿り気  しめりけ
 欠く    かく
 一頻り  一しきり    ひとしきり  for a while; for some time; for a period
@@ -136,7 +134,6 @@
 反時計回り  はんとけいまわり
 口走る  くちばしる  to blurt out; to let slip; to say inadvertently; to come out with (e.g. nonsense)​
 昨今    さっこん    nowadays; recently​
-有るまじき  あるまじき  unworthy; unbecoming; improper​
 奮い立つ    ふるいたつ  to cheer up; to be encouraged (by); to be in high spirits​
 胸焼け  むねやけ    heartburn; sour stomach​
 典型的  てんけいてき
@@ -164,7 +161,6 @@
 無骨    ぶこつ  boorish; unrefined; rustic; uncouth; clumsy; brusque​
 勢力拡大    せいりょくかくだい
 起点    きてん
-ちらほら    here and there
 隔意    かくい  reserve; reticence; unfriendliness; estrangement​
 強固    鞏固    きょうこ
 砦  とりで
@@ -238,7 +234,6 @@
 徒歩    とほ
 双眼鏡  そうがんきょう
 躯  骸  むくろ
-怯む    ひるむ
 化粧    けしょう
 人海戦術    じんかいせんじゅつ
 断腸    だんちょう
@@ -290,7 +285,6 @@
 芯  しん
 耳たぶ  耳朶    みみたぶ    earlobe​
 
-拝む    おがむ
 病む    やむ
 急かす  せかす
 顧みる  顧る    かえりみる
@@ -361,7 +355,6 @@
 
 竪穴    縦穴    たてあな    pit; shaft​
 石斧    せきふ
-虱潰し  しらみつぶし    very thorough search
 境目    さかいめ    borderline; boundary​
 浮き浮き    ウキウキ    cheerfully
 巧妙    こうみょう
@@ -450,7 +443,6 @@
 年増    としま
 卑下    ひげ
 口ごもる    口篭もる    くちごもる
-諭す    さとす  to admonish; to persuade; to warn; to remonstrate​
 貪る    むさぼる
 小振り  小ぶり  こぶり
 焼ける  灼ける  妬ける  やける  to be jealous; to be envious​
@@ -464,7 +456,6 @@
 ずんずん    rapidly (e.g. progress, moving forward); growing visibly; quickly; steadily; by leaps and bounds​
 せり上がる  せりあがる  上がって行くこと、突き出ていること
 ねじ込む    捩じ込む    ねじこむ    to screw in     to thrust into, to push into, to shove into
-縋りつく    縋り付く    すがりつく
 はみ出す    食み出す    はみだす    to protrude; to stick out　 to be forced out    to go over (e.g. a budget)
 きっちり    キッチリ    exactly; precisely; punctually; on the dot
 ベトベト    べとべと    being sticky​
@@ -520,7 +511,6 @@
 お米様抱っこ    おこめさまだっこ    米俵を担いで運んでいるように
 
 文法    ぶんぽう
-遡る    溯る    さかのぼる
 エンジェル  エンゼル    angel
 どら焼き    どらやき    dessert sandwich of two small sweet pancakes and red bean paste​
 うろ覚え    うろおぼえ  vague recollection; faint memory​
@@ -665,7 +655,6 @@
 冒涜    ぼうとく
 往なす  いなす  to parry; to sidestep; to dodge
 翻す    ひるがえる
-鮮やか  あざやか
 
 辛気臭い    しんきくさい    irritating; annoying; tedious
 教わる  おそわる

@@ -49,7 +49,6 @@
 搬送    はんそう
 適切    てきせつ
 こつを掴む  コツを掴む  骨を掴む    こつをつかむ    to get the hang of; to learn the secret to
-ヘロヘロ    へろへろ    completely exhausted
 初っ端  しょっぱな  (very) beginning; start
 ブレーキ    brake​
 
@@ -67,7 +66,6 @@
 共同    きょうどう
 アンバランス    unbalanced
 力む    りきむ  to strain (oneself); to bear up; to exert one's strength​
-堪える  こらえる
 拗らせる    こじらせる  to aggravate; to complicate; to make worse
 渾身    こんしん
 途切れ  跡切れ  とぎれ  break; pause; interruption; intermission​
@@ -120,7 +118,6 @@
 保育士  ほいくし    nursery school teacher; childcare worker​
 立ち会う    立会う  たちあう    to be present (esp. during a birth); to be witness to​
 よりけり    depends on
-担ぎ込む    かつぎこむ
 負ぶう  おぶう
 おんぶ紐    おんぶひも  baby backpack; back-mounted baby carrier; sling
 羊羹    ようかん
@@ -193,7 +190,6 @@
 しかめっ面  しかめっつら    frown; scowl; grimace​
 火急    かきゅう
 斟酌    しんしゃく  consideration (for others); (making) allowance​
-保つ    たもつ
 強盗    ごうとう
 人だかり    ひとだかり  crowd; throng​
 丹精を込める    たんせいをこめる    to take pains (doing something); to take great care​
@@ -238,7 +234,6 @@
 ずれる  ズレる  to slide; to slip off; to be off-point​
 趣旨    主旨    しゅし
 核心    かくしん
-うんと  a great deal; very much; a lot
 おめかし    dressing up
 身構える    みがまえる  to put oneself on guard; to stand ready; to square off​
 闇討ち  やみうち    attacking under the cover of darkness; surprise attack; assassination​
@@ -299,9 +294,7 @@
 ５
 秘匿    ひとく
 俗に言う    ぞくにいう
-切り開く    切り拓く    きりひらく
 俄かに  にわかに    suddenly; abruptly; unexpectedly​
-不埒    ふらち  lawless; outrageous; insolent; rude; inexcusable; unpardonable​
 立つ瀬がない    たつせがない    having lost face; in a bind​
 ツインテール    pigtails
 右往左往    うおうさおう    moving about in confusion; going every which way; going this way and that
@@ -329,7 +322,6 @@
 憩い    いこい
 構築    こうちく
 暮れ    くれ    sunset; sundown; nightfall; dusk
-お年玉  おとしだま  New Year's gift
 撃つ    討つ    うつ
 猫かわいがり    ねこかわいがり  (endlessly) doting (on someone); (constantly) petting (somebody) as if they were a pet​
 涎掛け  よだれかけ
@@ -389,13 +381,11 @@
 化石    かせき
 ランニング  running​
 談笑    だんしょう
-果報者  かほうもの  lucky fellow​
 培う    つちかう
 下っ端  したっぱ    underling; person of low standing​
 処世術  しょせいじゅつ
 扇ぐ    煽ぐ    あおぐ
 ズーン  暗い気分や落ち込んだ時の様子を表す
-見苦しい    みぐるしい  unsightly; ugly
 靡く    なびく  to bend; to flutter; to wave
 奇抜    きばつ  novel; original; striking; strange; eccentric; fantastic​
 突拍子もない    とっぴょうしもない  astounding; tremendous; crazy; exorbitant​
@@ -416,7 +406,6 @@
 頭突き  ずつき
 厄日    やくび
 頑な    かたくな
-虱潰し  しらみつぶし    very thorough search
 焼きごて    焼き鏝  やきごて
 予兆    よちょう
 睾丸    こうがん
@@ -425,7 +414,6 @@
 効果覿面    こうかてきめん  having an immediate effect; taking immediate effect​
 小麦    こむぎ
 後日談  ごじつだん
-度重なる    たびかさなる
 美肌    びはだ
 
 ３
@@ -458,7 +446,6 @@
 ぐうたら    ぐーたら    のんびり、ぐずぐずしていて、働かないさま
 圧迫感  あっぱくかん
 ぎこちない  awkward; clumsy; stiff; crude; unrefined; constrained
-度重なる    たびかさなる    to repeat; to be frequent​
 こなれる    to be digested​     to master (a skill); to be proficient   to mature (e.g. personality); to mellow​
 強いて  しいて  by force​
 沼  ぬま
@@ -531,7 +518,6 @@
 欲求    よっきゅう
 色欲    しきよく
 才気    さいき
-基礎    きそ
 饒舌    冗舌    じょうぜつ  garrulity; loquacity; talkativeness​
 面白半分    おもしろはんぶん    for fun; half in jest​
 律儀    りちぎ
@@ -552,7 +538,6 @@
 ぐったり    limply; wearily; listlessly; languidly; exhaustedly; unenergetically
 ボソリ  ぼそり  whispering; murmuring; subdued​
 因子    いんし
-遡る    さかのぼる
 怠惰    たいだ  lazy; idle; indolent; slothful​
 羨望    せんぼう
 
@@ -647,7 +632,6 @@
 抱擁    ほうよう
 夕暮れ  ゆうぐれ    evening; dusk; twilight​
 渦巻く  うずまく
-彷徨う  さ迷う  さまよう
 そそくさ    hurriedly; in haste​
 
 ２
