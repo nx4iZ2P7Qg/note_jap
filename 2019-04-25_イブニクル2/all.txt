@@ -268,7 +268,6 @@
     一気に          in one go, in one gulp, in one breath, without stopping
 抱きつかれた勢いを流しきれず、勢い余ってくるくると回る少女にユラギは頬ずりするように頭を押しつける。
     流しきれる
-    余る            あまる
     頬ずり          頬擦り          ほおずり            rubbing cheeks together
 「おおっ、たわわだ」
     たわわ          (of a branch heavily laden with fruit, etc.) drooping, bending
@@ -1181,7 +1180,6 @@
     優位            ゆうい
     はびこる            蔓延る
 「と言うわけで、リゾート気分を満喫しながら濃厚な夜を過ごさないか ?」
-    満喫            まんきつ
     濃厚            のうこう
 「しょうがない、寂しく一人寝するか……」
     一人寝          ひとりね
@@ -3296,7 +3294,6 @@ Mパイプラインの下にプラチナが隠れられるほど大きな植物�
 「数の有利があったとはいえ、武装集団をここまで見事に殲滅するとはな……これはメモしておかねばならん」
     見事            みごと          splendid; magnificent; excellent; fine; superb; beautiful; admirable​
 「セドリック殿が同行しているということはアジモフとの共同作戦なのか?」
-    共同            きょうどう
 「いえ、私は不審な集団の情報を提供しただけでございます。今はピュロス将軍の新しい軍隊運用を視察させて頂きました」
     不審            ふしん          incomplete understanding; doubt; question; distrust; suspicion; strangeness; infidelity​
     提供            ていきょう
@@ -3765,7 +3762,6 @@ Mパイプラインの下にプラチナが隠れられるほど大きな植物�
     とやら          indicates uncertainty or second hand nature of information quoted
 「すまないアジモフ公、こ、こいつはなにぶんにも田舎者で……」
     公          こう
-    なにぶんにも            何分にも            anyway; anyhow; at any rate; after all​
 
 「戸惑うのも無理はないが、公爵会議は色々としがらみも多くてね。どうしても硬い対応になってしまうのさ」
     しがらみ            柵          weir​       bonds; fetters; ties of obligation​
@@ -4256,7 +4252,6 @@ Mパイプラインの下にプラチナが隠れられるほど大きな植物�
     できる          to become intimate; to take up (with somebody)​
 セドリックは苛立たしげに予測をメモへと書き記していく。
     苛立たしげ          いらだたしげ            antsy; agitated; irritated; anxious; vexed​
-    書き記す            かきしるす
 「そうだ、公爵会議だ !ハイラインの成金が連れてきた男がそういう名だった」
     成金            なりきん            upstart; nouveau riche; new money; new rich; coming into wealth suddenly
 「あと少しで南部の民として差別された私がアジモフの全てを裏から牛耳れるというのに……」
@@ -5561,7 +5556,6 @@ Mパイプラインの下にプラチナが隠れられるほど大きな植物�
 そのメモ帳は妻であるアンに言われ、様々な思いつき、模索した解決方法などを事細やかに書き記した物である。
     模索            摸索            もさく          groping (for); fumbling around (for); searching (for an answer, solution, etc.); trying to find​
     事細やか            ことこまやか            detailed; minute
-    書き記す            かきしるす
 「何度も失敗し、辺境に左遷されても返り咲くことができたのだ。何かある……何かあるはずだ」
     左遷            させん          demotion; relegation; reduction in rank; degradation; downward move​
     返り咲く            かえりざく          to come back; to bloom a second time​
@@ -5613,7 +5607,6 @@ Mパイプラインの下にプラチナが隠れられるほど大きな植物�
 「田んぼと畑ならいっぱい、あるよ」
     田んぼ          田圃            たんぼ          paddy field; farm​
 「中は意外と小洒落ているのね。うん、これなら避暑地気分で過ごせばのんびりできるかも」
-    小洒落る            こじゃれる
     避暑地          ひしょち
 「世の中には働かざる者食うべからずって言葉があってね……無職のままだとアムゾンの会費すら払えないわよ」
     働かざる者食うべからず          はたらかざるものくうべからず

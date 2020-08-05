@@ -63,7 +63,6 @@
 
 「はっはっはっ、うちの朝飯は美味いですよ!なんたって俺が朝から獲ってきた新鮮な魚料理なんでね ! 」
     朝飯          あさめし
-    獲る          とる
     新鮮          しんせん
 「みち子さ～ん、靴下がないよぉ～」
     靴下          くつした            袜子
@@ -181,7 +180,6 @@
 宴会    えんかい
 一撃    いちげき
 ほろ酔い    ほろよい    slight intoxication; being tipsy​
-酔う    よう
 べたべた    sticky  thickly (e.g. painted); heavily (applied)​
 引っ付く    ひっつく    to stick to; to cling to; to adhere to​
 ほんのり    slightly; faintly
