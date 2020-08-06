@@ -74,7 +74,6 @@
 沼地    ぬまち
 ずば抜ける  ずばぬける  to tower above the rest
 理詰め  理詰    りづめ  reasoning; logic; persuasion​
-浸かる  漬かる  つかる
 粗大ゴミ    粗大ごみ    粗大塵  そだいごみ
 報奨金  褒賞金  ほうしょうきん
 さんじゅうおく  三十億
@@ -208,7 +207,6 @@
 隠れ蓑  かくれみの  cover (e.g. for illegal activity); front; guise​
 荒廃    こうはい
 歯痒い  はがゆい
-嘆く    歎く    なげく
 
 岩  いわ
 精魂を込める    せいこんをこめる
@@ -280,7 +278,6 @@
 町長    ちょうちょう
 角ばる  かくばる    to be square; to be angular; to be jagged​
 超ウケる    チョーうける    超受ける    超うける    とても可笑しい、面白い、といった意味で用いられるギャル語
-嘆く    歎く    なげく
 収入    しゅうにゅう
 御利益  ごりやく    grace (of God); divine favour; blessing; miracle; answer to a prayer​
 入り混じる  入り交じる  いりまじる  to mix with; to be mixed; to be mingled​
@@ -326,7 +323,6 @@
 革張り  皮張り  かわばり    leather-covered​
 バインダー  binder​
 罰則    ばっそく
-防ぐ    ふせぐ
 選挙    せんきょ
 否  いな
 唱える  となえる
@@ -428,7 +424,6 @@
 一般論  いっぱんろん    prevailing view; common opinion; general consideration​
 
 「支線」　青白い恋人
-丘  おか
 豪農    ごうのう
 添い遂げる  そいとげる  to remain married for life​
 盗み聞き    ぬすみぎき
@@ -612,7 +607,6 @@
 精根尽き果てる  せいこんつきはてる  to use up all of one's energy and willpower; to be exhausted (and have no will to go on)​
 汗疹    あせも
 
-経過    けいか
 扇動    煽動    せんどう
 蜂起    ほうき
 お盆    おぼん  O-Bon; Bon Festival; Lantern Festival; Festival of the Dead
@@ -752,7 +746,6 @@
 突き放す    つきはなす  to push away; to thrust aside​
 積み込む    つみこむ    to load (with goods, cargo); to put on board; to stow aboard​
 行く末  ゆくすえ    one's future; one's fate​
-ど真ん中    どまんなか  right in the center (centre)
 迂回    うかい
 潜る    くぐる
 強靭    きょうじん
@@ -775,7 +768,6 @@
 台本    だいほん    script; libretto; scenario​
 手持無沙汰  てもちぶさた    being bored; being at a loose end​
 
-嘆く    歎く    なげく
 翻意    ほんい  changing one's mind​
 悪辣    あくらつ    crafty; vicious; unscrupulous; sharp​
 よもや  surely (not); certainly (not)​

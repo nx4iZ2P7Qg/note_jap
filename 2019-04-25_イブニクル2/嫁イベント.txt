@@ -175,7 +175,6 @@
 戯ける  たわける
 血祭り  ちまつり
 花嫁修業    はなよめしゅうぎょう    training for homemaking; training in homemaking arts
-滴る    したたる
 穿つ    うがつ
 背骨    せぼね
 酸欠    さんけつ    oxygen deficiency; oxygen shortage; lack of oxygen​
@@ -358,7 +357,6 @@
 号泣    ごうきゅう
 奇行    きこう
 倫理    りんり
-日夜    にちや
 装う    よそおう
 岡目    傍目    おかめ
 星空    ほしぞら
