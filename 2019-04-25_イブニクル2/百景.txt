@@ -527,7 +527,6 @@
 アレクは棒に突き刺した芋を、聖騎士の炎にかざしてみた。
     棒          ぼう
 「まあ半ば分かってたことではあるが、火力が強すぎてとても無理か……」
-    半ば            なかば
 「街に戻ったら大学芋でも作るよ」
     大学芋          だいがくいも            candied sweet potato​
 アレク達は聖騎士の炎の、尋常じゃない火力を実感してから、冒険を続けるのだった。
@@ -635,7 +634,6 @@
 
 ５３　天国と地獄
 逸話    いつわ  anecdote​
-物騒    ぶっそう    dangerous; unsettled; troubled; disturbed; insecure​
 畏敬    いけい  reverence; awe; respect​
 育成    育生    いくせい    rearing; training; nurture; cultivation; promotion​
 紛れる  まぎれる    to disappear into; to be lost in; to slip into; to get mixed in among​

@@ -163,7 +163,6 @@
 増幅    ぞうふく
 始皇帝  しこうてい
 メガトンキッス  演劇
-物騒    ぶっそう    dangerous; unsettled; troubled; disturbed; insecure
 代物    しろもの    article; goods; product​
 
 冒頭    ぼうとう    beginning; start; outset​
@@ -248,7 +247,6 @@
 活気    かっき
 成敗    せいはい    success and failure​
 成敗    せいばい    punishment; judgement; judgment​
-迅速    じんそく
 鋭意    えいい
 炊き出し    たきだし    emergency food distribution (esp. cooked rice)​
 腹ごしらえ  はらごしらえ    having a meal (before doing something); fortifying oneself with a meal​

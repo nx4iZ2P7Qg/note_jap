@@ -23,13 +23,11 @@
 「しかし、パトリオットがアレクに好意を抱いていると気付いたセドリックは焦り、強攻策を取った」
     強攻策          きょうこうさく          daring attack tactic​
 「アレクが悪人だったら公爵を思い通りに動かすことも可能だっただろう」
-    悪人            あくにん
 「そして祝賀会で戦争反対派の貴族を抹殺したブロンテ侯爵ですが、エンデという少女の暴走により失敗しました」
     祝賀会          しゅくがかい
     抹殺            まっさつ
 「戦争反対派にも巻き返す猶予が生まれたので、再び両派は拮抗すると思われたのですが……」
     巻き返す            まきかえす          to rally; to regain one's strength​
-    猶予            ゆうよ          postponement; deferment; extension (of time)​
     拮抗            きっこう            rivalry; competition; antagonism; struggle for supremacy​
 「その通りです。 しかも運が悪いことに、そのスキルは蔵握領で国宝とされる仏像を破壊してしまったそうです」
     国宝            こくほう
@@ -420,7 +418,6 @@
 いっその事  いっそのこと    rather; sooner; preferably
 しゃしゃり出る  しゃしゃりでる  to come uninvited; to crash (a party); to butt in​
 由々しき    ゆゆしき    grave; serious; alarming​
-囮  おとり  lure; decoy; stool pigeon; trap
 一般論  いっぱんろん    prevailing view; common opinion; general consideration​
 
 「支線」　青白い恋人
@@ -572,7 +569,6 @@
 煩わしい    わずらわしい
 釈放    しゃくほう
 空っぽ  からっぽ
-了承    諒承    りょうしょう
 やけに  awfully; frightfully; desperately; violently; unduly; extremely​
 突っ掛かる  突っかかる  つっかかる
 目一杯  めいっぱい  to the limit; to the full; as much as possible; with all one's might​
@@ -789,7 +785,6 @@
 
 お供    おとも  attendant; companion
 総勢    そうぜい
-ぶつかり合う    ぶつかりあう    to collide; to clash​
 丸ごと  まるごと    in its entirety; whole; wholly​
 
 どよめき    commotion; stir​
@@ -915,7 +910,6 @@
 振るう  揮う    振う    ふるう  to swing; to wield (physically); to exert​
 粛清    しゅくせい
 横槍    横やり  よこやり    interruption; interference; butting in​
-慣習    かんしゅう
 背負う  せおう
 蟠り    わだかまり  cares; ill feeling; reserve​
 産休    さんきゅう
