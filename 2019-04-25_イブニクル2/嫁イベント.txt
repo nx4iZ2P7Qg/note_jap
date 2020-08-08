@@ -17,7 +17,6 @@
 露わに  あらわに
 労わる  いたわる
 執拗    しつよう
-蓄積    ちくせき
 鼻血    はなぢ
 律儀    りちぎ
 四方八方    しほうはっぽう  in all directions​
@@ -45,7 +44,6 @@
 隅っこ  すみっこ    corner; nook; recess​
 三角座り    さんかくずわり  sitting on the floor grasping one's knees (as in a gym class)​
 看護師  かんごし
-搬送    はんそう
 適切    てきせつ
 こつを掴む  コツを掴む  骨を掴む    こつをつかむ    to get the hang of; to learn the secret to
 初っ端  しょっぱな  (very) beginning; start
@@ -53,7 +51,6 @@
 
 ３
 おっしゃる通り  仰る通り    おっしゃるとおり    I agree with you; it is as (someone) says​
-互角    ごかく
 大方    おおかた
 緩緩    ゆるゆる    very loose; slowly; leisurely​
 郭公    カッコウ    カッコー    common cuckoo
@@ -110,7 +107,6 @@
 諸々    もろもろ    all kinds of things; various things; large number of people​
 建前    建て前  たてまえ    face; official stance; public position or attitude (as opposed to private thoughts)
 着実    ちゃくじつ
-ぶちまける  to dump (e.g. onto the floor); to empty by overturning; to throw out (contents)
 就く    つく
 保育士  ほいくし    nursery school teacher; childcare worker​
 立ち会う    立会う  たちあう    to be present (esp. during a birth); to be witness to​
@@ -312,7 +308,6 @@
 強いて言えば    しいていえば    if I'm forced to say something; if anything; if I must say; if I must choose​
 かくかくしかじか    such and such; so and so
 交代制  交替制  こうたいせい    shift system​
-揉める  もめる  to disagree; to dispute; to fight (over)​
 憩い    いこい
 構築    こうちく
 暮れ    くれ    sunset; sundown; nightfall; dusk
@@ -330,7 +325,6 @@
 仮説    かせつ
 排泄    はいせつ
 拍子    ひょうし
-即答    そくとう
 おまる  bedpan; chamber pot; potty​
 ぐったり    limply; wearily; listlessly; languidly
 嘆息    たんそく
@@ -398,7 +392,6 @@
 椰子    やし
 頭突き  ずつき
 厄日    やくび
-頑な    かたくな
 焼きごて    焼き鏝  やきごて
 予兆    よちょう
 睾丸    こうがん
@@ -549,7 +542,6 @@
 看破    かんぱ
 真摯    しんし
 射抜く  射ぬく  射貫く  いぬく
-頑な    かたくな
 詳らか  審らか  つまびらか
 身じろぎ    身動ぎ  みじろぎ    stirring; slight movement​
 お饅頭  おまんじゅう

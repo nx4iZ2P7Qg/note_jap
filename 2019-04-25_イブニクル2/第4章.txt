@@ -66,7 +66,6 @@
 募集    ぼしゅう
 傭兵    ようへい
 縁者    えんじゃ    relative​
-後方    こうほう
 敷く    しく    to spread out; to lay out​
 ツーショット    photograph of two people, usu. male and female​
 沼地    ぬまち
@@ -347,7 +346,6 @@
 物資    ぶっし
 おしっこ    wee-wee; pee-pee; number one​
 宰相    さいしょう
-合わせて    合せて  併せて  あわせて    in all; in total; collectively​
 白々しい    しらじらしい    barefaced (e.g. lie); shameless; transparent
 鵜呑み  うのみ  swallowing without chewing​
 世間体  せけんてい  appearance (in the eyes of society); decency​
@@ -641,7 +639,6 @@
 三日月  みかづき    new moon; crescent moon​
 柔肌    やわはだ
 ばい菌  黴菌    ばいきん
-不潔    ふけつ
 脳天    のうてん    top of the head; crown of the head​
 倒れ伏す    倒れ臥す    たおれふす  to fall flat; to fall face down​
 世迷言  よまいごと  grumbling; muttering; nonsense
@@ -818,7 +815,6 @@
 蜂の巣  はちのす
 盗人    ぬすびと
 九死に一生を得る    きゅうしにいっしょうをえる
-蹴散らす    けちらす
 火蓋を切る  ひぶたをきる    to start (an argument, a battle, etc.)​
 お世辞にも  おせじにも  by any standard; (not) even as flattery​
 飛沫    ひまつ
