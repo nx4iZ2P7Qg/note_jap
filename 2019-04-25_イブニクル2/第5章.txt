@@ -68,11 +68,9 @@
 サンバ  ｓａｍｂａ
 
 纏わる  まつわる
-浮き浮き    ウキウキ    うきうき    cheerfully; buoyantly; happily; in high spirits
 ルーツ  roots​
 
 総本山  そうほんざん    head temple of a sect​
-一箇所  一カ所  いっかしょ  one place; (all in) the same place; one spot; one location; one part; one passage​
 纏める  まとめる
 理事    りじ    director; trustee​
 
@@ -117,7 +115,6 @@
 手っ取り早い    てっとりばやい  quick; prompt; without delay​
 前戯    ぜんぎ
 ポーカーフェイス    poker face​
-凝り    しこり
 目くるめく  めくるめく  to dazzle; to blind​
 あやす  to cuddle; to comfort; to rock; to soothe; to dandle; to humor; to humour; to lull​
 くねる  to bend loosely back and forth; to wriggle; to be crooked​
@@ -187,7 +184,6 @@
 一枚岩  いちまいいわ    monolith; large slab of rock​
 まくし立てる    捲し立てる  まくしたてる    to talk on and on; to rattle on; to keep on talking (without pause)​
 小包    こづつみ
-派遣    はけん
 募る    つのる
 二次    にじ
 
@@ -245,7 +241,6 @@
 
 跨る    またがる
 忽ち    たちまち    in an instant; in a moment; immediately; right away; at once​
-ぎこちない  awkward; clumsy; stiff; crude; unrefined; constrained​
 くねくね    winding; meandering; wriggling; wiggling; waving
 鷲掴み  わしづかみ
 寸止め  すんどめ
@@ -325,14 +320,12 @@
 騒然    そうぜん
 礎  いしずえ
 汚染    おせん
-蔑む    さげすむ
 配る    くばる
 がせ    ガセ    fake
 縞々    しましま    striped; stripes
 Ｔバック    T-back; bikini thong​
 筋合い  すじあい    reason; right​
 区画    くかく  division; section
-今一    いまいち    not quite (right); not very good; somewhat (lacking)​
 
 食費    しょくひ
 嵩む    かさむ  to mount up; to pile up
@@ -351,7 +344,6 @@
 竪穴    縦穴    たてあな    pit; shaft​
 石斧    せきふ
 境目    さかいめ    borderline; boundary​
-浮き浮き    ウキウキ    cheerfully
 巧妙    こうみょう
 
 随所    ずいしょ
@@ -427,7 +419,6 @@
 ネチネチ    ねちねち    persistent; insistent; nagging
 カッとなる  かっとなる  to flare up; to fly into a rage
 軽々しい    かるがるしい
-費やす  ついやす
 しおらしい  meek; gentle; modest; sweet; charming; touching​
 鶏肉    鳥肉    とりにく
 アヘ顔  あへがお    exaggerated facial expression (esp. of females) during sex
@@ -438,7 +429,6 @@
 年増    としま
 卑下    ひげ
 貪る    むさぼる
-小振り  小ぶり  こぶり
 焼ける  灼ける  妬ける  やける  to be jealous; to be envious​
 睾丸    こうがん
 白濁    はくだく
@@ -469,7 +459,6 @@
 スペシウム光線
 早う    はよう
 嵌める  填める  はめる
-コロッケ    croquette​
 仰せ付かる  おおせつかる    to receive a command; to be appointed; to be ordered​
 松茸    まつたけ
 操る    あやつる
@@ -587,7 +576,6 @@
 癪に障る    しゃくにさわる  to irritate; to grate on one's nerves; to aggravate; to be galling; to be invidious​
 艶めかしい  なまめかしい    charming; captivating; bewitching; seductive; coquettish​
 むくむく    rising up; towering; billowing (e.g. clouds of smoke)​
-後ずさる    後退る  あとずさる
 ずっしり    heavily; profoundly​
 間抜け  まぬけ  stupid; foolish; idiotic; inane​
 挫ける  くじける
@@ -604,7 +592,6 @@
 瘤  こぶ
 数珠    じゅず  rosary; string of prayer beads
 目掛ける    目がける    めがける
-衰える  おとろえる
 嗚咽    おえつ
 
 労しい  いたわしい
@@ -637,7 +624,6 @@
 跳ね除ける  撥ね退ける  はねのける
 怨念    おんねん
 狂人    きょうじん
-へっちゃら  cool; calm; composed; unconcerned​
 お祓い  おはらい    exorcism rite; purification​
 そっくり    all; altogether; entirely; completely
 冒涜    ぼうとく

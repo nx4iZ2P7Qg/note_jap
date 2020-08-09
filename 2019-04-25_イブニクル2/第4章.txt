@@ -44,7 +44,6 @@
 野放し  のばなし
 毛頭ない    もうとうない    全くない、という意味で用いる言い回し
 奇抜    きばつ  novel; original; striking; strange; eccentric; fantastic​
-抜け道  ぬけみち    byway; bypath; byroad; secret path; way of escape​
 手強い  てごわい    difficult; tough; formidable; redoubtable; stubborn​
 やたら  矢鱈    blindly; at random; recklessly; thoughtlessly
 ヤケ酒  自棄酒  やけざけ    drowning one's cares in drink; drinking in desperation​
@@ -61,7 +60,6 @@
 交際    こうさい
 英気を養う  えいきをやしなう    to restore one's energy; to restore one's spirits; to recharge one's batteries​
 裁可    さいか
-手探り  てさぐり    fumbling; groping​
 新規    しんき
 募集    ぼしゅう
 傭兵    ようへい
@@ -137,7 +135,6 @@
 秘訣    ひけつ
 胃薬    いぐすり
 かたじけない    忝い    grateful; indebted
-打ち明ける  うちあける  to confide; to reveal; to disclose; to lay bare; to speak frankly; to open (one's heart)​
 人柄    ひとがら    personality; character; personal appearance; gentility
 人命    じんめい
 仇を討つ    かたきをうつ
@@ -231,7 +228,6 @@
 爪  つめ
 その手には乗らない  相手の策略・謀略を見透かして回避する
 声色    こわいろ
-痴漢    ちかん
 攻め    せめ
 はぎ取る    剥ぎ取る    剝ぎ取る    はぎとる
 早業    早わざ  はやわざ    quick work; (clever) feat​
@@ -250,7 +246,6 @@
 執拗    しつよう
 自画自賛    じがじさん
 温い    ぬるい
-しがみ付く  しがみつく  to cling
 恥骨    ちこつ
 蜜壺    みつつぼ
 気を利かす  きをきかす  to make the smart move
@@ -328,7 +323,6 @@
 辞す    じす
 辞任    じにん
 穀潰し  ごくつぶし  good-for-nothing; parasite; deadbeat; loafer; drone; idler
-妾  めかけ
 合わさる    合さる  あわさる
 
 ベッドタウン    commuter town; bedroom community; dormitory town
@@ -481,7 +475,6 @@
 垂れ    タレ    たれ    sauce (esp. soy or mirin-based dipping sauce)​
 見計らう    みはからう  to choose when to do something; to estimate (the time for something)​
 無性に  むしょうに  very much; intensely; overwhelmingly; excessively; irresistibly; without any obvious reason​
-担う    になう
 少なからず  すくなからず    considerably; not a little; in no small numbers​
 エゴ    ego
 賑わう  にぎわう
@@ -495,7 +488,6 @@
 お通じ  おつうじ    bowel movement; evacuation​
 汚物    おぶつ
 腸  ちょう
-つるつる    ツルツル    smooth; shiny; slick
 ピカピカ    ぴかぴか    with a glitter; with a sparkle​
 絆  きずな  bonds (between people); (emotional) ties; relationship; connection; link​
 整う    調う    ととのう
@@ -699,7 +691,6 @@
 鷲掴み  わしづかみ
 にんまり    with a complacent smile; with a smile of satisfaction​
 披露    ひろう
-ぎこちない  awkward; clumsy; stiff; crude; unrefined; constrained​
 項  うなじ
 ぴくぴく    ピクピク    twitching​
 ひくつく    to twitch
@@ -732,8 +723,6 @@
 調伏    ちょうぶく  curse; exorcism​
 つれない    つれない    cold; indifferent; unfriendly; unsympathetic; unkind​
 引き剥がす  引きはがす  ひきはがす  to tear off; to rip off​
-出力    しゅつりょく
-へっちゃら  cool; calm; composed; unconcerned
 サイクロン  cyclone
 搭載    とうさい
 突き放す    つきはなす  to push away; to thrust aside​
@@ -766,7 +755,6 @@
 よもや  surely (not); certainly (not)​
 専横    せんおう
 募る    つのる
-図る    謀る    はかる
 軟禁    なんきん
 
 敷く    布く    しく    to spread out; to lay out​
@@ -913,7 +901,6 @@
 取り繕う    とりつくろう    to keep up (appearances)​
 寝取る  ねとる  to steal another's spouse; to steal another's lover​
 藪蛇    やぶへび    unnecessary trouble brought upon oneself; stirring up a hornet's nest​
-恭しい  うやうやしい
 のうのう    careless; carefree​
 中枢    ちゅうすう
 港湾    こうわん

@@ -30,7 +30,6 @@
 ぱくぱく    repeatedly opening and closing (one's mouth); gasping​
 繊細    せんさい
 コロッと    ころっと    態度や状態が突然すっかり変わるさま
-焜炉    コンロ  こんろ
 爆発    ばくはつ
 得手不得手  えてふえて
 窓ふき  まどふき    window cleaning​
@@ -124,11 +123,9 @@
 装飾品  そうしょくひん
 安上がり    安上り  やすあがり  cheap; economical​
 純朴    じゅんぼく
-風情    ふぜい
 酵母菌  こうぼきん
 昆布茶  こぶちゃ
 ひょいパク    一口大の食品をひょいっとつまんで、パクッと食べる様。ある家庭においては標準的に口語として用いられる
-平らげる    たいらげる  to eat up (completely)​
 志す    こころざす
 お冠    御冠    おかんむり  bad temper; bad mood
 喧しい  やかましい  noisy; loud; clamorous; boisterous​
@@ -151,7 +148,6 @@
 そわそわ    restlessly; nervously; uneasily; in a fidget​
 尋常    じんじょう
 吐露    とろ
-おずおず    timidly; nervously; with nervous diffidence; trembling with fear
 明かりを消す    灯りを消す  あかりをけす    to turn the lights off​
 導く    みちびく
 胡座をかく  胡坐をかく  あぐらをかく    to sit cross-legged
@@ -164,7 +160,6 @@
 見栄    みえ    airs; pretensions; show; ostentation; display; appearance; vanity; charm
 前髪    まえがみ
 呆ける  惚ける  ぼける
-瑞々しい    みずみずしい
 貪る    むさぼる
 戯ける  たわける
 血祭り  ちまつり
@@ -172,7 +167,6 @@
 穿つ    うがつ
 背骨    せぼね
 酸欠    さんけつ    oxygen deficiency; oxygen shortage; lack of oxygen​
-にやける    to break into a smile; to grin​
 ぺたぺた    sticky
 
 ２
@@ -184,7 +178,6 @@
 斟酌    しんしゃく  consideration (for others); (making) allowance​
 強盗    ごうとう
 人だかり    ひとだかり  crowd; throng​
-丹精を込める    たんせいをこめる    to take pains (doing something); to take great care​
 白菜    はくさい
 盗む    偸む    ぬすむ
 ペコペコ    ぺこぺこ    fawning; bowing and scraping; being obsequious; being servile; kowtowing; bowing repeatedly; cringing​
@@ -196,7 +189,6 @@
 引っこ抜く  ひっこぬく
 極限    きょくげん
 金利    きんり  interest rate; interest​
-おずおず    timidly; nervously; with nervous diffidence; trembling with fear​
 手間暇  手間ひま    手間隙  てまひま    time and effort; trouble​
 麦茶    むぎちゃ
 気品    きひん
@@ -344,7 +336,6 @@
 指す    さす
 塗りつぶす  塗り潰す    ぬりつぶす  to paint over; to paint out; to fill in; to cover completely
 拗ねる  すねる
-号泣    ごうきゅう
 奇行    きこう
 倫理    りんり
 装う    よそおう
@@ -431,7 +422,6 @@
 さめざめ    sorrowfully; anguishedly
 ぐうたら    ぐーたら    のんびり、ぐずぐずしていて、働かないさま
 圧迫感  あっぱくかん
-ぎこちない  awkward; clumsy; stiff; crude; unrefined; constrained
 こなれる    to be digested​     to master (a skill); to be proficient   to mature (e.g. personality); to mellow​
 強いて  しいて  by force​
 沼  ぬま
@@ -561,7 +551,6 @@
 忌憚    きたん  reserve; modesty​
 花丸    はなまる    encircled flower seal (equiv. of a gold star awarded to children for good work at school)​
 暴論    ぼうろん    irrational (line of) argument​
-最早    もはや
 形容    けいよう
 生ぬるい    生温い  なまぬるい  lukewarm; tepid​
 奇抜    きばつ

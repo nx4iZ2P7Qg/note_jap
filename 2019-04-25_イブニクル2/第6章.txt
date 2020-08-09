@@ -119,7 +119,6 @@
 繁繁    繁々    しげしげ    frequently; often​
 タブレット  tablet; pill​
 不吉    ふきつ
-逡巡    しゅんじゅん    hesitation; indecision​
 団扇    うちわ
 下敷き  下敷    したじき    desk pad; sheet of plastic (or cardboard, felt, etc.) placed under writing paper; underlay​
 
@@ -163,7 +162,6 @@
 増幅    ぞうふく
 始皇帝  しこうてい
 メガトンキッス  演劇
-代物    しろもの    article; goods; product​
 
 冒頭    ぼうとう    beginning; start; outset​
 見取り図    見取図  みとりず    rough sketch​
@@ -290,7 +288,6 @@
 種付け  たねつけ
 
 数多    あまた  many; a lot; much; multitude​
-童貞    どうてい
 不本意  ふほんい    reluctant; unwilling; involuntary; unintentional; unintended; unlooked-for; disappointing
 キリリ  きりり  小気味好く引き締まった様子など
 兼ね備える  かねそなえる    to have both; to possess both; to combine with​
@@ -304,7 +301,6 @@
 
 うんともすんとも    without (uttering) a single word; without (giving) even the slightest response​
 あり得ない  有り得ない  ありえない  impossible; unlikely; improbable
-関わる  係わる  拘わる  かかわる
 幻覚剤  げんかくざい
 貫通    かんつう
 ナイスバディ    attractive body; nice-looking body​
@@ -330,7 +326,6 @@
 醍醐味  だいごみ    the real pleasure (of something); the real thrill; the true charm​
 解す    ほぐす
 心境    しんきょう
-せざるを得ない  せざるをえない  cannot avoid doing; cannot help but (do); is compelled to do; (feel) obliged to (do); has to do​
 輪郭    りんかく
 掻き混ぜる  かきまぜる
 塗りこむ    塗り込む    ぬりこむ
@@ -338,7 +333,6 @@
 折り曲げる  おりまげる
 濁る    にごる
 お待ちかね  お待ち兼ね  おまちかね  long-awaited; long-waited-for
-ぶんぶん    ブンブン    buzz; hum​      shake; shaking​
 将又    はたまた    or​
 気丈    きじょう
 縮こまる    ちぢこまる  to curl oneself up; to squeeze oneself in; to be huddled​
@@ -361,7 +355,6 @@
 訝しげ  いぶかしげ
 ほんのり    slightly; faintly
 眩しい  まぶしい
-そそり立つ  そそりたつ  to rise (steeply); to tower; to soar​
 ぐんぐん    rapidly; vigorously; by leaps and bounds; steadily​
 
 激昂    激高    げっこう
@@ -432,7 +425,6 @@
 統制    とうせい
 
 介錯    かいしゃく  beheading (as the ending to a seppuku)​
-蔑む    さげすむ
 脅す    おどす
 疑わしい    うたがわしい
 課す    かす

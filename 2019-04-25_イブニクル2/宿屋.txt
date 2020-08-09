@@ -1,5 +1,4 @@
 「ふぅ一、この宿屋のご飯、中々手間がかけられていて美味しかったな」
-    手間          てま          劳力和时间，工夫；工钱
 「あ、ああ、そうだな......」
 （あ、ああ......この部屋で朝までアレクと......）
 「そ、その......部屋を分けなくても良かったのかな、男女同衾なんて不健全というか……」
@@ -51,7 +50,6 @@
 「ああ......湯上がりカノもいいなぁ……」
     湯上がり            ゆあがり            浴后穿的单衣
 「こ、こら、匂いを嗅ぐんじゃない！」
-    嗅ぐ          かぐ
 ......
 「ほら、カノ。そろそろ起きないと、朝ご飯を食べ損ねるぞ～」
     損ねる           そこねる          没成功，失败。失去机会
@@ -121,12 +119,10 @@
     一品            いっぴん            ひとしな
     鍋          なべ
     板前            いたまえ            chef (esp. of high-end Japanese cuisine); cook
-    こだわり            拘り            obsession
     うま味          旨み            旨味            good flavor (flavour); good taste; deliciousness​
 「せめてこれを食べて行ってもらわないと、宿の沽券に関わるとかなんとか……」
     沽券            こけん          dignity; credit; public estimation; face; honor; reputation​
 朝からアレク達は鍋をぺろりとたいらげ、大満足で宿を発った。
-    たいらげる          平らげる            to eat up (completely)​
     立つ            発つ            たつ
 
 『街』ホワイト
@@ -185,7 +181,6 @@
 纏う    まとう
 おねしょ    bed-wetting
 言動    げんどう    speech and conduct; words and deeds​
-二日酔い    二日酔  ふつかよい  hangover​
 きょとん    (looking) blankly; vacantly; dazedly; (staring) in puzzlement; with a look of amazement​
 
 「街」セキシキ
@@ -215,7 +210,6 @@
 悪党    あくとう    scoundrel; rascal; villain​
 
 「街」　エス
-亭主    ていしゅ    household head; master
 未来永劫    みらいえいごう
 
 「街」　ブルーサークル

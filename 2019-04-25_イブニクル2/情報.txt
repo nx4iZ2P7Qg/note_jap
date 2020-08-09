@@ -124,7 +124,6 @@
     所得            しょとく            income; earnings​
 アレクは貧しい街で暮らす女の子の逞しい一面を見たのだった。
     貧しい          まずしい
-    逞しい          たくましい
 
 四季    しき
 風光明媚    ふうこうめいび
@@ -179,8 +178,6 @@
 洋梨    洋ナシ  ようなし    European pear
 帰依    きえ    becoming a devout believer; (religious) conversion​
 華麗    かれい
-
-費やす  ついやす
 
 黙想    もくそう    meditation; silent contemplation​
 
