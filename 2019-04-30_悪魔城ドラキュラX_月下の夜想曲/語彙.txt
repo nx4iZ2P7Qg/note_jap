@@ -1,0 +1,179 @@
+アルーカド
+ドラキュラ
+リヒター
+マリア·ラーネッド   Maria Renard
+デス                Death
+ヴァンバイア        Vampire
+ヴァルマンウェ
+ようとうむらまさ
+オリハルコン
+メディウサ          Medusa
+ホーリー
+ソード
+バスター            buster
+グラム              Gram
+まさむね
+シールド            shield
+ナイト              knight
+アイアン            iron
+ダーク              dark
+アックス            axe
+アーマー            armor
+ダンス              dance
+マスク              mask
+メイル              mail
+ぎん（銀）          silver          シルバー
+チェスト            chest
+きん（金）          gold            ゴールド
+プラチナ            platinum
+スパイク            spike
+ブレイカ            breaker
+ゴッド              god
+ウォーク            walk
+マスター            master
+エルフ              elf
+ローブ              robe
+クロス              cloth
+ブルー              blue
+オーダー            order
+メイド              made
+ダイアモンド        diamond
+ガントレット        gauntlet
+キング              king
+ストーン            stone
+サン                sun
+モーン              moon
+シークレット        secret
+タリスマン          talisman
+デュプリケーター    duplicator
+ネックレス          necklace
+ハート              heart
+ブラッド            blood
+ペンダント          pendant
+メダル              medal
+レア                rare
+リング              ring
+カプセル            capsule
+ナイフ              knife
+マジック            magic
+マジカル            magical
+ミサイル            missile
+ボム                bomb
+コイン              coin
+アタック            attack
+ポーション          potion
+イクスポーション    Ex.potion
+リペア              repair
+ハイ                high
+ハンマー            hammer
+レジスト            resist
+アイス              ice
+サンダー            thunder
+ファイア            fire
+ランチ              lunch
+クラーム            cream
+ライス              rice
+ショート            short
+ケーキ              cake
+ターキー            turkey
+チーズ              cheese
+パイナップル        pineapple
+バナナ              banana
+ピーナッツ          peanuts
+ビーフ              beef
+ビール              beer
+ピザ                pizza
+ミート              meat
+モーニング          morning
+セット              set
+ワイン              wine
+ソウル              soul
+オブ                of
+バット              bat
+エコー              echo
+クレイジー          crazy
+ウルフ              wolf
+パワー              power
+スキル              skill
+ミスト              mist
+ガス                gas
+クラウド            cloud
+キューブ            cube
+ブーツ              boots
+ジュエル            jewel
+ゴースト            ghost
+レッド              red
+スケルトン          skeleton
+スピン              spin
+ヘッド              head
+ゾンビ              zombie
+ウォーター          water
+ビースト            beast
+ソルジャー          soldier
+テーブル            table
+サブ                sub
+デビル              evil
+スカル              どくろ          髑髏            skull
+トード              toad
+グレート            great
+スケルトン          skeleton
+ぶどう              grape
+いちご              strawberry
+ガン                gun
+マン                man
+デビル              devil
+アーチャー          archer
+テイル              tail
+エイプ              ape
+ふくろう            owl
+ヴィクトリー        victory
+アンカース          uncurse
+ブルー              blue
+レイピア            rapier
+フロッグ            frog
+フローズン          frozen
+シェイド            shade
+アイスクリーム      ice cream
+スター              star
+ブラック            black
+クロウ              crow
+バスタード          bastard
+スピア              spear
+スライム            Slime
+ビッグ              big
+ウェアウルフ        werewolf
+グレイブ            grave
+りんご              apple
+デッド              dead
+ガーデナー          gardener
+フィッシュ          fish
+ヘブンズ            heaven
+デーモン            demon
+コンバット          combat
+ラージ              large
+ディスク            disk
+ケルベロス          Cerberus
+すし
+カタナ
+スケアクロウ        Scarecrow
+ライオン            lion
+ラーメン
+ボーイ              boy
+バルーン            balloon
+カッバー            copper
+レイス              wraith
+スロー              throw
+ソニック            sonic
+ブレード            blade
+ダブル              double
+ホライト            white
+ドラゴン            dragon
+スナイパー          sniper
+ロック              rock
+ガーディアン        guardian
+フレイム            flame
+エビル              evil
+インプ              imp
+フェイク            fake
+イフリート          Ifrit
+氷の剣              こおりのけん    アイスソード
