@@ -1,188 +1,217 @@
-日语输入法的输入规则简略如下表：
-
-清音
- 
-や	ya	ゐ	wi	ゆ	yu	ゑ	we	よ	yo
-
-浊音
- 
-ざ	za	じ	ji	ず	zu	ぜ	ze	ぞ	zo
-だ	da	ぢ	di	づ	du	で	de	ど	do
-
-其他
-
-诸如てゃ、てぃ（ティ）、てゅ，可输入tha、thi、thu。
-
-请参照最后：罗马字和假名输入完全对应表
+Space   变换汉字
+Tab     变换字典汉字
 
 
-
-4）促音输入
-单词中输入促音也就是小っ，方式有两种：
-① 双重输入后一发音的第一个字母后，会出现促音，比如：切符，きっぷ kippu、学校 がっこう gakkou
-② 单独输入小っ的时候可以使用直接输入ltu或者xtu
-
-5）小ぁぃぅぇぉ
-其他小假名的输入方式和上面②里面说明的相同，只要在前面加上x或l就可以变成小假名（没有小假名的除外）。
-比如：输入字母“l”或“x”+a、i、u、e、o，输入la得到ぁ，输入xa也得到ぁ，输入li得到ぃ。
-
-6）ぢ和づ的输入
-ぢ读音为ji，但在输入时应该输入di。
-づ读音为zu，但在输入时应该输入du。
-
-8）古语假名ゐ和ゑ的输入
-ゐ输入wi
-ゑ输入we
-然后按空格键寻找就可以了。
-
-9）平假名、片假名、英数字间的转换
-输入罗马字之后
-按F6转换为平假名
-按F7转换为全角片假名
-按F8转换为半角片假名
-按F9转换为全角英文数字
-按F10转换为半角英文数字。
-
-10）快捷键
-① 快捷键Alt + ~（Esc键下边的那个键）
-可以在直接输入Direct Input（图标A）和平假名Hiragana（图标あ）间切换
-
-③ 快捷键Alt +CapsLock 和Ctrl + CapsLock
-输大量片假名时，在平假名Hiragana（图标あ）模式下
-按Alt +CapsLock切换到片假名Katakana（图标カ）模式
-输完按CTRL+CAPSLOCK可切回平假名Hiragana（图标あ）。
+促音输入
+切符    きっぷ      kippu
+学校    がっこう    gakkou
+っ  ltu xtu
 
 
+々  おなじ
 
 
 
 
 罗马字和假名输入完全对应表
 
-如下所示：
-
 あ行
 
- 	あ	い	う	え	お	 	ぁ	ぃ	ぅ	ぇ	ぉ
- 	a	i	u	e	o	 	la	li	lu	le	lo
- 	 	yi	wu	 	 	 	xa	xi	xu	xe	xo
- 	 	 	whu	 	 	 	 	lyi	 	lye	 
- 	 	 	 	 	 	 	 	xyi	 	xye	 
- 	 	 	 	 	 	 	 	いぇ	 	 	 
- 	 	 	 	 	 	 	 	ye	 	 	 
- 	 	 	 	 	 	 	うぁ	うぃ	 	うぇ	うぉ
- 	 	 	 	 	 	 	wha	whi	 	whe	who
- 	 	 	 	 	 	 	 	wi	 	we	 
- 
+    あ      い      う      え      お          ぁ      ぃ      ぅ      ぇ      ぉ
+    a       i       u       e       o           la      li      lu      le      lo
+            yi      wu                          xa      xi      xu      xe      xo
+                    whu                                 lyi             lye
+                                                        xyi             xye
+
+                                                                        いぇ
+                                                                        ye
+
+                                                うぁ    うぃ            うぇ    うぉ
+                                                wha     whi             whe     who
+                                                        wi              we
+
 
 か行
 
- 	か	き	く	け	こ	 	きゃ	きぃ	きゅ	きぇ	きょ
- 	ka	ki	ku	ke	ko	 	kya	kyi	kyu	kye	kyo
- 	ca	 	cu	 	co	 	 	 	 	 	 
- 	 	 	qu	 	 	 	 	 	 	 	 
- 	 	 	 	 	 	 	くゃ	 	くゅ	 	くょ
- 	ヵ	 	 	ヶ	 	 	qya	 	qyu	 	qyo
- 	lka	 	 	lke	 	 	くぁ	くぃ	くぅ	くぇ	くぉ
- 	xka	 	 	xke	 	 	qwa	qwi	qwu	qwe	qwo
- 	 	 	 	 	 	 	qa	qi	 	qe	qo
- 	 	 	 	 	 	 	kwa	qyi	 	qye	 
- 	が	ぎ	ぐ	げ	ご	 	ぎゃ	ぎぃ	ぎゅ	ぎぇ	ぎょ
- 	ga	gi	gu	ge	go	 	gya	gyi	gyu	gye	gyo
- 	 	 	 	 	 	 	ぐぁ	ぐぃ	ぐぅ	ぐぇ	ぐぉ
- 	 	 	 	 	 	 	gwa	gwi	gwu	gwe	gwo
- 
+    か      き      く      け      こ          きゃ    きぃ    きゅ    きぇ    きょ
+    ka      ki      ku      ke      ko          kya     kyi     kyu     kye     kyo
+    ca              cu              co
+                    qu
+
+    ヵ                      ヶ                  くゃ            くゅ            くょ
+    lka                     lke                 qya             qyu             qyo
+    xka                     xke
+
+                                                くぁ    くぃ    くぅ    くぇ    くぉ
+                                                qwa     qwi     qwu     qwe     qwo
+                                                qa      qi              qe      qo
+                                                kwa     qyi             qye
+
+    が      ぎ      ぐ      げ      ご          ぎゃ    ぎぃ    ぎゅ    ぎぇ    ぎょ
+    ga      gi      gu      ge      go          gya     gyi     gyu     gye     gyo
+
+                                                ぐぁ    ぐぃ    ぐぅ    ぐぇ    ぐぉ
+                                                gwa     gwi     gwu     gwe     gwo
+
 
 さ行
 
- 	さ	し	す	せ	そ	 	しゃ	しぃ	しゅ	しぇ	しょ
- 	sa	si	su	se	so	 	sya	syi	syu	sye	syo
- 	 	ci	 	ce	 	 	sha	 	shu	she	sho
- 	 	shi	 	 	 	 	 	 	 	 	 
- 	 	 	 	 	 	 	すぁ	すぃ	すぅ	すぇ	すぉ
- 	 	 	 	 	 	 	swa	swi	swu	swe	swo
- 	ざ	じ	ず	ぜ	ぞ	 	じゃ	じぃ	じゅ	じぇ	じょ
- 	za	zi	zu	ze	zo	 	zya	zyi	zyu	zye	zyo
- 	 	ji	 	 	 	 	ja	 	ju	je	jo
- 	 	 	 	 	 	 	jya	jyi	jyu	jye	jyo
- 
+    さ      し      す      せ      そ          しゃ    しぃ    しゅ    しぇ    しょ
+    sa      si      su      se      so          sya     syi     syu     sye     syo
+            ci              ce                  sha             shu     she     sho
+            shi
+
+                                                すぁ    すぃ    すぅ    すぇ    すぉ
+                                                swa     swi     swu     swe     swo
+
+    ざ      じ      ず      ぜ      ぞ          じゃ    じぃ    じゅ    じぇ    じょ
+    za      zi      zu      ze      zo          zya     zyi     zyu     zye     zyo
+            ji                                  ja              ju      je      jo
+                                                jya     jyi     jyu     jye     jyo
+
 
 た行
 
- 	た	ち	つ	て	と	 	ちゃ	ちぃ	ちゅ	ちぇ	ちょ
- 	ta	ti	tu	te	to	 	tya	tyi	tyu	tye	tyo
- 	 	chi	tsu	 	 	 	cha	 	chu	che	cho
- 	 	 	 	 	 	 	cya	cyi	cyu	cye	cyo
- 	 	 	っ	 	 	 	つぁ	つぃ	 	つぇ	つぉ
- 	 	 	ltu	 	 	 	tsa	tsi	 	tse	tso
- 	 	 	xtu	 	 	 	 	 	 	 	 
- 	 	 	ltsu	 	 	 	てゃ	てぃ	てゅ	てぇ	てょ
- 	 	 	 	 	 	 	tha	thi	thu	the	tho
- 	 	 	 	 	 	 	とぁ	とぃ	とぅ	とぇ	とぉ
- 	 	 	 	 	 	 	twa	twi	twu	twe	two
- 	だ	ぢ	づ	で	ど	 	ぢゃ	ぢぃ	ぢゅ	ぢぇ	ぢょ
- 	da	di	du	de	do	 	dya	dyi	dyu	dye	dyo
- 	 	 	 	 	 	 	でゃ	でぃ	でゅ	でぇ	でょ
- 	 	 	 	 	 	 	dha	dhi	dhu	dhe	dho
- 	 	 	 	 	 	 	どぁ	どぃ	どぅ	どぇ	どぉ
- 	 	 	 	 	 	 	dwa	dwi	dwu	dwe	dwo
- 
+    た      ち      つ      て      と          ちゃ    ちぃ    ちゅ    ちぇ    ちょ
+    ta      ti      tu      te      to          tya     tyi     tyu     tye     tyo
+            chi     tsu                         cha             chu     che     cho
+                                                cya     cyi     cyu     cye     cyo
+
+                    っ                          つぁ    つぃ            つぇ    つぉ
+                    ltu                         tsa     tsi             tse     tso
+                    xtu
+                    ltsu
+
+                                                てゃ    てぃ    てゅ    てぇ    てょ
+                                                tha     thi     thu     the     tho
+
+                                                とぁ    とぃ    とぅ    とぇ    とぉ
+                                                twa     twi     twu     twe     two
+
+    だ      ぢ      づ      で      ど          ぢゃ    ぢぃ    ぢゅ    ぢぇ    ぢょ
+    da      di      du      de      do          dya     dyi     dyu     dye     dyo
+
+                                                でゃ    でぃ    でゅ    でぇ    でょ
+                                                dha     dhi     dhu     dhe     dho
+
+                                                どぁ    どぃ    どぅ    どぇ    どぉ
+                                                dwa     dwi     dwu     dwe     dwo
+
 
 な行
 
- 	な	に	ぬ	ね	の	 	にゃ	にぃ	にゅ	にぇ	にょ
- 	na	ni	nu	ne	no	 	nya	nyi	nyu	nye	nyo
- 
+    な      に      ぬ      ね      の          にゃ    にぃ    にゅ    にぇ    にょ
+    na      ni      nu      ne      no          nya     nyi     nyu     nye     nyo
+
 
 は行
 
- 	は	ひ	ふ	へ	ほ	 	ひゃ	ひぃ	ひゅ	ひぇ	ひょ
- 	ha	hi	hu	he	ho	 	hya	hyi	hyu	hye	hyo
- 	 	 	fu	 	 	 	 	 	 	 	 
- 	 	 	 	 	 	 	ふゃ	 	ふゅ	 	ふょ
- 	 	 	 	 	 	 	fya	 	fyu	 	fyo
- 	 	 	 	 	 	 	ふぁ	ふぃ	ふぅ	ふぇ	ふぉ
- 	 	 	 	 	 	 	fwa	fwi	fwu	fwe	fwo
- 	 	 	 	 	 	 	fa	fi	 	fe	fo
- 	 	 	 	 	 	 	 	fyi	 	fye	 
- 	ば	び	ぶ	べ	ぼ	 	びゃ	びぃ	びゅ	びぇ	びょ
- 	ba	bi	bu	be	bo	 	bya	byi	byu	bye	byo
- 	 	 	 	 	 	 	ヴぁ	ヴぃ	ヴ	ヴぇ	ヴぉ
- 	 	 	 	 	 	 	va	vi	vu	ve	vo
- 	 	 	 	 	 	 	ヴゃ	ヴぃ	ヴゅ	ヴぇ	ヴょ
- 	 	 	 	 	 	 	vya	vyi	vyu	vye	vyo
- 	ぱ	ぴ	ぷ	ぺ	ぽ	 	ぴゃ	ぴぃ	ぴゅ	ぴぇ	ぴょ
- 	pa	pi	pu	pe	po	 	pya	pyi	pyu	pye	pyo
- 
+    は      ひ      ふ      へ      ほ          ひゃ    ひぃ    ひゅ    ひぇ    ひょ
+    ha      hi      hu      he      ho          hya     hyi     hyu     hye     hyo
+                    fu
+                                                ふゃ            ふゅ            ふょ
+                                                fya             fyu             fyo
+
+                                                ふぁ    ふぃ    ふぅ    ふぇ    ふぉ
+                                                fwa     fwi     fwu     fwe     fwo
+                                                fa      fi              fe      fo
+                                                        fyi             fye
+
+    ば      び      ぶ      べ      ぼ          びゃ    びぃ    びゅ    びぇ    びょ
+    ba      bi      bu      be      bo          bya     byi     byu     bye     byo
+
+                                                ヴぁ    ヴぃ    ヴ      ヴぇ    ヴぉ
+                                                va      vi      vu      ve      vo
+
+                                                ヴゃ    ヴぃ    ヴゅ    ヴぇ    ヴょ
+                                                vya     vyi     vyu     vye     vyo
+
+    ぱ      ぴ      ぷ      ぺ      ぽ          ぴゃ    ぴぃ    ぴゅ    ぴぇ    ぴょ
+    pa      pi      pu      pe      po          pya     pyi     pyu     pye     pyo
+
 
 ま行
 
- 	ま	み	む	め	も	 	みゃ	みぃ	みゅ	みぇ	みょ
- 	ma	mi	mu	me	mo	 	mya	myi	myu	mye	myo
- 
+    ま      み      む      め      も          みゃ    みぃ    みゅ    みぇ    みょ
+    ma      mi      mu      me      mo          mya     myi     myu     mye     myo
+
 
 や行
 
- 	や	 	ゆ	 	よ	 	ゃ	 	ゅ	 	ょ
- 	ya	 	yu	 	yo	 	lya	 	lyu	 	lyo
- 	 	 	 	 	 	 	xya	 	xyu	 	xyo
- 
+    や              ゆ              よ          ゃ              ゅ              ょ
+    ya              yu              yo          lya             lyu             lyo
+                                                xya             xyu             xyo
+
 
 ら行
 
- 	ら	り	る	れ	ろ	 	りゃ	りぃ	りゅ	りぇ	りょ
- 	ra	ri	ru	re	ro	 	rya	ryi	ryu	rye	ryo
- 
+    ら      り      る      れ      ろ          りゃ    りぃ    りゅ    りぇ    りょ
+    ra      ri      ru      re      ro          rya     ryi     ryu     rye     ryo
+
 
 わ行
 
- 	わ	 	 	 	を	 	ん	 	 	 	 
- 	wa	 	 	 	wo	 	n	 	 	 	 
- 	 	 	 	 	 	 	nn	 	 	 	 
- 	ゎ	 	 	 	 	 	n'	 	 	 	 
- 	lwa	 	 	 	 	 	xn	 	 	 	 
- 	xwa	 	 	 	 	 	 	 	 	 	 
+    わ                              を          ん
+    wa                              wo          n
+                                                nn
+    ゎ                                          n'
+    lwa                                         xn
+    xwa
 
 
-备注：
- 日语常用符号，如果不知道时，可以打【キゴウ】后在列表中选择
+            ゐ              ゑ
+            wi              we
+
+
+
+
+常用符号
+    输入 きごう，空格，空格，tab，可以以列表的方式选择常用符号
+    同上操作
+    たんい      单位
+    すうがく    数学符号
+    ぎりしゃ    希腊字母
+
+
+微软日语输入法快捷键
+
+没有确认到出处
+Ctrl + CapsLock     平假名
+Shift + CapsLock    片假名，英数
+Alt + ~             当前假名，英数
+Alt + CapsLock      片假名
+
+在输入法设置 General -> Editing operation and behavior -> Advanced 中可以看到全部
+以下只摘录重要的，按列分开
+
+No input/Converted strings
+无输入/
+=======================================
+Ctrl + F7       添加词条对话框
+Ctrl + F10      菜单
+
+Only Input strings
+=======================================
+
+Converted
+=======================================
+
+showing Candidate List
+显示候选列表
+=======================================
+Ctrl + Del      删除备选词条
+
+Changing POS boundary
+=======================================
+
+Char Input into Converted POS
+=======================================
+
+跨列功能相同
+F5                  打开 pad 选字造字   输入くるま，按 F5 可以找到　車 偏旁的汉字
+F6                  平假名，多次输入出现平片混合
+F7                  片假名，多次输入出现平片混合
+F8                  片假名，半宽，多次输入出现平片混合
+F9                  全宽英文数字
+F10                 半宽英文数字
+
